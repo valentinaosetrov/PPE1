@@ -4,3 +4,5 @@ creation du compte github, création de PP1, création du journal de bord, fonct
 
 ## Cours 05 oct 22
 accès au cours sur icampus; une issue avec le lien de mon dépôt créée sur le git du cours; création de la paire clé publique/privée qui est ajouté à GitHub; fonctions git : reset, revert, commit. + recherche groupe/mot pour le projet
+
+## Cours 12 oct 22
