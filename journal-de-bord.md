@@ -18,6 +18,6 @@ on a travaillé sur HTML et je n'ai pas eu de difficultés à reproduire les exe
 
 ## Cours 09 nov 22
 Pendant le cours j'ai créée ma première page (https://valentinaosetrov.github.io/PPE1/), je n'ai eu aucun problème pour le faire !
-J'ai commencé l'exercice sur le traitement des URLs j'ai réussi à corriger le script 
+J'ai commencé l'exercice sur le traitement des URLs
 
 ## Cours 16 nov 22
