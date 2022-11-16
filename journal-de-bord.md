@@ -14,10 +14,13 @@ Nous avons choisi le mot geek (choix validé par le prof). Le prof nous a propos
 Introduction HTML, exercice d'essaie (exemple Wikipedia)
 
 ## Cours 26 oct 22
-on a travaillé sur HTML et je n'ai pas eu de difficultés à reproduire les exemples vu en cours
+
 
 ## Cours 09 nov 22
 Pendant le cours j'ai créée ma première page (https://valentinaosetrov.github.io/PPE1/), je n'ai eu aucun problème pour le faire !
 J'ai commencé l'exercice sur le traitement des URLs
 
 ## Cours 16 nov 22
+Aujourd'hui les profs nous ont présenté la librairie Bulma CSS qui permet de styliser du HTML plus facilement et d'améliorer le visuel de nos sites.
+Après j'ai travaillé encore sur l'exercice de la semaine dernière (script pour le traitement des URLs) j'ai réussi à le finir et mon script marche bien.  En ce qui concerne les codes HTTP de mes URLs (ceux que j'ai listé pour ma partie du projet de groupe) preque tous ont le code 200 (requête réussie) sauf un seul lien qui a le code 406 (code non acceptable). Ensuite j'ai posé la question au prof par rapport aux formes du mot sur lequel j'ai le droit de travailler (pour le projet de groupe), comme en serbe le mot geek s'écrit à la fois "gik" (transcription) et "geek" (emprunt) je vais faire une regex pour regrouper les formes que j'ai trouvé. Pareil pour "nerd" (qui s'accorde en genre et en nombre en serbe).
+j'ai fait des push pour mettre à jour mon git.
