@@ -1,357 +1,419 @@
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-57C3Z5R
-
-   [maturang_tekst.png]
-   Preuzmi IOS aplikaciju Preuzmi android aplikaciju Preuzmi huawei
-   aplikaciju
-   Oglasite se kod nas
-   Prijemni.rs
-   Maturang
-   (BUTTON) Toggle navigation
-     * Šta da upišem?
-          + Fakulteti, visoke i srednje škole
-               o Osnovne studije
-               o Postdiplomske studije
-               o Srednje škole
-          + Vrste studija
-          + Ko je akreditovan?
-          + Statistika istraživanja za 2021. godinu
-          + Statistika istraživanja za 2019. godinu
-          + Profesionalna orijentacija
-          + Pogledi na studije
-          + Tražena zanimanja
-          + Šta su studirali poznati
-               o Traži po fakultetu/školi
-               o Traži po prezimenu
-     * Prijemni ispit
-          + Pripreme za prijemni
-          + Testovi sa prošlogodišnjih ispita
-          + UČESTVUJ U ISTRAŽIVANJU
-          + Onlajn testiranje za prijemni
-          + Iskustva sa prošlogodišnjih prijemnih ispita
-          + Saveti za polaganje prijemnog
-          + Upisne kvote
-               o Prvi upisni rok 2018
-               o Drugi upisni rok 2017
-               o Prvi upisni rok 2017
-               o Drugi upisni rok 2016
-               o Prvi upisni rok 2016
-               o Drugi upisni rok 2015
-               o Prvi upisni rok 2015
-          + Termini ispita i upisa
-               o Prvi upisni rok 2018/2019
-               o Drugi upisni rok 2017/2018
-               o Prvi upisni rok 2017/2018
-               o Drugi upisni rok 2016/2017
-               o Prvi upisni rok 2016/2017
-               o Drugi upisni rok 2015/2016
-               o Prvi upisni rok 2015/2016
-          + Rezultati prijemnog ispita
-               o Prvi upisni rok 2018/2019
-               o Drugi upisni rok 2017/2018
-               o Prvi upisni rok 2017/2018
-               o Drugi upisni rok 2016/2017
-               o Prvi upisni rok 2016/2017
-               o Drugi upisni rok 2015/2016
-               o Prvi upisni rok 2015/2016
-          + Statistika prethodnih upisa
-               o Prvi upisni rok 2018/2019
-               o Drugi upisni rok 2017/2018
-               o Prvi upisni rok 2017/2018
-               o Drugi upisni rok 2016/2017
-               o Prvi upisni rok 2016/2017
-               o Drugi upisni rok 2015/2016
-               o Prvi upisni rok 2015/2016
-          + Kalkulator za broj poena na prijemnom
-     * Stipendije
-     * Šta treba da znam?
-          + Odredbe konkursa za upis studija
-          + Prava i obaveze studenata
-          + Bolonjska deklaracija
-          + Zakon i drugi dokumenti
-          + Saveti uspešnih
-          + Odredbe konkusa za upis u prvu godinu studija
-          + Studentski krediti
-          + Suština i pristup stipendiranja
-     * Studentski život
-          + Vesti o studiranju
-          + Centar za razvoj karijere
-          + Rečnik za brucoše
-          + Studentski domovi i menze
-          + Kako iznajmiti stan
-          + Saveti studenata
-          + Srednjoškolci pišu
-     * Inostranstvo
-          + Studiranje u inostranstvu
-          + Iskustva studenata iz inostranstva
-     * Saveti za polaganje prijemnog
-     * Programi za srednjoškolce
-
-    1. Naslovna
-    2. Prijemni ispit
-    3. Saveti za polaganje prijemnog
-    4. Webinar – učenje preko Interneta
-
-     *
-
-Webinar – učenje preko Interneta
-       Tweet
-
-   Poslednjih godina, gotovo sve edukativne organizacije u svetu nude
-   webinare - seminare preko Veba (bilo plaćene, bilo besplatne). Svako od
-   nas, preko svog umreženog računara, ima pristup tom sadržaju - ako
-   razume jezik na kom se održavaju. Ali, sada možemo da učimo uživo preko
-   Interneta i na našem jeziku. Vebinari su postali ravnopravan deo ponude
-   na našem tržištu obuke.
-
-   Neke strane kompanije već preko Neta obučavaju zaposlene u svojim
-   domaćim ispostavama, a učestali su i oglasi za javne vebinare domaćih
-   profesionalnih edukatora. Vebinar je kraći, jednostavniji i
-   ekonomičniji vid obuke nego celodnevni grupni treninzi na posebnoj
-   lokaciji. Stoga učenje putem vebinara ima nesumnjive prednosti,
-   naročito u vreme smanjenih budžeta za edukaciju.
-
-   Kome su vebinari namenjeni?
-
-   Učesnici vebinara ne moraju da budu 'kompjuteraši', 'gikovi', niti
-   hakeri, već samo prosečni korisnici računara. Svako ko ume da koristi
-   e-poštu i da obiđe svoje omiljene veb stranice, može bez ikakvih
-   teškoća da učestvuje u vebinaru.
-
-   Webinar-učenje preko interneta Koje načine prenosa sadržaja obuke
-   omogućuje vebinar?
-
-   Softveri koji se u svetu koriste za vebinare prvenstveno omogućuju
-   održavanje sastanaka i konferencija, pa utoliko služe i za onlajn
-   predavanja. Njihov smisao je dakle da omoguće interakciju učesnika, a
-   ne monolog predavača. Stoga najbolji softveri sadrže veoma raznovrsne
-   elemente:
-     * Prenos prezentacije uživo - kretanje napred i nazad kroz slajdove,
-       duže zadržavanje na svakom slajdu ili preskakanje slajdova prema
-       potrebi;
-     * prenos uživo audio/video signala, najčešće jednog ili dva
-       govornika, koje učesnici jasno vide na svojim monitorima, putem veb
-       kamere ili digitalne kamere sa zvukom;
-     * prenos glasa (glasova) preko Interneta (VoIP) ili telefonska
-       konferencija sa više učesnika;
-     * grupni obilazak veb stranica i interakcija na njima - popunjavanje
-       obrazaca, gledanje videa, čak i igranje igrica itd.;
-     * ankete i glasanja
-     * grupni rad "na tabli"  - na praznoj površini, na kojoj svi učesnici
-       mogu da pišu ili crtaju po želji;
-     * razmena i grupno anotiranje dokumenata;
-     * grupni pristup jednom desktopu - obično predavačevom;
-     * četovanje (chat) - privatno (između dva učesnika) ili javno (za sve
-       učesnike);
-     * delegiranje uloge predavača/voditelja drugom učesniku;
-     * audio/vizuelni snimak održane sesije.
-
-   Šta su prednosti vebinara?
-
-   Učenje putem vebinara je veoma ekonomično.  Ušteda i vremena je velika
-   - polaznik odvaja najviše sat ili dva na sesiju, a može da se uključi u
-   vebinar između svojih redovnih obaveza, ne napuštajući svoj računar. Ne
-   odvaja ni vreme, a ni troškove na odlazak do obuke, odnosno povratak s
-   nje. Kako su vebinari znatno kraći nego celodnevna obuka, i njihova
-   cena je srazmerno niža od cene klasične obuke (koja iziskuje salu,
-   opremu, osveženja u pauzama i slično).
-
-   Učenje putem vebinara je i jednostavno i udobno - polaznik može da
-   boravi na bilo kom mestu na kom ima pristup Internetu - na plaži, u
-   vikendici, u hotelskoj sobi, može da bude čak i u papučama, ili za
-   baštenskim stolom, u ležaljci, sa sladoledom u ruci - ukoliko je u
-   stanju da održi koncentraciju u tim uslovima.
-
-   Učenje putem vebinara je i vrlo efikasno - da bi temu obradio u najviše
-   100-ak minuta, predavač mora da održi potpuni fokus na tematsku
-   jedinicu, nema vremena da se zanese u digresije. Kako bi u kratkom roku
-   učesnici savladali sve što treba da saznaju na tu temu, predavač mora
-   da radi po čvrstom scenariju. Zbog tehničkih okolnosti, priprema toka
-   vebinara mora da bude znatno temeljnija nego za seminare koji se
-   održavaju uživo. Uslovnosti prenosa preko Veba čine da kroz dobro
-   pripremljen vebinar korisnici prime samu suštinu sadržaja, bez ukrasa.
-   Šta su rizici vebinara?
-
-   Rizici su vezani za tehnički i ljudski faktor. Praksa je razvila dobra
-   rešenja za svaki od njih.
-
-   Šta ako je veza loša?
-
-   Pre svega, za uspeh vebinara neophodna je stalna veza lokalnih računara
-   sa Internetom - kako kod predavača, tako i kod svakog polaznika. Kako
-   je nju nemoguće garantovati, rešenja se kreću u rasponu od ponavljanja
-   sesije, do nadoknade uplaćenih sredstava - zavisno od ozbiljnosti i
-   trajanja prekida.
-
-   Šta ako je predavač loš?
-
-   Moguće je i da predavač nije dovoljno vešt u ovoj vrsti nastupa, u
-   kojoj mahom ne vidi i ne čuje slušaoce. Zamislivo je i da predavač
-   gnjavi, monopolizuje tok vebinara, nije dovoljno spreman i ne omogućuje
-   dovoljno interakcije učesnicima. Za taj rizik nema pravog leka, no on
-   nije vezan isključivo za vebinare - takvih predavača ima i na
-   celodnevnim ili višednevnim sesijama. Kod vebinara su u tom slučaju
-   gubitak vremena i investicija učesnika znatno manji, a može se i
-   neuporedivo lakše odustati od praćenja takve sesije - jednim klikom
-   miša.
-
-   Šta je potrebno za praćenje vebinara?
-
-   Za učešće u vebinaru dovoljni su računar sa zvučnicima i prosečno brza
-   veza sa Internetom. Mikrofon i slušalice čine učešće u sesiji lakšim i
-   udobnijim, ali nisu neophodni. Kod boljih tehničkih rešenja, nije
-   neophodno ništa instalirati na svoj računar, jer se čitava sesija
-   odvija samo preko Veba, putem uobičajenih veb brauzera (Firefox,
-   Internet Explorer, Opera, Safari, Chrome itd.)
-
-   I na našem tržištu se sada pojavljuju čak i besplatni vebinari, pa je
-   to sjajna prilika da se bez ikakvih rizika testira iskustvo učenja
-   preko Interneta.
-
-   Maja Vujović, Compass Communications
-     __________________________________________________________________
-
-   Tweet
-
-Izdvojeni univerziteti i fakulteti:
-
-   Filozofski fakultet - Beograd
-
-Filozofski fakultet - Beograd
-
-   Visoka škola elektrotehnike i računarstva strukovnih studija u Beogradu
-
-Visoka škola elektrotehnike i računarstva strukovnih studija u Beogradu
-
-   CITY College, University of York Europe Campus
-
-CITY College, University of York Europe Campus
-
-   Tehnički fakultet u Boru
-
-Tehnički fakultet u Boru
-
-   Prirodno-matematički fakultet u Kragujevcu
-
-Prirodno-matematički fakultet u Kragujevcu
-
-   Fakultet društvenih nauka
-
-Fakultet društvenih nauka
-
-   Beogradska bankarska akademija
-
-Beogradska bankarska akademija
-
-   Visoka škola modernog biznisa - MBS
-
-Visoka škola modernog biznisa - MBS
-
-   FEFA fakultet
-
-FEFA fakultet
-
-   MEF - Fakultet za primenjeni menadžment, ekonomiju i finansije
-
-MEF - Fakultet za primenjeni menadžment, ekonomiju i finansije
-
-   Maturang
-   Nagradno istraživanje
-   [kovertica.png]
-
-Primaj vesti o studiranju i srednjem obrazovanju na e-mail
+     * Najnovije
+     * Vesti
+     * Katar 2022
+     * Biznis
+     * Ukrajina
+     * Sport
+     * BalkanBet Fantazi
+     * Svet
+     * Kultura
+     * Jetset
+     * Ona
+     * Život
+     * eKlinika
+     * Hi-Tech
+     * Zanimljivosti
+     * Održivost
 
    ____________________
+     * <% item.title %>
 
+   Za ispravno funkcionisanje sajta, molimo Vas aktivirajte Javascript.
+    1. Naslovna /
+    2. Život & Stil /
+    3. Know How
 
-   Prijavi se
+     * 7
+     * <% shareCounter %>
 
-Vesti o studiranju
+   25/09/14 | 15:36
 
-     * Savremena vas nagrađuje za Svetski dan deteta: Uz najsavremenije
-       školovanje po najpovoljnijim cenama, dobijate i jedinstveni Life
-       Skills program od 2.000 evra Savremena vas nagrađuje za Svetski dan
-       deteta: Uz najsavremenije školovanje po najpovoljnijim cenama,
-       dobijate i jedinstveni Life Skills program od 2.000 evra Savremena
-       vas nagrađuje za Svetski dan deteta: Uz najsavremenije školovanje
-       po najpovoljnijim cenama, dobijate i jedinstveni Life Skills
-       program od 2.000 evra
-       Povodom Svetskog dana deteta, koji se svuda u svetu obeležava…
-       25.11.2022
-         ______________________________________________________________
+INTELIGENCIJA JE PROKLETSTVO: Evo zašto je bolje biti glup
 
-     * Najtraženiji poslovi u 2021 Najtraženiji poslovi u 2021
-       Najtraženiji poslovi u 2021
-       Veliki je broj poslova koji su traženi u 2021. godini.…
-       04.10.2022
-         ______________________________________________________________
+   25/09/14 | 15:36
 
-     * Još uvek nije kasno da upišete najtraženije IT studije u regionu:
-       Na ITS-u otvoren treći upisni rok Još uvek nije kasno da upišete
-       najtraženije IT studije u regionu: Na ITS-u otvoren treći upisni
-       rok Još uvek nije kasno da upišete najtraženije IT studije u
-       regionu: Na ITS-u otvoren treći upisni rok
-       Pred sam početak nove akademske godine stižu odlične vesti za…
-       23.09.2022
-         ______________________________________________________________
+Sigurno ste nekad čuli, ili pomislili, da je "bolje biti glup". Tačno je da
+inteligencija, generalno, predstavlja prednost, ali to ne mora uvek da bude
+tako. Ponekad je stvarno bolje biti glup. Evo i zašto
 
-       Pogledaj ostale vesti
-
-   prijemni-logo
-   Šta da upišem
-     * Fakulteti, visoke i srednje škole
-     * Vrste studija
-     * Ko je akreditovan
-     * Profesionalna orijentacija
-     * Pogledi na studije
-     * Tražena zanimanja
-
-   Šta treba da znam
-     * Odredbe konkursa za upis studija
-     * Prava i obaveze studenata
-     * Bolonjska deklaracija
-     * Saveti uspešnih
-     * Studentski krediti
-     * Suština i pristup stipendijama
-
-   Prijemni ispit
-     * Pripreme za prijemni
-     * Testovi sa prošlogodišnjih ispita
-     * Onlajn testiranje za prijemni
-     * Saveti za polaganje prijemnog
-     * Kalkulator za broj poena na prijemnom
-     * Iskustva sa prošlogodišnjih prijemnih ispita
-
-   Studentski život
-     * Vesti o studiranju
-     * Centar za razvoj karijere
-     * Rečnik za brucoše
-     * Studentski domovi i menze
-     * Kako iznajmiti stan
-     * Saveti studenata
-
-   Inostranstvo
+     *
+     *
+     *
+     *
      *
      *
 
-   Stipendije
-   O nama Najčešća pitanja Uslovi korišćenja Oglasite se kod nas
+     * 7
+     * <% shareCounter %>
 
-Statistika za Novembar 2022.
+   Inteligentni ljudi imaju dovoljno razloga da budu zahvalni što im je
+   priroda bila naklonjena, ali sigurno nekad zažale što nisu propustili
+   trenutak kad je "Bog delio pamet". Evo koje su to loše strane visoke
+   inteligencije:
 
-   Broj poseta sajtu: 45.206
+   VEROVATNO STE NOĆNA PTICA
 
-   Ukupan broj univerziteta: 21
+   Naučnici su nedavno otkrili negativnu posledicu posedovanja visoke
+   inteligencije – sklonost ka kasnom, odnosno “ranom” odlaženju u krevet
+   i kasnijem ustajanju. Uopšteno, inteligentniji ljudi skloniji su da
+   dugo ostanu budni, ali to nosi neke negativne posledice.
 
-   Ukupan broj fakulteta: 204
+   Brojne studije su pokazale kako su noćne ptice sklonije da razviju
+   emocionalnu nestabilnost, ali i da trpe simptome depresije. Osim
+   psihičkog, zbog takvog bioritma trpi i fizičko zdravlje.
+   Šakota o trenutnoj atmosferi oko kluba: Kritika će uvek biti, treba
+   izdržati još 60 utakmica
 
-   Ukupan broj visokih škola: 70
+Zanimljivosti
 
-   Ukupan broj smerova na fakultetima: 264
+     * 0:18
 
-   Ukupan broj smerova na visokim školama: 72
-   Šta da upišem Prijemni ispit Inostranstvo Šta treba da znam Studentski
-   život Stipendije
-   O nama Najčešća pitanja Uslovi korišćenja Oglasite se kod nas
-   [TikTok-Prijemni.png]
+Psi su zakon: Zabranila mu da večera 3 puta, on složio facu kao da ga je
+izbacila na ulicu
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-W72HPVT
+   Šakota o trenutnoj atmosferi oko kluba: Kritika će uvek biti, treba
+   izdržati još 60 utakmica
+
+Zanimljivosti
+
+     * 0:34
+
+Bežao od policije pa iskočio iz vozila u pokretu: Profesionalsni kaskaderi na
+"aparatima"
+
+   MANJE SU ŠANSE DA SVOJE GENE PRENESETE POTOMCIMA
+
+   Još jedan nesrećni stereotip pametnih ljudi jeste da oni nisu baš
+   preterano socijalni ljudi, odnosno da su čudni “gikovi” koji su osuđeni
+   na život u celibatu sve dok se ne izvuku iz srednjoškolskog pakla, piše
+   Cracked.
+
+   Nije ni to toliko bitno, koliko podaci koji pokazuju da, što je žena
+   više obrazovana, to ima manje dece. Pametni većinom jure karijeru, zbog
+   čega stvaranje porodice ostaje u drugom planu.
+
+   VIŠE LAŽETE
+
+   Problem u tome što ste najpametniji u prostoriji je obično činjenica da
+   ste toga svesni, a mnogi to zloupotrebljavaju. Visok koeficijent
+   inteligencije često u ljudima pobuđuje dar za obmanjivanje ostalih.
+   Kako biste lagali i ostali neuhvatljivi, treba misliti i na istinu, a
+   pritom manipulisati. Sve to uključuje integraciju nekoliko moždanih
+   procesa koji funkcionišu na isti način kao i kod rešavanja kompleksnih
+   matematičkih zadataka.
+
+   pinokio
+
+   SKLONIJI STE DA POVERUJETE U LAŽ
+
+   Obrazovanje vodi do jednog pogrešnog verovanja, a to je - mislite da
+   ste pametniji nego što jeste. Tri studije su otkrile da su ljudi koji
+   su pali na neku laž, uložili novac tamo gde nije trebalo, i slično,
+   obično bolje obrazovani. Oni ne traže savet jer smatraju da su imuni na
+   greške, a ne shvataju kako inteligencija ne znači uvek sposobnost
+   preživljavanja u stvarnom svetu.
+
+   SKLONIJI STE AUTODESTRUKTIVNOSTI
+
+   Veliki umovi često imaju jednu zajedničku osobinu, a to je znatiželja.
+   Problem u tome je što su ekstra znatiželjni ljudi takođe oni koji će,
+   pre nego ostali, probati određene supstance. To je potvrdila i studija
+   britanskih naučnika koja je otkrila kako su pametniji ljudi skloniji da
+   postanu alkoholičari, a takođe su pronašli vezu između visoke
+   inteligencije i korišćenja psihoaktivnih droga.
+
+   (Telegraf.rs / HercegovinaInfo)
+
+Podelite vest:
+
+     *
+     *
+     *
+     *
+     *
+     *
+
+   Pošaljite nam Vaše snimke, fotografije i priče na broj telefona +381 64
+   8939257 (WhatsApp / Viber / Telegram).
+
+Priče za vas
+
+     * Mrzi vas da vežbate? Pijte vino!
+     * ČUDO OD TRUDNICE: Pukao joj vodenjak u četvrtom mesecu, a onda je
+       zarastao sam od sebe!
+     * ŽELITE DA OSTAVITE PLJUGE? Evo kako da očistite pluća od nikotina!
+       (FOTO)
+
+   Telegraf.rs zadržava sva prava nad sadržajem. Za preuzimanje sadržaja
+   pogledajte uputstva na stranici Uslovi korišćenja.
+
+Teme
+
+     * Depresija
+     * Glupost
+     * Inteligencija
+     * IQ
+     * Obrazovanje
+     * Pamet
+
+Komentari
+
+   7
+   Pošalji komentar
+
+Povezane vesti
+
+   Alfa BK Univerzitet
+
+Srbija
+
+300 godišnjih stipendija za 30 godina vrhunskog obrazovanja
+
+     * 0
+     * 0
+
+   Pas i znaci stresa, tuge i depresije
+
+Ljubimci
+
+     *
+     *
+
+Stres, depresija i tuga: Kad pas “podvije" rep
+
+     * 0
+     * 0
+
+   Svetlana Ceca Ražnatović, Aca Lukas, Edita Aradinović, Dara Bubamara
+
+Jetset vesti
+
+     *
+
+Neko dve fakultetske diplome, a neko jedva osnovnu: Koje škole su naši
+poznati završili
+
+     * 13
+     * 98
+
+   čistačica, spremačica, tetkica u školi, škola ribanje čišćenje
+   dezinfekcija škole
+
+Srbija
+
+Čim očistimo učionicu, oni bace smeće, ruke nam pucaju: I tetkice se žale na
+nasilne đake, čija je to sramota?
+
+     * 80
+     * 340
+
+Priče sa Weba
+
+   Ovo je 6 PRAVILA koja Ronaldova deca MORAJU DA POŠTUJU: Šokiraće vas
+   ŠTA RADE nakon što pojedu SLATKIŠ!
+
+Ovo je 6 PRAVILA koja Ronaldova deca MORAJU DA POŠTUJU: Šokiraće vas ŠTA RADE
+nakon što pojedu SLATKIŠ!
+
+   ISPOVEST JELISAVETE IZ NIŠA: "Pila sam antibiotike 65 dana ujutru i
+   uveče, ali mi nisu pomogli - moje stanje je SVE GORE"! Zbog zaraženog
+   krpelja bori se za život - neophodna joj je NAŠA POMOĆ
+
+ISPOVEST JELISAVETE IZ NIŠA: "Pila sam antibiotike 65 dana ujutru i uveče,
+ali mi nisu pomogli - moje stanje je SVE GORE"! Zbog zaraženog krpelja bori
+se za život - neophodna joj je NAŠA POMOĆ
+
+   Megan Markl PRVI PUT POKAZALA LICE SINA POSLE TRI GODINE: Krila ga je
+   od javnosti i sumnja se da je to radila iz NAJBIZARNIJEG RAZLOGA
+
+Megan Markl PRVI PUT POKAZALA LICE SINA POSLE TRI GODINE: Krila ga je od
+javnosti i sumnja se da je to radila iz NAJBIZARNIJEG RAZLOGA
+
+   Haljina koju je sinoć ponela Tamara Vučić je priča za sebe
+
+Haljina koju je sinoć ponela Tamara Vučić je priča za sebe
+
+   Akcije i katalozi
+
+Najnovije iz rubrike Život & Stil
+
+   Prljav tiganj
+
+Know How
+
+     *
+
+Zagorela zadnja strana tiganja je prošlost: Evo kako da je očistite
+
+     * 1
+     * 8
+
+   SC Stadion
+
+Know How
+
+Ovog decembra novogodišnja čarolija u Stadionu
+
+     * 0
+     * 0
+
+   Karađorđeva crkva, Topola
+
+Zdravlje
+
+Božićni post iz dana u dan (4): "Ko kaže da si bolji čovek od mene ako
+postiš?"
+
+     * 20
+     * 29
+
+   Sve vesti iz rubrike Život & Stil
+
+Komentari
+
+   7
+   Pošalji komentar
+   Sortiranje
+     *
+
+milos
+       25. septembar 2014 | 16:04
+       Ko umnozava ZNANJE, umnozava i MUKU . Premudri Solomon
+       Odgovorite   ›
+       71
+       3
+
+Podelite komentar
+          +
+          +
+          +
+          +
+          +
+          +
+     *
+
+ona
+       25. septembar 2014 | 18:37
+       Nista novo.Samo je problem sto su glupi,primitivni,bahati na
+       pojedinim rukovodecim mestima.Kroje sudbinu naroda sa pilecim
+       mozgom.E to je najstrasnije.
+       Odgovorite   ›
+       55
+       1
+
+Podelite komentar
+          +
+          +
+          +
+          +
+          +
+          +
+     *
+
+Mrmot
+       25. septembar 2014 | 17:49
+       O kako je lepo biti glup...
+       Odgovorite   ›
+       40
+       0
+
+Podelite komentar
+          +
+          +
+          +
+          +
+          +
+          +
+
+   Svi komentari   ›
+
+Video dana
+
+   Sve iz rubrike Video dana
+     * Najnovije
+     * Najčitanije
+     * Komentari
+
+     *
+
+Šestoro srpskih stručnjaka vratilo se iz inostranstva: Razlog za to je
+neverovatan
+          + 0
+          + 0
+     *
+
+Uhapšen državljanin Hrvatske u Zrenjaninu: Spremio 250 grama droge za prodaju
+          + 0
+          + 0
+     *
+
+Uživo Dan D za Srbiju u Kataru: Orlovi šire krila, čekamo meč odluke sa
+Švajcarskom, navijačka groznica uzela maha
+          + 71
+          + 44
+     *
+
+Pisac i reditelj Masimilijano Molona gostuje na Kolarcu
+          + 0
+          + 0
+     *
+
+Zapalio dva motocikla na Zvezdari, požar se proširio na zgrade: Uhapšen
+razbojnik u Beogradu
+          + 0
+          + 0
+
+     *
+
+Uživo <% item.title %>
+          + <% item.comment_count %>
+          + <% item.shares %>
+
+   Sve najnovije vesti
+   Akcije i katalozi
+   TV program
+     * Eur: <% exchange.eur %>
+     * Usd: <% exchange.usd %>
+
+   TV program
+
+     * Najnovije
+     * Vesti
+     * Ukrajina
+     * Korona
+     * Biznis
+
+     * Sport
+     * Svet
+     * Kultura
+     * Jetset
+     * Ona
+
+     * Život
+     * Zanimljivosti
+     * Hi-Tech
+     * Auto
+     * eSports
+
+     *
+     *
+     *
+     *
+     *
+
+     * O nama
+     * Marketing
+     * Impressum
+     * Uslovi korišćenja
+     * Politika privatnosti
+     * Kontakt
+
+   © Telegraf 2020   Sva prava zadržana.
+
+Najnovije vesti
+
+   Dozvoljavam da mi Telegraf.rs šalje obaveštenja o najnovijim vestima
+
+   Ne, hvala Prihvatam
+
+   [tr?id=826484444393247&ev=PageView&noscript=1]

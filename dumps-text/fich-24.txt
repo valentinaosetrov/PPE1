@@ -1,496 +1,262 @@
-   [m-lft-on.gif] [logo-top.gif]
-    Korisnik:  ____________  Lozinka:  ____________ [ ] Zapamti me
-   Prijavi me [BUTTON Input] (not implemented)________________________
-   [BUTTON Input] (not implemented)_______________
-   [m-rgt-on.gif]
+   #alternate alternate
 
-                                 [INS: :INS]
+   IFRAME:
+   https://www.googletagmanager.com/ns.html?id=GTM-MSM4HQ4&gtm_auth=P9-REt
+   hElsMGFNfEBtQmGA&gtm_preview=env-2&gtm_cookies_win=x
 
-                                 [empty.gif]
+   (BUTTON)
+   + Srpski
+   (BUTTON)
+     * VIDEO
+     * Politika
+     * LGBTQ
+     * Droge
+     * Foto
+     * 18+
+     * Zabava
+     * Kolumne
+     * Sport
+     * Shop Merch
 
      *
-     * Komponente
-     * Računari
-     * Laptop & PDA
+     *
+     *
+
+     * VIDEO
+
+   Input for searching articles, videos, shows ____________________
+   (BUTTON)
+     *
+     *
+     *
+
+     * Politika
+     * LGBTQ
+     * Droge
      * Foto
-     * Telefoni
-     * Tehnika
-     * Forum
-     * Oglasi
+     * 18+
+     * Zabava
+     * Kolumne
+     * Sport
+     * Shop Merch
 
+     * O Nama
+     * Partner
+     * Uslovi korišćenja
+     * VICE MEDIA PRIVACY POLICY
+     * Podešavanja privatnosti
+     *
 
-                                   [empty.gif]
-   [INS: :INS]
+   © 2022 VICE MEDIA GROUP
 
-   IFRAME: https://www.lisica.rs/inc/banner_ak_inc.php?sirina=160
+FYI.
 
-   Beograd Novi Sad Kragujevac Niš [empty.gif]
-   [empty.gif]
-   PC Berza Forum : Ver. 2.35
-   [empty.gif]
-   [empty.gif]
-   Najnovije teme Najnoviji odgovori Prikačene teme Najaktivnije teme
-                              Najčitanije teme
-   Pronađi : ____________________ U : [Svim kategorijama] Pretraži : (*)
-   Kompletne poruke ( ) Samo naslove Pronađi ...
-   [icon_open_folder.gif] Forum : Softver [reply_button.gif]
-   [icon_bar.gif] [icon_open_topic.gif] Operativni sistemi i sistemski
-   programi
-   [empty.gif] [icon_bar.gif] [icon_open_page.gif] Win 7 u mreži, problem,
-   pomozite ...
-   [empty.gif]
-   [page_first_unactiv.gif] [page_previous_unactiv.gif] STRANA 1 OD 2
-   [page_next.gif] [page_last.gif]
-   [empty.gif]
-   zeljkoa [4.gif] Win 7 u mreži, problem, pomozite ... 17.03.2011. 10:28
-   T34572
-   [empty.gif]
-   [12923.jpg]
-   status: admin
-   broj poruka: 712 Da pre nekoliko dana nisam koristio Win 7 pa me neke
-   stvari po malo zbunjuju.
-   Imam banalan problem, a to je da sa Win XP računara ne mogu da
-   pristupim deljenim diskovima na Win 7 računaru !
-   Mislim da sam sve lepo podesio, uradio sharing, isključio password,
-   isključio 128-bitnu enkripciju da bi mogli da mu priđu i oni koji
-   nemaju tu opciju i opet neće.
-   Sa Win XP računara vidim Win 7, vidim disk koji je podeljen, ali ne
-   mogu da ga otvorim. Prvo su mi na računarima bili različiti useri, sada
-   sam podesio da je na oba računara isti username i opet neće.
-   Šta tu ima još što ja ne vidim? Napominjem da je u pitanju Win 7 Home
-   Premium 32-bit.
-   - - - - - - - - - - - - - - - - - -
-   Željko Arnautović,
-   PC Berza d.o.o.
-   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
-   - https://www.nsinfo.rs - https://www.nisinfo.rs
-   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       zekson      [1.gif] ako vec nisi... 17.03.2011. 10:33 #305876
-   [empty.gif]
-   [21.gif]
-   status: user
-   broj poruka: 34 ...stavi ih u istu radnu grupu.
-       :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       zeljkoa      [1.gif] Jesam            17.03.2011. 10:36   #305877
-   [empty.gif]
-   [12923.jpg]
-   status: admin
-   broj poruka: 712 Pa jesu u istoj grupi i sa Win 7 lako pristupam XP-u,
-   ali ne mogu obrnuto.
-   - - - - - - - - - - - - - - - - - -
-   Željko Arnautović,
-   PC Berza d.o.o.
-   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
-   - https://www.nsinfo.rs - https://www.nisinfo.rs
-   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-      pajsgudgud     [1.gif] Imao sam isti problem 17.03.2011. 10:45 #305879
-   [empty.gif]
-   [1.gif]
-   status: user
-   broj poruka: 3687 i nisam ga rešio.
-   zato sam stavio sedmice na sve računare i mukama je došao kraj. To je
-   bilo prošle godine dal` se u međuvremenu pojavilo neko rešenje ne
-   znam...
-   support normality
-               :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-         raic        [1.gif] re       17.03.2011. 10:49            #305883
-   [empty.gif]
-   [15616.jpg]
-   status: user
-   broj poruka: 9023 Znači išao si share with - specific people - i dodao
-   na listu `everyone`
-   Ako neće i dalje ideš na properties - security - dodaš na listu
-   everyone i staviš dozvolu read&execute ili full control šta god da ti
-   je u planu
-   Ako pred sobom imamo mitsko biće sa dve ili više glava, bar jedna od
-   njih će da bljuje vatru.
-   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-      pajsgudgud     [1.gif] Re: re   17.03.2011. 10:51 #305884
-   [empty.gif]
-   [1.gif]
-   status: user
-   broj poruka: 3687 Sve sam to i ja prošao i nije hteo...
-   http://www.howtogeek.com/howto/windows-7/share-files-and-printers-betwe
-   en-windows-7-and-xp/
-   evo ovi gikovi su kao uspeli...mada ne vidim nigde sliku da su
-   pristupili sa xp-a na sedmicu...da napomenem da sam i sve preporuke sa
-   njihovog sajta prošao, međutim i dalje nije htelo. Jedina razlika je
-   što sam ja imao sp2 XP.
-   support normality
-   :: Znači išao si share with - specific people - i dodao na listu
-   `everyone
-   ::
-   :: Ako neće i dalje ideš na properties - security - dodaš na listu
-   everyone i staviš dozvolu read&execute ili full control šta god da ti
-   je u plan
-   ::
-   :: Ako pred sobom imamo mitsko biće sa dve ili više glava, bar jedna od
-   njih će da bljuje vatru.
-   ::
-   ::
-   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       zeljkoa      [1.gif] Da, ali neće     17.03.2011. 10:54     #305889
-   [empty.gif]
-   [12923.jpg]
-   status: admin
-   broj poruka: 712 Već sam stavio Full controll za Everyone i opet neće.
-   - - - - - - - - - - - - - - - - - -
-   Željko Arnautović,
-   PC Berza d.o.o.
-   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
-   - https://www.nsinfo.rs - https://www.nisinfo.rs
-   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-      pajsgudgud     [1.gif] Re: Re: re 17.03.2011. 10:54 #305890
-   [empty.gif]
-   [1.gif]
-   status: user
-   broj poruka: 3687 EDIT: i ovi su ga kao rešili...
-   http://www.sevenforums.com/network-sharing/10586-cant-connect-win-7-sha
-   red-xp.html
-   support normality
-   :: Sve sam to i ja prošao i nije hteo..
-   ::
-   ::
-   http://www.howtogeek.com/howto/windows-7/share-files-and-printers-betwe
-   en-windows-7-and-xp
-   ::
-   ::
-   :: evo ovi gikovi su kao uspeli...mada ne vidim nigde sliku da su
-   pristupili sa xp-a na sedmicu...da napomenem da sam i sve preporuke sa
-   njihovog sajta prošao, međutim i dalje nije htelo. Jedina razlika je
-   što sam ja imao sp2 XP
-   :: support normalit
-   ::
-   :: :: Znači išao si share with - specific people - i dodao na listu
-   `everyone
-   :: ::
-   :: :: Ako neće i dalje ideš na properties - security - dodaš na listu
-   everyone i staviš dozvolu read&execute ili full control šta god da ti
-   je u plan
-   :: ::
-   :: :: Ako pred sobom imamo mitsko biće sa dve ili više glava, bar jedna
-   od njih će da bljuje vatru.
-   :: ::
-   :: ::
-    :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-         raic        [1.gif] re       17.03.2011. 10:55       #305891
-   [empty.gif]
-   [15616.jpg]
-   status: user
-   broj poruka: 9023 Sharing XP-a i sedmice garant radi korektno u oba
-   smera, samo treba da se namesti po propisu.
-   Željko: Probaj da ugasiš firewall.
-   Ako pred sobom imamo mitsko biće sa dve ili više glava, bar jedna od
-   njih će da bljuje vatru.
-   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       strela75      [1.gif] Ja sam nekad to uspeo... 17.03.2011. 11:05 #305897
-   [empty.gif]
-   [25650.jpg]
-   status: user
-   broj poruka: 1585 ...evo teme:
-   http://www.pcberza.rs/forum/topic.php?topid=31567&forid=17&katid=2
-   + jos jedna na tu temu:
-   http://www.pcberza.rs/forum/topic.php?topid=32182&forid=23&katid=6
-   Pozdrav.
-   -
-   Just look at us.Everything is backwards. everything is upside
-   down.Doctors destroy health, lawyers destroy justice, universities
-   destroy knowledge, governments destroy freedom, the major media destroy
-   information and religions destroy spirituality
-                  :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       zeljkoa      [1.gif] Ne radi          17.03.2011. 11:10 #305899
-   [empty.gif]
-   [12923.jpg]
-   status: admin
-   broj poruka: 712 Sve sam ja to odradio i ne radi. Ne pomaže ni
-   isključivanje firewall-a.
-   Iz XP-a vidim taj deljeni disk i vidim još jednu deljenu stavku Users.
-   To users otvara bez problema, a HDD neće pa neće.
-   - - - - - - - - - - - - - - - - - -
-   Željko Arnautović,
-   PC Berza d.o.o.
-   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
-   - https://www.nsinfo.rs - https://www.nisinfo.rs
-   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-        obradmi      [1.gif] Kod mene radi 17.03.2011. 11:22   #305902
-   [empty.gif]
-   [17549.jpg]
-   status: user
-   broj poruka: 7590 probaj share folder ,nemoj share logicke particije
-   ,sa fiksnim IP .Meni je iskljucen win firewall ,zone alarm ukljucen,a
-   mozes privremeno da stavis lokal ftp server ,dok ne vidis u cemu je
-   fora.Kad pravis share ,probaj sa numerickom IP.
-       :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-         raic        [1.gif] Re: Ne radi 17.03.2011. 11:28     #305905
-   [empty.gif]
-   [15616.jpg]
-   status: user
-   broj poruka: 9023 Šta ti stoji pod advanced sharing, jel share this
-   folder štiklirano, probaj da mu daš drugo ime, umesto H stavi recimo
-   DJUBRE ili slično.
-   Aj probaj i da kucaš ručno adresu u windows exploreru.
-   Tipa, ako ti je zeljko2 taj komp na kojem deliš a deliš particiju h
-   koju si nazvao djubre kucaš:
-   \Zeljko2\djubre
-   Ako pred sobom imamo mitsko biće sa dve ili više glava, bar jedna od
-   njih će da bljuje vatru.
-   :: Sve sam ja to odradio i ne radi. Ne pomaže ni isključivanje
-   firewall-a
-   ::
-   :: Iz XP-a vidim taj deljeni disk i vidim još jednu deljenu stavku
-   Users. To users otvara bez problema, a HDD neće pa neće
-   ::
-     :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       zeljkoa      [1.gif] Neće pa neće     17.03.2011. 11:52 #305913
-   [empty.gif]
-   [12923.jpg]
-   status: admin
-   broj poruka: 712 Sve sam probao i opet neće.
-   - - - - - - - - - - - - - - - - - -
-   Željko Arnautović,
-   PC Berza d.o.o.
-   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
-   - https://www.nsinfo.rs - https://www.nisinfo.rs
-   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-        FordP       [1.gif] Re: Da, ali neće 17.03.2011. 11:55 #305914
-   [empty.gif]
-   [empty.gif]
-   status: user
-   broj poruka: 133
-   :: Već sam stavio Full controll za Everyone i opet neće
-   ::
-   ceo posao je:
-   1. dodeliš Home ili Busines network
-   2. ukineš password protection
-   3. sharujesh folder koji želiš
-   4. dodaš user everyone za sharovane foldere (ako ti radi USERS znači
-   sve je sa 7-micom u redu)
-   5. dodaš read and write prava za everyone (ako ti je to potrebno)
-   i onda kada sve to i dalje ne radi - dođeš do čuvene genijalnosti
-   6. restartujesh 7 pa onda i XP :) da bi prihvatio XP promenu ovlaštenja
-   - to ponekad hoće da pravi problem :)
-   meni 15-tak mreža radi 7-mica + XP dvostrano bez ikakvog problema :)
-   tako da sigurno može da se namesti
-         :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       zeljkoa      [1.gif] Teoretski, da    17.03.2011. 12:45 #305923
-   [empty.gif]
-   [12923.jpg]
-   status: admin
-   broj poruka: 712 Ali praktično neće pa neće ...
-   - - - - - - - - - - - - - - - - - -
-   Željko Arnautović,
-   PC Berza d.o.o.
-   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
-   - https://www.nsinfo.rs - https://www.nisinfo.rs
-   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-   Seerauber [1.gif] re:Win 7 u mreži, problem, pomozite ... 17.03.2011.
-   13:04 #305930
-   [empty.gif]
-   [39240.jpg]
-   status: user
-   broj poruka: 946 na strani 48. knjige `kucno umrezavanje-prakticni
-   vizuelni vodic` imas o konfiguraciji mreze-objedinjavanju u jednu
-   celinu. mreza u windowsu xp se konfigurise uz pomoc wizarda: control
-   panel->network conection ->setup a home or small office network
-   za windows 7 predpostavljam da je ovde negde : control panel-> network
-   and sharing center->connect to a network
-   evo linka za knjigu:
-   http://www3.zippyshare.com/v/5562367/file.html
-   meni mreza radi izmedju xp-a i win 7,mogu da pristupim sa xp na win 7
-   da li si stavio istu workgrupu?
-   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-        FordP       [1.gif] Re: Teoretski, da 17.03.2011. 13:10 #305931
-   [empty.gif]
-   [empty.gif]
-   status: user
-   broj poruka: 133
-   ako ti rade USERS (to je iz XP-a ALL users) to su foledri već sve
-   podešeno za share sa parametrima everyone, onda mora da može i kod tebe
-   da se nameste i ostali folderi (probaj za početak da se izboriš sa
-   sharovanjem foldera), ja nikad ne sharujem cele particije to mi je
-   besmisleno
-   :: Ali praktično neće pa neće ..
-          :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-        Equinoxe      [8.gif] Re:     17.03.2011. 13:28 #305934
-   [empty.gif]
-   [17766.jpg]
-   status: user
-   broj poruka: 12063
-   Primer:
-   http://img862.imageshack.us/img862/765/network.jpg
-   Šta nije jasno sa slike pitaj.
-   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-        FordP       [1.gif] sad mi samo reci 17.03.2011. 13:33     #305935
-   [empty.gif]
-   [empty.gif]
-   status: user
-   broj poruka: 133 da sharujesh cele particije, a da za to nemaš dovoljno
-   ovlašenja zbog prisustva recycle bin i System Volume Information :)
-   pošto po defautu nemaš nikakva prava nad njima pa ih ne možeš ni
-   sharovati bez special permitions
-   prikaže da je cela particija sharovana, ali ne može da joj se pristupi
-   iz mreže :)
-         :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-        -ShonE-      [1.gif] re              17.03.2011. 13:42 #305936
-   [empty.gif]
-   [16297.jpg]
-   status: user
-   broj poruka: 3529
-   Skoro sam imao isti problem, bas win 7 home premium. Resio sam ga tako
-   sto sam u shering-u pod opciom Permissions pored Everyone dodao i
-   user-a `Guest`, nakon toga momentalno je proradilo.
-   :: www :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-   zeljkoa [1.gif] Da 17.03.2011. 13:42 #305937
-   [empty.gif]
-   [12923.jpg]
-   status: admin
-   broj poruka: 712 Da, problem je u šerovanju cele D particije na kojoj
-   su podaci.
-   Uspeo sam da šerujem folder, ali particiju neće pa neće, a iskreno
-   rečeno, nervira me da šerujem svaki folder posebno. Zamislite da u rutu
-   uma 50 foldera koje treba šerovati, pa ko to da radi ručno jedan po
-   jedan ....
-   Kako da sebi obezbedim dodatna prava da šerujem celu particiju, a da
-   recimo recycle bin i slične gluposti isključim iz šeringa.
-   - - - - - - - - - - - - - - - - - -
-   Željko Arnautović,
-   PC Berza d.o.o.
-   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
-   - https://www.nsinfo.rs - https://www.nisinfo.rs
-   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-        FordP       [1.gif] Re: Da    17.03.2011. 13:48 #305939
-   [empty.gif]
-   [empty.gif]
-   status: user
-   broj poruka: 133 jednostavno rešenje:
-   šeruješ folder u rutu a onda sve ostale foldere prebaciš u njega
-   tako si šerovao sve foldere koji ti trebaju biti šerovani, a šerovan
-   samo jedan folder :)
-   :: Da, problem je u šerovanju cele D particije na kojoj su podaci
-   :: Uspeo sam da šerujem folder, ali particiju neće pa neće, a iskreno
-   rečeno, nervira me da šerujem svaki folder posebno. Zamislite da u rutu
-   uma 50 foldera koje treba šerovati, pa ko to da radi ručno jedan po
-   jedan ...
-   ::
-   :: Kako da sebi obezbedim dodatna prava da šerujem celu particiju, a da
-   recimo recycle bin i slične gluposti isključim iz šeringa
-   ::
-   :: - - - - - - - - - - - - - - - - -
-   :: Željko Arnautović
-   :: PC Berza d.o.o
-   :: https://www.pcberza.rs - https://www.bginfo.rs -
-   https://www.kginfo.rs - https://www.nsinfo.rs - https://www.nisinfo.rs
-   ::
-   ::
-   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       zeljkoa      [1.gif] Re: Re: Da       17.03.2011. 13:57 #305941
-   [empty.gif]
-   [12923.jpg]
-   status: admin
-   broj poruka: 712 :: jednostavno rešenje
-   :: šeruješ folder u rutu a onda sve ostale foldere prebaciš u njeg
-   :: tako si šerovao sve foldere koji ti trebaju biti šerovani, a šerovan
-   samo jedan folder :
-   Izem ti vic, pa nije u tome poenta. To sam mogao da odradim i bez
-   postavljanja ove teme, ali neću to. Nemoguće da ne može da se šeruje
-   cela particija.
-   - - - - - - - - - - - - - - - - - -
-   Željko Arnautović,
-   PC Berza d.o.o.
-   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
-   - https://www.nsinfo.rs - https://www.nisinfo.rs
-   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       savatije      [1.gif] moje iskustvo... 17.03.2011. 14:02 #305942
-   [empty.gif]
-   [1804.jpg]
-   status: user
-   broj poruka: 1118 imam slično mrežno okruzenje ( 2x7 + 1XP)...nisam
-   uspeo da šerujem ceo disk na sedmici nego samo foldere i to mi
-   obostrano funkcionise normalno, doduse sa User-ima i Pass-vordima elem
-   postoji ivelika igranka sa security polisama...pa probaj sa anonimus
-   log on....
-   http://img43.imageshack.us/i/zapcberzu.jpg/
-          :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-        FordP       [1.gif] uradio i share particije 17.03.2011. 14:39 #305950
-   [empty.gif]
-   [empty.gif]
-   status: user
-   broj poruka: 133 evo i to sam uspeo da uradim, sharovao drive :)
-   i dalje mislim da je to glupo, ali - nije moje da sudim o tome
-   ali sam na gomili uradio puno toga pa ne znam šta je tačno odradilo
-   problem
-   ono što sam radio
-   desni klik na drive
-   properties
-   security
-   advanced
-   permissions
-   change permissions
-   dodao usera everyone
-   naravno full control sam dodelio za everyone :)
-   zatim isto na owner
-   i auditing
-   moguće da je dovoljno samo change permissions da se odradi
-   pa proveri da li na zadnjem tabu imaš nakon promene sva ovlaštenja
-   bem ti serverska sharovanja :)
-   sigurnost fajlova = 0
-   pozdrav
-                 :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-   [page_first_unactiv.gif] [page_previous_unactiv.gif] STRANA 1 OD 2
-   [page_next.gif] [page_last.gif]
-   Broj postavljenih tema: 59927. Broj poslatih odgovora: 642746.
-   Trenutno niste prijavljeni na PC Berzu i zbog toga imate status
-   'gosta'. Kao gost ne možete da šaljete poruke na Forum. Ako ste
-   registrovani kao član PC Berze, prijavite se. Ako ste novi korisnik,
-   molimo registrujte se da bi dobili mogućnost aktivnog učešća u radu
-   Foruma.
-   [empty.gif]
-   [no_login.gif] - niste prijavljeni [no_new_readonly.gif] - samo za
-   čitanje [no_new_locked.gif] - zaključano
-   [no_new.gif] - nema novih poruka [new_message.gif] - ima novih poruka
-   [new_topic.gif] - ima novih tema
-   [empty.gif]
+This story is over 5 years old.
 
-   Slagalica.net
+   Svaštara
 
-   Microsystems d.o.o.
+​Upoznajte gikove koji troše hiljade evra na putovanja po svetu i
+isprobavanje rolerkostera
 
-   IFRAME: https://www.lisica.rs/inc/banner_ak_inc.php?sirina=120
+   Obožavatelji rolerkostera putuju po svetu tražeći nove vožnje, trošeći
+   hiljade na putovanja i reklamnu robu, i kunu se na vernost – pomalo
+   nalik fudbalskim navijačima – omiljenim vožnjama.
+   AJ
+   pisao Andy Jones
+   2.3.16
+     * (BUTTON) Podeli
+     * (BUTTON) Tweet
+     * (BUTTON) Snap
 
-   PCB Network: pcberza.rs | superponuda.com | bginfo.rs | nsinfo.rs |
-   kginfo.rs | nisinfo.rs | lisica.rs
-     * PC BERZA
-     * Adresar
-     * Copyright © 1999 - 2022 by Network IT doo & MINET DOO
-     * Kontakt
-     * Marketing
+   [ld+json]
+   FOTO: Džejk Luis
 
-   [empty.gif]
+   Tematski park: to nije samo mesto za koje treba da platiš ulaz, pre
+   nego što veći deo vremena provedeš stojeći u redu. Ove turističke
+   atrakcije – ove popločane, ograđene arene upetljanog čelika živopisnih
+   boja – takođe su crkve, mesta obožavanja hordi takozvanih „rolerkoster
+   gikova".
 
-   [empty.gif]
+   Obožavatelji rolerkostera putuju po svetu tražeći nove vožnje, trošeći
+   hiljade na putovanja i reklamnu robu, i kunu se na vernost – pomalo
+   nalik fudbalskim navijačima – omiljenim vožnjama. Opsednuti su
+   pojedinostima vezanim za rolerkostere na kojima se voze; pravom
+   rolerkoster giku nije dovoljno da samo stane u red i dva do tri minuta
+   provede naglavačke – moraju forenzički da ukapiraju svaki navoj i
+   krivinu.
+   Reklame
+
+     Pročitajte i :Šta sam naučio radeći leti u zabavnom parku"
+
+   Serena Čeri, dvadesetsedmogodišnjakinja iz Bristola, koja na ruci ima
+   tetovažu vožnje "Testera" iz Torp parka, kaže da istinski obožavatelj
+   rolerkostera sa sto metara udaljenosti mora da zna ko je dizajnirao
+   neku vožnju.
+
+   „Oni koje je napravila firma B&M imaju veoma debele, nabijene šine –
+   tamo gde se ukrštaju obično su u obliku slova W – dok švajcarski
+   proizvođači uglavnom koriste kockaste šine", objašnjava ona. „Pre više
+   godina, morao si da viriš preko ograde da bi znao ko šta gradi, ali
+   sada to možeš unapred da saznaš na sajtovima za rolerkoster gikove".
+
+   U nekim slučajevima, izgleda da entuzijasti preduzimaju ekstremne mere
+   da bi došlo do ekskluzivnih informacija. "Merlin Entertejnment" –
+   kompanija koja je vlasnik skoro svih tematskih parkova u UK – je
+   prijavila da su njihove stranice na društvenim mrežama ishakovali
+   fanovi koji traže vesti o traču (koji je sada potvrđen) da će Torp park
+   sarađivati sa Derenom Braunom.
+
+   Serenina tetovaža vožnje Testera
+
+   Za Serenu, gitaristkinju post-hardkor benda Svalbard, posveta njenoj
+   ljubavi prema tematskom parku u pesmi nije bila dovoljna. „Komponovala
+   sam pesmu pod nazivom ʼTorp park (radnim danom)ʼ – to je kao neka
+   parodija", kaže ona. „Radnim danima, u Trop parku nema redova. To je
+   kao osvajanje života – potpuno blažen dan kada nema prepreka za tvoje
+   uživanje, i tvoj odnos prema rolerkosterima".
+
+   Kao i većina rolerkoster gikova, ona je počela da ih obožava već posle
+   prve vožnje u životu. „Kada sam 1994. prvi put videla "Nemezis" (kod
+   Alton Tauersa), kada se tek otvorio, bio je nešto do tada neviđeno na
+   ovom svetu – njegova struktura, ambicija i razmere su bili kao sa neke
+   druge planete", kaže ona. „Bio je izvrnut, razbacan na sve strane, a
+   opet pomešan sa svim tim vanzemaljskim temama. Delovao je mitološki.
+   Gledala sam svog tatu kako se vozi i molila ga da mi prepriča svaki
+   detalj. Onda sam morala da čekam četiri godine, dok nisam porasla tačno
+   do 1,4 metara, da bih smela da se vozim na njemu".
+   Reklame
+
+   Vožnja na Nemezisu iz subjektivne perspektive (subjektivna perspektiva
+   je veoma popularno u zajednici rolerkoster gikova)
+
+   Prisećajući se svog prvog iskustva na "Nemezisu", Serena to gotovo da
+   upoređuje sa prvim romantičnim susretom: „Bila sam nervozna, uzbuđena,
+   a onda se prebrzo završilo. Tog dana sam se dvaput vozila na njemu, i
+   oba puta sam čekala po dva i po sata".
+
+   Većina nas je bila u tematskim parkovima – možda u sklopu školskog
+   izleta kada smo morali da nosimo istovetne rančeve, i to spreda, ili
+   prilikom mučnog prvog sastanka, sa buritom u meksičkoj kantini Alton
+   Tauersa – i uživali u njima. Ali za rolerkoster gikove, to je mnogo
+   više.
+
+   „To su umetničke instalacije koje možeš da doživiš", kaže Serena. „Ne
+   radi se samo o tome da sedneš u voz – to počinje kada ugledaš
+   strukturu, kada vidiš koliko je nestvarna. Proučavaš svaki fragment
+   tematike; to je kao da ulaziš u priču".
+
+   Džordan ispred Torp parka
+
+   Džordan Midlton, 25, iz Eseksa, vozila se na 772 rolerkostera u preko
+   stotinu tematskih parkova, spiskavši čitavih hiljadu funti na putovanja
+   do svojih omiljenih vožnji u Japanu, Americi i Evropi. Ona insistira da
+   se ne oblači kao tipični rolerkoster gik, ali kaže da može da ga uoči
+   iz aviona.
+
+   „Izgledaju kao da su krenuli u hajking", kaže ona. „Pantalone sa mnogo
+   džepova, da ne moraju da čekiraju torbe na ulazu i izlazu. Udobne
+   patike… zapravo, mene dosta zezaju, zato što imam više stila i ne nosim
+   patike za hajking. Kapuljače koje se skidaju, čizme sa rajsfešlusima da
+   bi mogao lakše da ih skineš za vožnju. Ljudi sa sobom nose japanke, da
+   bi mogli da ih nose posle vožnje u kojoj ima vode".
+   Reklame
+
+   Džordan – čija opsesija vožnjama je počela kada je bila tinejdžerka i
+   igrala "Rolerkosterskog tajkuna", igru u kojoj sam praviš svoj tematski
+   park – opisuje kako su internet forumi rolerkoster gikova prepuni
+   nadmetanja.
+
+   „Moj verenik misli da je rolerkoster gik, ali u stvari nije. Ima neka
+   znanja, ali još nije na nivou gika. Drugi gikovi bi ga osuđivali", kaže
+   ona. „Nije reč samo o poznavanju vožnji; treba znati i proizvođače,
+   planove, troškove izgradnje. Sve. Ima gikova koji znaju koliko šrafova
+   ima na svakoj vožnji u Diznilendu. Drugi imaju spiskove svojih deset
+   omiljenih vožnji, sa unešenim datumima kada se redosled promenio. To je
+   veoma, veoma ozbiljno".
+
+   Na internetu besne svađe oko omiljenih pojaseva – šipki koje te
+   održavaju u sedištu – i koji tip telesne građe je najbolji za
+   rolerkostere: visoki, niski, mršavi ili debeli. Ali ta opsesivnost se
+   ne svodi samo na vožnje, kaže Džordan: „Unutar tematskih parkova
+   postoje određeni delovi za koje znaju samo rolerkoster gikovi. Unutar
+   Kolosa u Torp parku, graditelji, firma Intamin, su prilikom izgradnje
+   slučajno u strukturi ostavili nišu u obliku sedišta, koja je sada među
+   gikovima poznata kao ʼItaminov prestoʼ. Mnogi od entuzijasta za
+   rolerkostere se tu slikaju, a mnogi se tu vere ili zaprose nekoga".
+
+   Džordan se nije verila na Itaminovom prestolu – ta čast je bila
+   rezervisana za Pirate sa Kariba u tokijskom Diznilendu. Ne da joj je to
+   omiljena vožnja. „U Pensilvaniji postoji rolerkoster koji se zove
+   Skajraš. Zamislite da se vozite na rolerkosteru koji se rita kao divlji
+   mustang, i neprekidno pokušava da vas zbaci, ali sa udobnim pojasem
+   koji vas drži. Stvarno je dobra i brza", kaže ona, opisujući njen Sveti
+   gral rolerkostera. „Takođe, tu je i Magična planina šest zastava – to
+   je Meka rolerkostera. Odeš gore i vidiš samo rolerkostere kako se
+   protežu u nedogled".
+   Reklame
+
+   Fil u Torp parku
+
+   Fil Pričard, 30, radi u jednoj farmaceutskoj kompaniji, ali možda ne
+   iznenađuje to što mu lekovi nisu prva strast. Prva strast su mu
+   tematski parkovi. I to jedan posebno.
+
+   „Na internetu nije bilo mnogo toga o Torp parku, pa sam napravio
+   Sećanja Torp parka. Sada na njemu ima između 30 i 50 hiljada
+   fotografija Torp parka", kaže on. Jednostavno sam se obratio blogerima
+   i pitao da li mogu da delim njihov sadržaj. Imam sve, od starih logoa,
+   fotografija vožnji kojih više nema, čak i stare „Torp park rendžere" –
+   maskote parka".
+
+   Fil ističe da je jedan ključni momenat u istoriji ovog tematskog parka
+   sve promenio za njegov sajt. „Požar 2000. godine je bio veoma težak
+   trenutak", kaže on. „I dalje se rastužim kada se toga setim. Dve vožnje
+   koje su stradale su mi bile bitne dok sam odrastao – Fantomska
+   fantazija i Spori voz duhova, to su mi bile omiljene vožnje kada sam
+   bio dete. To je za mene bio veliki šok, naročito način na koji su
+   nestale. Nikada ništa zvanično nije bilo obavljeno, ali pretpostavljam
+   da je cigareta izazvala požar".
+
+   Fil, koji ipak posećuje i druge parkove osim Torpa, kaže da su mu
+   rolerkosteri fiksacija zbog nestvarne konstrukcije. „Ne postoji ništa
+   slično tematskom parku. To je kao da si došao na snimanje filma", kaže
+   on. Nigde na planeti ne možeš iz dubokog svemira da se prebaciš na
+   gusarski brod, pa na neku horor temu, a da ne misliš da je sve to
+   besmisleno. Volim da na takav način obuzdajem svoju skeptičnost".
+   Reklame
+
+   Vožnja na Testeri u Torp parku, iz subjektivne perspektive
+
+   Postoji aspekt zajedništva u kulturi rolerkoster gikova, a naravno,
+   osnovna privlačnost ovih vožnji je očigledna: pomalo ti se učini kao da
+   letiš. Kapiram to. Shvatam zašto se ljudi zainteresuju za rolerkostere
+   i kako prolazna zanimacija može da se pretvori u veliku strast. Ali
+   ovim rolerkoster gikovima sigurno dosadi da isponova i isponova
+   proživljavaju isto dvominutno iskustvo?
+
+   Serena, koje se do sada hiljadu puta vozila na Testeri, kaže da joj
+   nikada ne dosadi – i objašnjavajući zašto, ona sumira zašto toliko
+   mnogo rolerkoster gikova biva opčinjeno višesatnim čekanjem u redu za
+   kratki nalet adrenalina.
+
+   „Za mene, stvarno sjajan rolerkoster ima svoju priču. Kao rolerkoster,
+   Testera ima predivan ritam. Ima zatvoreni deo, mnogo interaktivnih
+   tačaka dok prolaziš, i svaki put uočiš neki novi element. Od trenutka
+   kada je ugledaš, dok čekaš i kada se voziš, priča mora da se odmotava.
+
+   Meni je najbolja kada pljušti kiša. Znaš li da ide malo brže kada su
+   šine mokre i točkovi klizaviji? Testera po kiši i mraku, to mi je
+   apsolutni favorit".
+
+   Pratite VICE na Facebooku, Twitteru i Instagramu
+   Tagged:Vice BlogfenomeniPutovanjagikoviTematski park
+   Reklame
+
+     * O Nama
+     * Partner
+     * Uslovi korišćenja
+     * VICE MEDIA PRIVACY POLICY
+     * Podešavanja privatnosti
+     *
+
+   © 2022 VICE MEDIA GROUP

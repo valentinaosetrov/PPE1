@@ -1,128 +1,310 @@
-    #alternate alternate
+   ﻿ #alternate alternate alternate
 
-   ____________________
+   [logo.png]
 
-   VoxFeminae VoxFeminae
-
-   VoxFeminae VoxFeminae
-     * Vijesti
-     * Kultura
-     * Pravednost
-     * Strašne žene
-     * Feministyle
-     * Kalendar događanja
-     * Autor⁞ice
-     * O nama
-     * 16. Vox Feminae festival
-     * Šesnaestica
-
-   FeministyleObjavljeno 13.02.2010.Milena Benini
-
-Vrijeme gikuša
-
-   Ako ste se možda pitale tko su to gikuše, odgovor je vrlo jednostavan.
-   Sve smo mi gikuše. Ili ćete možda reći da nemate doma računalo? Da još
-   uvijek razgovarate samo...
-
-     Ako ste se možda pitale tko su to gikuše, odgovor je vrlo
-     jednostavan. Sve smo mi gikuše. Ili ćete možda reći da nemate doma
-     računalo? Da još uvijek razgovarate samo s fiksne linije? Da glazbu
-     slušate samo s kaseta i eventualno vinilnih ploča? Da nikad niste
-     pogledali ni jednu epizodu Zvjezdanih staza? Da ne brijete po
-     internetu? Pa kako onda ovo čitate?
-
-   Pomirimo se s istinom. Živimo u vrijeme kojim vladaju gikovi i gikuše.
-   Ali to je, zapravo, i dobro. Nekad prezrena, marginalizirana i
-   marginalna društvena skupina, gikovi i gikuše danas su postali potpuno
-   mainstream, i zajedno sa sobom ponijeli su i neke prilično pametne
-   osobine. Gikovi su, naime, oduvijek bili skloni prtljanju u sve i
-   svašta, po principu uradi sam. Recikliranje im nije strano, a
-   cjeloživotno obrazovanje podrazumijeva se samo po sebi. Sve su to
-   osobine koje se danas smatraju povoljnima i poželjnima u svakome. Da ni
-   ne govorimo kako je snalaženje u tehnologiji – nekad određujuća osobina
-   gikova i gikuša – danas neophodno za golo preživljavanje.
-
-   No, dok srednjostrujaški mediji sve više prostora posvećuju muškim
-   gikovima (zapanjujuće, znam), gikuše se još uvijek u mnogome moraju
-   boriti za svoj prostor, i tehnološke igračke koje će ih veseliti a da
-   pri tome ne budu ružičaste. Kad i uspijemo napraviti neki korak, obično
-   je relativno malen. Ali nema veze, mi gikuše imamo strpljenja, i
-   prokrčujemo si puteve na svoj način.
-
-Kad može Barbie…
-
-   Tako smo ga prokrčile i do najsrednjestrujaškije ženske ikone koje
-   postoji – Barbie lutke. Da, vjerovale ili ne, najnovija, 125. Barbie po
-   redu bit će ni manje ni više nego – računalna inženjerka. A do toga
-   nije došlo slučajno, već upravo angažmanom gikuša: kompanija koja
-   izrađuje Barbike, Mattel, organizirala je, naime, on-line glasanje
-   publike, tražeći koja će karijera zadesiti tu polujubilarnu, 125.
-   inkarnaciju Barbie, pozivajući ljude na sudjelovanje putem Barbiene
-   Facebook stranice i Twittera.
-
-   Žene koje se bave tehnologijom udružile su se, potičući i druge žene da
-   se uključe, i uspjele su izglasati upravo računalno inženjerstvo kao
-   125. karijeru popularne lutke. Kompjuterašica Barbie dizajnirana je u
-   suradnji s Udruženjem inženjerki, te je tako opremljena odgovarajućim
-   tehnološkim igračkama: notebookom (koji je, nažalost, još uvijek
-   ružičast, ali bar na svom ekranu ima binarni kod, a ne LOLmačke i
-   jednoroge), kao i smartphoneom s bluetooth slušalicom.
-
-   Možda to i ne djeluje kao neki velik i važan korak, ali ipak je bitan
-   napredak u odnosu na onu ozloglašenu Barbie iz 1992. (!) godine, koja
-   je izgovarala rečenicu “Matematika je teška.”
-
-   Sada će, kaže Nora Lin, predsjednica Udruženja inženjerki, “sve
-   djevojčice koje svoju budućnost zamišljaju kroz Barbie naučiti da su
-   inženjerke – kao i djevojke – slobodne istraživati beskrajne
-   mogućnosti, ograničene samo njihovom maštom. Kao računalna injženjerka,
-   Barbie će pokazati djevojčicama da žene mogu svoje zamisli pretvoriti u
-   stvarnost koja ima izravan i pozitivan utjecaj na svakodnevne živote
-   ljudi.”
-
-     Prema tome, ne brinite. Sve smo mi gikuše.
-     I kao takve, osvojit ćemo svijet.
-
-   # Barbie# geekuša# stem
-
-Milena Benini
+Алати за приступачност
      __________________________________________________________________
 
-   Povezano
+Величина текста
 
-   Pravednost
+   (BUTTON) [minus.png]
+   (BUTTON) [plus.png]
 
-Lara Semeš: Natjecateljsko programiranje je odlična prilika za pokazivanje
-kreativnosti
+Контраст
 
-   "Možda je kompetitivnost između cura i dečkiju najizraženija kada cure
-   postignu odličan rezultat na nekom natjecanju jer nam je uvijek drago
-   kad prestignemo dečke."
+   (BUTTON) A
+   (BUTTON) A
+   (BUTTON) A
+   (BUTTON) A
 
-   Pravednost
+Обележавање линкова
 
-Trebaju li nam izdvojena natjecanja za djevojke?
+   (BUTTON) [link.png]
 
-   Neki smatraju da takva događanja šalju poruku da djevojke nemaju
-   jednake sposobnosti kao dječaci, dok drugi vjeruju da tako mogu
-   potaknuti djevojke da se uključe u STEM područja.
+Прилагођена читљивост
 
-   Vijesti
+   (BUTTON) АБВ
+   (BUTTON) Поништи подешавања (BUTTON) Затвори алате
 
-Četiri srednjoškolke iz Hrvatske na 1. Europskoj informatičkoj olimpijadi za
-djevojke
+   Developed by: NewTec Solutions & TNation
+   [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS]
+   [INS: :INS]
+   [INS: :INS]
 
-   Naše predstavnice osvojile su dva srebra i zlato.
+   Petak, 02.12.2022. ✝ Verski kalendar
+   Verski kalendar
+   ☦ Sv. prorok Avdija; Sv. muč. Varlaam; Prep. Joasaf; Prep. Porfirije
+   Kavsokalivit
+   ☨ Bibijana, Živka, Blanka
+   ✡ 8. Kislev
+   ☪ Bibijana, Živka, Blanka
+   € Kursna lista
+   Kursna lista
+    Kup.  Prod.  Sred.
+   116.96 117.66 117.31
+   111.04 111.71 111.37
+   118.5  119.21 118.85
+   Izdanja Čitulje
+   Ćirilica
+   accessibility-tools
+   Politika logo
 
-   Vijesti
+   Politika Logo Meni
+     * Naslovna
+     * Najnovije vesti
+     * Svet
+     * Politika
+     * SP 2022
+     * Društvo
+     * Pogledi
+     * Hronika
+     * Ekonomija
+     * Kultura
+     * Beograd
+     * Sport
+     * Region
+     * Sve
+     *
 
-Kritike učinile svoje: ”LEGO” i ”Barbie” uveli dugoočekivane promjene
+   Mozaik Pisma čitalaca Moj život u inostranstvu Priča o Kini Zdravlje
 
-   Lego je napokon odlučio poslušati zahtjeve osoba s invaliditetom...
+   [INS: :INS] [INS: :INS]
 
-   Feministyle
+   [politika-logo-nopadding.svg]
 
-Barbie ispada iz mode ili Neka nova Barbie
+   Nedelja, 05.07.2015. u 20:52 I. A.
 
-   "I'm a Barbie girl, in the Barbie world Life in plastic, it's
-   fantastic!" Zadnjih godina plastični, šljokičasti svijet opasno se...
+Tom Kruz protiv dronova u nastavku „Top gana”
+
+   [677z381_kruz.jpg]
+   Сцена из „Топ гана” из 1986. године (Промотивна фотографија)
+
+   Zaplet drugog dela filma „Top gan” činiće borba pilota „stare škole” i
+   najnovije generacije dronova, najavio je Dejvid Elison, producent
+   nastavka čuvenog blokbastera iz 1986. godine. Kako je preneo londonski
+   „Gardijan”, Elison je potvrdio i da će Kruz reprizirati ulogu pilota
+   borbenih aviona, Pita Mičela – Maverika.
+
+   Scenario uveliko piše Džastin Marks, film će biti sniman u 3D
+   tehnologiji, a očekuje se da će Kruz (52), po svom poznatom običaju,
+   insistirati da lično odigra gotovo sve opasne scene odnosno da ni ovoga
+   puta neće koristiti dublera.
+
+   Nastavak film će biti priča o pilotima borbenih aviona kojima „vreme
+   polako ističe”, pa sve češće u vazdušnim napadima bivaju zamenjeni
+   dronovima. Maverik, u prvom delu mladić željan dokazivanja, moraće da
+   nađe svoje mesto u svetu u kom njegove sposobnosti više nisu potrebne
+   vojnoj industriji.
+
+   Vesti o nastavku „Top gana” prvi put su se pojavile pre pet godina,
+   kada je reditelj Toni Skot, koji je u međuvremenu preminuo, angažovan
+   za pripreme snimanja drugog dela. Skot je tada izjavio da nije
+   nameravao da se vrati u svet junaka (Maverika, Ledenog i Gusa), ali da
+   je bio inspirisan razgovorom s jednim mladim pilotom koji je radio sa
+   dronovima.
+
+   „To je danas jedan sasvim drugi svet. Ti kompjuterski gikovi, ta deca
+   se igraju rata u prikolici nasred Nevade”, naveo je tada Skot, preneo
+   je Tanjug.
+
+   Zasad se još ne zna ko će biti reditelj nastavka niti kada će on biti
+   prikazivan u bioskopima, ali obožavaoci mogu, u međuvremenu, da se
+   zabave uz dvojnika Toma Kruza, odnosno Maverika, koji je postao zvezda
+   na internetu. Reč je o pakistanskom pilotu Jasiru Musaderu, čija je
+   fotografija, snimljena tokom aero-mitinga na aerodromu Le Burže, pored
+   Pariza, preplavila društvene mreže. Pakistanski pilot vrlo podseća na
+   drčnog pilota „Top gana”.
+
+   Uz priču o pilotima i ljubavnu vezu između glavnih junaka, koje su
+   tumačili Kruz i Keli Makgilis, film je ostao upamćen i po baladi „Take
+   My Breath Away” grupe „Berlin”, koja je nagrađena Oskarom za najbolju
+   pesmu komponovanu za potrebe filma. U filmu su igrali i Meg Rajan, Tom
+   Skerit i Val Kilmer (Ledeni).
+
+   „Top gan” je snimljen u jeku hladnog rata, pa je imao mnogo patriotskih
+   replika, a prema mišljenju mnogih kritičara, površnost s kojom je
+   tretiran eventualni oružani sukob SAD-a i SSSR-a bila je izraz
+   militarizma. Inače, producenti Don Simpson i Džeri Brukhajmer uživali
+   su tokom snimanja do tada nezapamćenu podršku američke ratne mornarice,
+   Pentagona i Reganove administracije, zbog čega je film često
+   proglašavan za dugačak reklamni spot za vojsku SAD-a.
+
+   Danas se „Top gan” posmatra samo kao jedan od prvih modernih
+   holivudskih blokbastera (budžet filma bio je 15 miliona dolara a širom
+   sveta zaradio je 356 miliona), odnosno kao film koji je marketinški
+   proizvod zasnovan na romantičnoj priči i dobroj muzici i zabavlja
+   gledaoca samo dok se ne upale svetla u bioskopskoj sali.
+
+Подели ову вест
+
+   [INS: :INS] [INS: :INS]
+   Komentari0
+   [member-no-image.png]
+   ____________________
+   ____________________
+
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Pošaljite komentar
+   Molimo vas da sе u komеntarima držitе tеmе tеksta. Rеdakcija Politikе
+   ONLINE zadržava pravo da – ukoliko ih procеni kao nеumеsnе - skrati ili
+   nе objavi komеntarе koji sadržе osvrtе na nеčiju ličnost i privatan
+   život, uvrеdе na račun autora tеksta i/ili članova rеdakcijе „Politikе“
+   kao i bilo kakvu prеtnju, nеpristojan rеčnik, govor mržnjе, rasnе i
+   nacionalnе uvrеdе ili bilo kakav nеzakonit sadržaj. Komеntarе pisanе
+   vеrzalom i linkovе na drugе sajtovе nе objavljujеmo. Politika ONLINE
+   nеma nikakvu obavеzu obrazlaganja odluka vеzanih za skraćivanjе
+   komеntara i njihovo objavljivanjе. Rеdakcija nе odgovara za stavovе
+   čitalaca iznеsеnе u komеntarima. Vaš komеntar možе sadržati najvišе
+   1.000 pojеdinačnih karaktеra, i smatra sе da stе slanjеm komеntara
+   potvrdili saglasnost sa gorе navеdеnim pravilima.
+   This site is protected by reCAPTCHA and the Google Privacy Policy and
+   Terms of Service apply.
+     __________________________________________________________________
+
+   60x60
+   ____________________
+   ____________________
+
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Pošaljite komentar
+     __________________________________________________________________
+
+Komentar uspešno dodat!
+
+   Vaš komentar će biti vidljiv čim ga administrator odobri.
+
+   Početna / Vesti kultura i zabava
+
+   Povezane Teme
+   film
+   [INS: :INS] [INS: :INS]
+   [INS: :INS]
+   [294z166_1-6389e29698b82.jpg]
+
+Revija slovenačkih filmova
+
+   [294z166_jadranska-mreza-nagrada.gif]
+
+Film „Alma Viva” portugalske rediteljke Kristel Alves Mera dobitnik…
+
+   [294z166_stric.gif]
+
+Beogradska premijera filma „Stric“ sa Mikijem Manojlovićem i…
+
+   [294z166_janjic.jpg]
+
+Preminuo glumac Davor Janjić
+
+   [294z166_elvis.jpg]
+
+Elvis Prisli ponovo na vrhu liste najslušanijih albuma
+
+   [294z166_bitlsi.jpg]
+
+Gitara Džona Lenona prodata za 2,4 miliona dolara
+
+   [294z166_bond.jpg]
+
+Bond obara rekorde
+
+   [294z166_brit-flojd.jpg]
+
+„Brit flojd” večeras u Beogradu izvodi muziku „Pink flojda”
+
+Pročitajte još:
+
+   [60z60_a.jpg]
+   Kultura
+   Kustendorf predstave 10. decembra na Mećavniku
+   [60z60_11129252.jpg]
+   Ostali sportovi
+   Otkazana trka Formule 1 za Veliku nagradu Kine
+   [60z60_8015644.jpg]
+   SP 2022
+   Stojković: Ne razmišljajte o utakmici u Rusiji
+   [60z60_10896072--1-.jpg]
+   Ekonomija
+   Evropska komisija predlaže kaznu za kompanije koje prekrše sankcije
+   Rusiji
+   [60z60_677z381_677z381_Peter-Stano.jpg]
+   Politika
+   Stano: Imenovanje Rašića razočarenje, nije u saglasnosti sa ustavom
+   Kosova
+   [60z60_Valjevo-dobija-nove-socijalne-stanove--Foto-S--Ciric-.jpg]
+   Društvo
+   Počinje izgradnja 20 socijalnih stanova u Valjevu
+   [60z60_radiator-pixa.jpg]
+   Beograd
+   Računi za period kada nije bilo grejanja ostaju isti
+   [60z60_11130780.jpg]
+   SP 2022
+   Ako je pravde, utakmica počinje penalom za Srbiju
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+Овај веб сајт користи колачиће
+
+   Сајт politika.rs користи колачиће у циљу унапређења услуга које пружа.
+   Прикупљамо искључиво основне податке који су неопходни за прилагођавање
+   садржаја и огласа, надзор рада сајта и апликације. Подаци о навикама и
+   потребама корисника строго су заштићени. Даљим коришћењем сајта
+   politika.rs подразумева се да сте сагласни са употребом колачића.
+   (BUTTON) Дозволи колачиће
+
+   © Politika OnlinePolitika novine i MagaziniTrg Politika 1, Beograd,
+   Srbija
+   [banner-aaa-v-progressive.jpeg]
+   Meni
+     *
+     * Najnovije vesti
+     * Svet
+     * Politika
+     * SP 2022
+     * Društvo
+     * Pogledi
+     * Hronika
+     * Ekonomija
+     * Potrošač
+     * Kultura
+
+
+     * Beograd
+     * Sport
+     * Region
+     * Mozaik
+     * Magazin
+     * TV revija
+     * Gastronomija
+     * Pisma čitalaca
+     * Moj život u inostranstvu
+     * Priča o Kini
+
+   Linkovi
+     * Pretraga
+     * Vremenska prognoza
+     *
+     * Verski kalendar
+
+   Linkovi
+     * Arhiva
+     * Impresum
+     * O nama
+     * Kontakt
+     * Pretplata
+     * Oglašavanje
+     * Pravila korišćenja
+     * Biznis Klub
+     * Pravila o privatnosti
+
+   Arhiva Impresum O nama Kontakt Pretplata Oglašavanje Pravila korišćenja
+   Biznis Klub Pravila o privatnosti
+
+   Developed by: NewTec Solutions  &  TNation
+
+   [INS: :INS]
