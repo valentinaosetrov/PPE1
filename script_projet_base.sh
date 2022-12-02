@@ -62,7 +62,7 @@ echo "$dump" > "./dumps-text/fich-$lineno.txt"
 
 NB_OCC=$(grep -E -o $mot ./dumps-text/fich-$lineno.txt | wc -l)
 
-	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/fich-$lineno.html">html</a></td><td><a href="../dumps-text/fich-$lineno.txt">txt</a></td><td>$NB_OCC</td></tr>" >> $fichier_tableau
+	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="././aspirations/fich-$lineno.html">html</a></td><td><a href="././dumps-text/fich-$lineno.txt">txt</a></td><td>$NB_OCC</td></tr>" >> $fichier_tableau
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));
 done < $fichier_urls
