@@ -34,7 +34,7 @@ echo "<html><body>" > $fichier_tableau
 echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
 echo "<table>" >> $fichier_tableau
-echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>dump html</th><th>dump text</th><th>occurrences</th><th>contextes</th></tr>" >> $fichier_tableau
+echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>dump html</th><th>dump text</th><th>occurrences</th><th>contextes</th><th>concordances</th></tr>" >> $fichier_tableau
 #attention j'avais oublié de rajouter le dernier </th> ici ^ donc maintenant c'est fait 
 
 lineno=1;
@@ -72,14 +72,18 @@ while read -r URL; do
 	fi
 echo "$dump" > "./dumps-text/fich-$lineno.txt"
 
+#pour compter le nombre d'occurrences
 NB_OCC=$(grep -E -o $mot ./dumps-text/fich-$lineno.txt | wc -l)
 
 	
-	#extraction des contextes
-	
+#pour extraire des contextes A=after, B=before (droite et gauche)	
 grep -E -A2 -B2 $mot ././dumps-text/fich-$lineno.txt > ././contextes/fich-$lineno.txt
 
-	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="././aspirations/fich-$lineno.html">html</a></td><td><a href="././dumps-text/fich-$lineno.txt">txt</a></td><td>$NB_OCC</td><td><a href="././contextes/fich-$lineno.txt">contextes</a></td></tr>" >> $fichier_tableau 
+#pour construire des concordanciers avec cooccurrences depuis une commande externe
+bash ./concordance.sh ././dumps-text/fich-$lineno.txt $mot > ././concordances/fich-$lineno.html
+
+
+	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="././aspirations/fich-$lineno.html">html</a></td><td><a href="././dumps-text/fich-$lineno.txt">txt</a></td><td>$NB_OCC</td><td><a href="././contextes/fich-$lineno.txt">contextes</a></td><td><a href="././concordances/fich-$lineno.html">concordance</a></td></tr>" >> $fichier_tableau 
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));
 done < $fichier_urls
