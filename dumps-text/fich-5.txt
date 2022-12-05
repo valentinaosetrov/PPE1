@@ -1,128 +1,309 @@
-   #VOA - Top Stories [RSS]
+   ﻿ #alternate alternate alternate
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-N8MP7P
+   [logo.png]
 
-   analytics
-
-Linkovi
-
-     * Idi na glavni sadržaj
-     * Idi na glavnu navigaciju
-     * Idi na pretragu
-
-   (BUTTON) Sledeća
-   (BUTTON) Zatvorite (BUTTON) Prethodna (BUTTON) Sledeća
-   please wait
-
-Print Options:
-
-     * [X] Images
-     * [X] Multimedia
-
-     * [X] Embedded Content
-     * [ ] Comments
-
-   (BUTTON) Otkažite (BUTTON) Print
-   Link has been copied to clipboard
-   [ ]
-
-     * NASLOVNA
-     * [X] RUBRIKE
-       AMERIKA BALKAN GLOBALNE TEME EKONOMIJA NAUKA I TEHNOLOGIJA MEDICINA
-       KULTURA DRUŠTVO SPORT INTERVJU
-     * [X] TV PROGRAM
-       Otvoreni studio Iz Amerike
-
-   Learning English
-
-Pratite nas
-
-   Jezici
-   [ ]
-   Pretraga ____________________ (BUTTON)
-   site logo site logo
-   Pretraga ____________________ (BUTTON)
-   site logo site logo
-   Prethodna Sledeća
-   [ ] Najnovije
-
-   Aktuelno
-
-Internet prodavnica za zagrižene kompjuteraše - 2004-04-02
-
-   02 april, 2004
+Алати за приступачност
      __________________________________________________________________
 
-   Podelite
-     *
-     *
-     * ____________________ (text)
-     *
+Величина текста
+
+   (BUTTON) [minus.png]
+   (BUTTON) [plus.png]
+
+Контраст
+
+   (BUTTON) A
+   (BUTTON) A
+   (BUTTON) A
+   (BUTTON) A
+
+Обележавање линкова
+
+   (BUTTON) [link.png]
+
+Прилагођена читљивост
+
+   (BUTTON) АБВ
+   (BUTTON) Поништи подешавања (BUTTON) Затвори алате
+
+   Developed by: NewTec Solutions & TNation
+   [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS]
+   [INS: :INS]
+   [INS: :INS]
+
+   Ponedeljak, 05.12.2022. ✝ Verski kalendar
+   Verski kalendar
+   ☦ Vavedenje Presvete Bogorodice
+   ☨ 2. ned. Došašća Ivan Damaščanski, Barbara
+   ✡ 10. Kislev
+   ☪ 10. Džumada-l-ula
+   € Kursna lista
+   Kursna lista
+    Kup.  Prod.  Sred.
+   116.94 117.65 117.3
+   110.55 111.22 110.89
+   118.19 118.9  118.54
+   Izdanja Čitulje
+   Ćirilica
+   accessibility-tools
+   Politika logo
+
+   Politika Logo Meni
+     * Naslovna
+     * Najnovije vesti
+     * Svet
+     * Politika
+     * SP 2022
+     * Društvo
+     * Pogledi
+     * Hronika
+     * Ekonomija
+     * Kultura
+     * Beograd
+     * Sport
+     * Region
+     * Sve
      *
 
+   Mozaik Pisma čitalaca Moj život u inostranstvu Priča o Kini Zdravlje
 
-   Internet prodavnica za zagrižene kompjuteraše - 2004-04-02
+   [INS: :INS] [INS: :INS]
 
-   share
+   [politika-logo-nopadding.svg]
+
+   Nedelja, 05.07.2015. u 20:52 I. A.
+
+Tom Kruz protiv dronova u nastavku „Top gana”
+
+   [677z381_kruz.jpg]
+   Сцена из „Топ гана” из 1986. године (Промотивна фотографија)
+
+   Zaplet drugog dela filma „Top gan” činiće borba pilota „stare škole” i
+   najnovije generacije dronova, najavio je Dejvid Elison, producent
+   nastavka čuvenog blokbastera iz 1986. godine. Kako je preneo londonski
+   „Gardijan”, Elison je potvrdio i da će Kruz reprizirati ulogu pilota
+   borbenih aviona, Pita Mičela – Maverika.
+
+   Scenario uveliko piše Džastin Marks, film će biti sniman u 3D
+   tehnologiji, a očekuje se da će Kruz (52), po svom poznatom običaju,
+   insistirati da lično odigra gotovo sve opasne scene odnosno da ni ovoga
+   puta neće koristiti dublera.
+
+   Nastavak film će biti priča o pilotima borbenih aviona kojima „vreme
+   polako ističe”, pa sve češće u vazdušnim napadima bivaju zamenjeni
+   dronovima. Maverik, u prvom delu mladić željan dokazivanja, moraće da
+   nađe svoje mesto u svetu u kom njegove sposobnosti više nisu potrebne
+   vojnoj industriji.
+
+   Vesti o nastavku „Top gana” prvi put su se pojavile pre pet godina,
+   kada je reditelj Toni Skot, koji je u međuvremenu preminuo, angažovan
+   za pripreme snimanja drugog dela. Skot je tada izjavio da nije
+   nameravao da se vrati u svet junaka (Maverika, Ledenog i Gusa), ali da
+   je bio inspirisan razgovorom s jednim mladim pilotom koji je radio sa
+   dronovima.
+
+   „To je danas jedan sasvim drugi svet. Ti kompjuterski gikovi, ta deca
+   se igraju rata u prikolici nasred Nevade”, naveo je tada Skot, preneo
+   je Tanjug.
+
+   Zasad se još ne zna ko će biti reditelj nastavka niti kada će on biti
+   prikazivan u bioskopima, ali obožavaoci mogu, u međuvremenu, da se
+   zabave uz dvojnika Toma Kruza, odnosno Maverika, koji je postao zvezda
+   na internetu. Reč je o pakistanskom pilotu Jasiru Musaderu, čija je
+   fotografija, snimljena tokom aero-mitinga na aerodromu Le Burže, pored
+   Pariza, preplavila društvene mreže. Pakistanski pilot vrlo podseća na
+   drčnog pilota „Top gana”.
+
+   Uz priču o pilotima i ljubavnu vezu između glavnih junaka, koje su
+   tumačili Kruz i Keli Makgilis, film je ostao upamćen i po baladi „Take
+   My Breath Away” grupe „Berlin”, koja je nagrađena Oskarom za najbolju
+   pesmu komponovanu za potrebe filma. U filmu su igrali i Meg Rajan, Tom
+   Skerit i Val Kilmer (Ledeni).
+
+   „Top gan” je snimljen u jeku hladnog rata, pa je imao mnogo patriotskih
+   replika, a prema mišljenju mnogih kritičara, površnost s kojom je
+   tretiran eventualni oružani sukob SAD-a i SSSR-a bila je izraz
+   militarizma. Inače, producenti Don Simpson i Džeri Brukhajmer uživali
+   su tokom snimanja do tada nezapamćenu podršku američke ratne mornarice,
+   Pentagona i Reganove administracije, zbog čega je film često
+   proglašavan za dugačak reklamni spot za vojsku SAD-a.
+
+   Danas se „Top gan” posmatra samo kao jedan od prvih modernih
+   holivudskih blokbastera (budžet filma bio je 15 miliona dolara a širom
+   sveta zaradio je 356 miliona), odnosno kao film koji je marketinški
+   proizvod zasnovan na romantičnoj priči i dobroj muzici i zabavlja
+   gledaoca samo dok se ne upale svetla u bioskopskoj sali.
+
+Подели ову вест
+
+   [INS: :INS] [INS: :INS]
+   Komentari0
+   [member-no-image.png]
+   ____________________
+   ____________________
+
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Pošaljite komentar
+   Molimo vas da sе u komеntarima držitе tеmе tеksta. Rеdakcija Politikе
+   ONLINE zadržava pravo da – ukoliko ih procеni kao nеumеsnе - skrati ili
+   nе objavi komеntarе koji sadržе osvrtе na nеčiju ličnost i privatan
+   život, uvrеdе na račun autora tеksta i/ili članova rеdakcijе „Politikе“
+   kao i bilo kakvu prеtnju, nеpristojan rеčnik, govor mržnjе, rasnе i
+   nacionalnе uvrеdе ili bilo kakav nеzakonit sadržaj. Komеntarе pisanе
+   vеrzalom i linkovе na drugе sajtovе nе objavljujеmo. Politika ONLINE
+   nеma nikakvu obavеzu obrazlaganja odluka vеzanih za skraćivanjе
+   komеntara i njihovo objavljivanjе. Rеdakcija nе odgovara za stavovе
+   čitalaca iznеsеnе u komеntarima. Vaš komеntar možе sadržati najvišе
+   1.000 pojеdinačnih karaktеra, i smatra sе da stе slanjеm komеntara
+   potvrdili saglasnost sa gorе navеdеnim pravilima.
+   This site is protected by reCAPTCHA and the Google Privacy Policy and
+   Terms of Service apply.
+     __________________________________________________________________
+
+   60x60
+   ____________________
+   ____________________
+
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Pošaljite komentar
+     __________________________________________________________________
+
+Komentar uspešno dodat!
+
+   Vaš komentar će biti vidljiv čim ga administrator odobri.
+
+   Početna / Vesti kultura i zabava
+
+   Povezane Teme
+   film
+   [INS: :INS] [INS: :INS]
+   [INS: :INS]
+   [294z166_ramila-bozic-wiki.jpg]
+
+„Crne šamije” ponovo među Srbima
+
+   [294z166_qqas.jpg]
+
+Uzbuna u bošnjačkoj dijaspori zbog filma o RS
+
+   [294z166_Oliver-Stoun.gif]
+
+Moćna platforma za slavljenje filma
+
+   [294z166_gg-638a4603d2eb6.jpg]
+
+Festival srpskog filma u Čikagu
+
+   [294z166_elvis.jpg]
+
+Elvis Prisli ponovo na vrhu liste najslušanijih albuma
+
+   [294z166_bitlsi.jpg]
+
+Gitara Džona Lenona prodata za 2,4 miliona dolara
+
+   [294z166_bond.jpg]
+
+Bond obara rekorde
+
+   [294z166_brit-flojd.jpg]
+
+„Brit flojd” večeras u Beogradu izvodi muziku „Pink flojda”
+
+Pročitajte još:
+
+   [60z60_677z381_hrvatska-policija.jpg]
+   Region
+   Lažne dojave o bombama širom Hrvatske
+   [60z60_yyy.jpg]
+   Društvo
+   Kiša sutra u Srbiji
+   [60z60_hhh-638de1649e248.jpg]
+   Hronika
+   Uhapšeno više osoba zbog krađe 26 tona suncokreta u Zrenjaninu
+   [60z60_medical-563427_1920.jpg]
+   Zdravlje
+   Po termin kod specijaliste neće više morati da se ide od 1. do 5. u
+   mesecu
+   [60z60_tttt.jpg]
+   Politika
+   Ana Brnabić: Povećavamo plate, penzije, investicije
+   [60z60_Dodik-i-Konakovic-u-Laktasima--Foto-Tviter-.jpg]
+   Region
+   Nešto novo u BiH: Dodik i Konaković zajedno na utakmici
+   [60z60_eee.jpg]
+   Društvo
+   Većina muzejskih ustanova delimično pristupačna osobama sa
+   invaliditetom
+   [60z60_677z381_gradiliste.jpg]
+   Hronika
+   Visoko obrazovanje za poslove bezbednosti i zdravlja na radu
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+Овај веб сајт користи колачиће
+
+   Сајт politika.rs користи колачиће у циљу унапређења услуга које пружа.
+   Прикупљамо искључиво основне податке који су неопходни за прилагођавање
+   садржаја и огласа, надзор рада сајта и апликације. Подаци о навикама и
+   потребама корисника строго су заштићени. Даљим коришћењем сајта
+   politika.rs подразумева се да сте сагласни са употребом колачића.
+   (BUTTON) Дозволи колачиће
+
+   © Politika OnlinePolitika novine i MagaziniTrg Politika 1, Beograd,
+   Srbija
+   [banner-aaa-v-progressive.jpeg]
+   Meni
      *
+     * Najnovije vesti
+     * Svet
+     * Politika
+     * SP 2022
+     * Društvo
+     * Pogledi
+     * Hronika
+     * Ekonomija
+     * Potrošač
+     * Kultura
+
+
+     * Beograd
+     * Sport
+     * Region
+     * Mozaik
+     * Magazin
+     * TV revija
+     * Gastronomija
+     * Pisma čitalaca
+     * Moj život u inostranstvu
+     * Priča o Kini
+
+   Linkovi
+     * Pretraga
+     * Vremenska prognoza
      *
-     * ____________________ (text)
-     *
-     *
+     * Verski kalendar
 
-   (BUTTON) Print
+   Linkovi
+     * Arhiva
+     * Impresum
+     * O nama
+     * Kontakt
+     * Pretplata
+     * Oglašavanje
+     * Pravila korišćenja
+     * Biznis Klub
+     * Pravila o privatnosti
 
-   Da li poznajete nekog zagriženog kompjuteraša? To su one osobe koje su
-   u stanju da satima i danima sede za kompjuterom, da prièaju samo o
-   kompjuterima i kupuju samo najnovije tehnološke stvarèice - bez obzira
-   na to da li su im stvarno potrebne ili ne. U amerièkom slengu takva
-   osoba naziva se ”gik.“ Gikovi su poznati i po tome što piju mnogo kafe,
-   kako bi što duže bili budni, što jedu na brzinu pripremljenu hranu, i
-   što za razonodu koriste elektronske igraèke. Neki od ”gikova“ dosetili
-   su se da otvore specijalizovanu prodavnicu - naravno na internetu - u
-   kojoj njihovi istomišljenici mogu na jednom mestu da nadju sve ono što
-   ih interesuje. Na primer: minijaturnu infracrvenu rernu koja se
-   ugradjuje u kompjuter i u kojoj ”gik“ može da zagreje smrznuti sendviè.
-   Flaster koji postepeno ispušta kafein u krvotok. Ili kompjuter koji je
-   istovremeno kavez za nekog manjeg kuænog ljubimca - miša, hrèka ili
-   morsko prase. Nude se i razna svetleæa tela koja daju karakteristièni
-   elektronski odsjaj, posudje koje svetli iznutra i pri tom èak postepeno
-   menja boju ili svetleæi sat koji pokazuje vreme u binarnim brojevima. A
-   za zabavu gikovi mogu da kupe minijaturno vozilo sa gusenicama, na
-   daljinsko upravljanje, sa ugradjenom video kamerom, koje mogu da šalju
-   u istraživanja po budžacima svog stana. Ako vas interesuje, adresu
-   prodavnice za gikove možete da nadjete na našem sajtu,
-   voanews.com/serbian.
+   Arhiva Impresum O nama Kontakt Pretplata Oglašavanje Pravila korišćenja
+   Biznis Klub Pravila o privatnosti
 
-   Back to top
+   Developed by: NewTec Solutions  &  TNation
 
-     * Pratite nas
-          +
-          +
-          +
-          +
-          +
-          +
-     * TV PROGRAMI
-          + Otvoreni Studio
-          + Iz Amerike
-     * INFORMACIJE
-          + O nama
-          + Kontakt
-          + Privatnost
-          + Dostupnost
-          + Stav vlade SAD
-     * AKTUELNO
-          + Amerika
-          + Globalne teme
-          + Balkan
-          + Intervju
-          + Nauka i tehnologija
-          + Medicina
-          + Kultura
-          + Sport
-
-   XS
-   SM
-   MD
-   LG
+   [INS: :INS]

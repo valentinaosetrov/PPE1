@@ -1,258 +1,272 @@
-   #Obuke i kursevi » dovod alternate alternate alternate
+    #Nedeljnik » Feed Nedeljnik » Comments Feed alternate alternate
+   alternate
 
-   [tr?id=1631359520516037&ev=PageView&noscript=1]
-   [tr?id=492181855197094&ev=PageView&noscript=1]
+     * Naslovna
+     * Vesti
+          + Politika
+          + Društvo
+          + Svet
+          + Sport
+          + Kultura
+          + Biz news
+     * Magazin
+          + Magazin
+          + The New York Times International Report
+          + Le Monde diplomatique
+          + Digital Business Review
+     * Velike priče
+          + Intervju
+          + Reportaže
+          + Feljtoni
+     * World Cup 2022
+     * Zdravlje
+     * Kolumne
+     * Istorija
+     * Nedeljnik
+     * NStore
 
-   Skip to content
-   ____________________ (BUTTON)
+   Pretraga ____________________
 
-   Obuke i kursevi Obuke i kursevi
-   Obuke i kursevi
-     * POČETNA
-     * O NAMA
-          + O NAMA
-          + PREDAVAČI
-          + VESTI I AKTUELNOSTI
-          + ZAŠTO OBUKE I KURSEVI
-          + POSLOVI I PRAKSE
-          + DRUŠTVENA ODGOVORNOST
-          + PREPORUKE KLIJENATA
-          + REFERENCE
-          + GALERIJA
-     * OBUKE
-          +
-        DIGITAL MARKETING OBUKE
-               o Internet/digitalni marketing menadžer
-               o Copywriter
-               o Marketing na društvenim mrežama/Facebook, Instagram, You
-                 Tube…
-               o Kurs Fotografisanja
-               o Kurs Video snimanja
-               o SEO prevodilac
-            IT / PROGRAMERSKE / DIZAJN OBUKE
-               o QA Tester manuelni/QA engineer
-               o Grafički dizajner
-               o Automatizovani QA tester/engineer
-               o Cypress QA Automation
-               o Napredni Excel
-               o Front end web developer
-               o Word, Excel, Power point
-               o AutoCAD dizajn
-            MENADŽMENT / FINANSIJSKE / ADMINISTRATIVNE OBUKE
-               o Pisanje projekata za EU fondove
-               o Knjigovođa/Računovođa
-               o Statističar/analitičar
-               o HR asistent/Ljudski resursi
-               o HR menadžment – profesionalni nivo
-               o Event Project menadžer
-               o Zaštitnik podataka o ličnosti (DPO)
-               o IT regruter
-     * ZAPOSLENJE
-          + Posao – Škola „Obuke i kursevi“
-     * USPESI POLAZNIKA
-     * BLOG
-     * KONTAKT
+   Ovaj sajt koristi kolačiće kojima se osigurava bolje korisničko
+   iskustvo i funkcionalnost stranica. Da li se slažete sa uslovima
+   korišćenja i politikom privatnosti? (BUTTON) Slažem se
+     * Sadržaj novog broja
+     * Pretplata
+     * Digitalno izdanje
+     * Arhiva/stari sajt
+     * Šoping
 
-   ITWeb sajt
+   Nedeljnik Nedeljnik
+   [eIzdanje-nedeljnik-banereseji1.jpg]
+   Nedeljnik Nedeljnik
+     * Naslovna
+     * Vesti
+          + Politika
+          + Društvo
+          + Svet
+          + Sport
+          + Kultura
+          + Biz news
+     * Magazin
+          + SveMagazinThe New York Times International ReportLe Monde
+            diplomatiqueDigital Business Review
+            Istorija
 
-6 razloga da odmah naučiš programiranje. Da, baš ti
+“Ili će Beograd pasti u moje ruke, ili ja padam u…
+            Istorija
 
-   HomeIT6 razloga da odmah naučiš programiranje. Da, baš ti
+Ne, Napoleon uopšte nije bio niskog rasta: Zapravo je bio prosečne…
+            Magazin
 
-   Nekada se posmatralo kao „stvar koja je samo za štrebere“. Nešto čime
-   se bave samo gikovi i frikovi. Međutim, programiranje je danas, u eri
-   informatičkog doba, postalo ne samo unosan posao već i znanje koje je
-   cool.
-   Imajući u vidu da deca u svetu već sa 5 godina počinju da pišu svoje
-   prve linije koda, vreme je da se i ti odvažiš, naučiš programiranje i
-   uradiš odličnu stvar za sebe.
-   Pogledaj 6 razloga koji će te uveriti da je učenje programiranja tvoj
-   iskorak u dobrom pravcu.
+Šest meseci u svemiru: ‘Osećam se tako ponosno…’
+            Magazin
 
-1. Piši kod, razumeće te svi
+OTP banka dobitnik nagrade za najbolju banku u Srbiji prestižnog magazina…
+     * Velike priče
+          + Intervju
+          + Reportaže
+          + Feljtoni
+     * World Cup 2022
+     * Zdravlje
+     * Kolumne
+          + Kolumne
 
-   Kineski jezik govori oko 995 miliona ljudi, španski 405 miliona, dok
-   engleski zna blizu 360 miliona. Šta je ono što ih sve ujedinjuje? Jezik
-   tehnologije. Više od 3 milijarde ljudi je povezano na internet, a
-   tehnologija, iz dana u dan, proširuje njihove okvire i ponašanje. Zato,
-   uđi iza ekrana mobilnih telefona, iza monitora računara i postani
-   kreator koda koji povezuje sve ljude sveta.
+Tijanin princip: Kad je sudija protiv tebe, moraš da daš gol…
+            Kolumne
 
-2. Obezbedi svoju budućnost
+Pohvala lenjosti: Arapi su se uzalud nadali da će Svetski kup…
+            World Cup 2022
 
-   Istraživanja pokazuju da je više od 47 procenata poslova koje danas
-   obavljaju ljudi, izloženo riziku da ih preuzmu roboti. I sve to u
-   narednih desetak godina. Najbolji način da obezbediš svoju poslovnu
-   budućnost jeste razumevanje koda i tehnologije i njihovo stavljanje u
-   službu tvoje kreativnosti i socijalnih veština.
+Ekskluzivna kolumna Filipa Lama: Infantino će od Evropljana dobiti odgovor
+na…
+            World Cup 2022
 
-programiranje 3. Programiranje donosi veliku zaradu
+O starosti, pomračenju i lažnim selektorima
+            Sport
 
-   Nedostatak programera, na globalnom nivou, je ogroman. Izuzetak od ovog
-   pravila nije ni Srbija. Dakle, ako znaš da programiraš – imaš posao. I
-   to dobro plaćen. Tačno je da, u zavisnosti od programskog jezika koji
-   znaš, zavisi i visina zarade (minimalna početna plata je oko 500 evra),
-   ali u najgorem slučaju svaki programer je platom prezadovoljan.
-   Naročito ako se ima u vidu da zarada raste srazmerno iskustvu i vremenu
-   uloženom u programiranje.
+Sreo sam Piksija u predgrađu Dohe i uljudno ga pitao: Gospodine…
+     * Istorija
+     * Nedeljnik
+     * NStore
 
-4. Fleksibilno radno vreme
+   ____________________ Pretraga
+   Naslovna Vesti Svet Navaljni: “Epl i Gugl u dosluhu sa Putinom”
 
-   Programeri nisu prinuđeni da rade 8 sati dnevno za jednu firmu.
-   Naprotiv. Na raspolaganju su im i freelance poslovi (u proseku 31%
-   programera za 24 sata može doći do posla preko online mreža). Benefit
-   ovakvog poslovanja, pored dobre plate, jeste i sloboda u radu. Sa
-   klijentom se dogovara projekat i rok izvršenja. Da li ćeš raditi svakog
-   dana po malo, praviti pauze, imati dane kada nećeš ni pipnuti projekat
-   ili posvetiti 10 sati dnevno programiranju, u potpunosti je na tebi.
-   Jedino što se očekuje je poštovanje roka za završetak projekta.
-   Pri tom, možeš raditi od kuće, iz kafića, na plaži ili gde god ti
-   odgovara.
+     * Vesti
+     * Svet
 
-5. Prvi kao seno, drugi kao slama, a treći nema mana
+Navaljni: “Epl i Gugl u dosluhu sa Putinom”
 
-   Naučiti programiranje, u početku, može delovati zastrašujuće i veoma
-   teško. Ali, to samo tako izgleda. Nije potreban nikakav talenat, veliko
-   predznanje… ništa slično. Samo uloženo vreme i rad. Svako može postati
-   programer.
-   Još jedna prednost programiranja isprva je pomalo sakrivena, ali u
-   pitanju je izuzetno značajna stvar. Naime, nakon što naučiš prvi
-   programski jezik, za drugi ti je potrebno značajno manje vremena, a
-   trećim ćeš ovladati za, praktično, samo nekoliko dana. A sa svakim
-   novim programskim jezikom vredećeš i zarađivati više.
+   Agencija Beta
+   -
+   23/09/2021
+   0
+   Share
+   Facebook
+   Twitter
+   Google+
+   Viber
+   WhatsApp
 
-6. Osećaćeš se „opasno“
+   Profimedia
 
-   Kada naučiš da programiraš postaješ deo zajednice sa posebnim znanjima
-   o tome kako stvari u digitalnom svetu rade. Dakle, znaćeš kako da nešto
-   sastaviš ili rastaviš i radiš stvari o kojima drugi samo sanjaju. Zato
-   ne zaboravi na etiku i svoje moći koristi za dobro.
-   Ako želiš da se baviš programiranjem i ostvariš sve dobiti koje ti
-   pisanje koda može doneti, Obuke i kursevi su odlično mesto za početak.
-   Na tebi je samo da odabereš odaklećeš početi. Na kursevima web dizajna,
-   Jave, Androida, C sharpa, ili PHP-a, saznaćeš sve što ti je potrebno za
-   uspešnu karijeru programera.
+   (Beta-AFP) – Zatvoreni ruski opozicionar Aleksej Navaljni optužio je
+   danas američke tehnološke kompanija Epl i Gugl da su u dosluhu sa
+   Vladimirom Putinom, pošto su, na zahtev ruskih vlasti, povukle njegovu
+   aplikaciju posvećenu ruskim izborima.
 
-Share:
+   “Ako me nešto iznenadilo za vreme izbora nije toliko Putin koji je
+   falisfikovao rezultate, nego kako su svemoguće velike tehnološke firme
+   poslušno postale njegovi saučesnici”, napisao je Navaljni u poruci koju
+   je njegov tim objavio na Instagramu.
 
-     *
-     *
-     *
+   “Jedna je stvar kada monopolisti neta drže štap, sa solidnim principima
+   o životu, fini gikovi koji vole slobodu. Ali je sasvim druga kada su ti
+   ljudi istovremeno kukavice i pohlepni”, dodao je on.
 
-Obuke i Kursevi
+   Navaljni je napisao da ti ljudi na velikim ekranima govore da hoće od
+   sveta da naprave bolje mesto ali unutra su samo “lažovi i licemeri”,
+   ukazujući izričito na Gugl, Epl i Instagram.
 
-   Starije
+   Pod pritiskom Moskve Gugl i Epl su prošlog petka prihvatili da iz
+   svojih onlajn prodavnica u Rusiji povuku aplikaciju za izbore tima
+   Alekseja Navaljnog.
 
-5 razloga zašto da koristite Google Ads u svom poslu
+   Ta aplikacija omogućavala je da se dobiju uputstva kako je i za koga
+   glasati najbolje da se pobede kandidati Kremlja na parlamentarnim
+   izborima održanim od 17. do 19. septembra.
 
-   Novije
+   Gugl je takodje blokirao dva videa na Jutjubu, čiji je ta tehnološka
+   firma vlasnik, gde su pristalice ruskog opozicionara objašnjavala ta
+   uputstva.
 
-5 razloga zašto je svakom biznisu potreban knjigovođa
+   Sistem poruka Telegram vrlo popularan u Rusiji takodje je povukao
+   instrukcije 18. septembra na zahtev ruskog regulatornog tela za
+   telekomunikacije.
 
-Slični proizvodi
+   Prema izvorima koje je agencija Frans pres kontaktirala, vlasti su
+   pretile hapšenjem zaposlenim u Guglu i Eplu u Rusiji.
 
-     * IT
+   Ruska opozicija ukazala je na masovne pronevere na izborima na kojima
+   je vladajuća stranka osvojila dvotrećinsku većinu u parlamentu.
 
-Šta morate znati pre pravljenja svoje prve aplikacije?
+     * KLJUČNE REČI
+     * Vladimir Putin
+     * Gugl
+     * Epl
+     * Aleksej Navaljni
 
-     * 20. septembra 2018.
-     * No Comment
+   Share
+   Facebook
+   Twitter
+   Google+
+   Viber
+   WhatsApp
 
-     * Dizajn IT
+   Agencija Beta
 
-Zašto da pređete na crtanje pomoću računara?
+POVEZANI TEKSTOVIJOŠ TEKSTOVA OVOG AUTORA
 
-     * 17. septembra 2018.
-     * No Comment
+   Svet
 
-   Kroz projekat „Obukom do posla“ spojili smo više od 500 polaznika sa
-   firmama sa kojima imamo potpisane ugovore o saradnji. Reč je o plaćenim
-   praksama ili zapošljavanjima na koje odlaze polaznici završenih
-   specijalističkih obuka.
-   Facebook-f Instagram Twitter Linkedin Youtube
+Kremlj: “Putin će u dogledno vreme posetiti Donbas, to je ruski region”
 
-O NAMA
+   Svet
 
-     * O NAMA
-     * USPESI POLAZNIKA
-     * BLOG
-     * PREDAVAČI
-     * PREPORUKE KLIJENATA
-     * KONTAKT
+Kremlj odbacio uslove američkog predsednika za pregovore
 
-OBUKE
+   Svet
 
-     * MARKETING
-     * IT
-     * MENADŽMENT
-     * PRAKSA
+“Ukrajinski vojnici ne ginu za ljudska prava i slobode, ni za liberalnu
+demokratiju, a još manje za borbu protiv korupcije i organizovanog
+kriminala…”
 
-Poslovna savršenost doo
+   Svet
 
-     * Call centar: 011/40-82-116 ili 061/664-89-64
-     * Email: office@obukeikursevi.com
-     * Adresa: Lomina 48/1, 11000 Beograd
+Željko Pantelić: Rusija, Ukrajina i nacionalizam – Kad identiteti zamene
+ideologije
 
-   Copyright 2022 Poslovna savršenost doo
+   Svet
 
-   Kroz projekat „Obukom do posla spojili smo više od 500 polaznika sa
-   firmama sa kojima imamo potpisane ugovore o saradnji. Reč je o plaćenim
-   praksama ili zaposljavanjima na koje odlaze polaznici završenih
-   specijalističkih obuka
-   Facebook-f Instagram Twitter Linkedin Youtube
+Presuda u slučaju MH17 i za Putina znači doživotnu kaznu
 
-Poslovna savršenost doo
+   Svet
 
-     * Call centar: 011/40-82-116, 061/66-48-964
-     * Email: office@obukeikursevi.com
-     * Adresa: Lomina 48/1, 11000 Beograd
+Posledice dešavanja u Hersonu: “Putin je naučio lekciju, to ga čini
+opasnijim”
 
-   Copyright 2022 Poslovna savršenost doo
+NAJČITANIJE
 
-   Ovaj web sajt koristi kolačiće u cilju poboljšanja prikaza. O detaljima
-   obrade podataka, načinu i vremenu zadržavanja podataka, korisnici sajta
-   se mogu bliže informisati na stranici Politika privatnosti
-   PodešavanjePrihvatam
+“Ta lopta padne na zemlju, a onda samo odskoči… Ne razumem...
 
-   Manage consent
+   05/12/2022
 
-   (BUTTON) Close
+Lajčak u Beogradu: Susret sa Vučićem i Dačićem, o registarskim tablicama...
 
-Privacy Overview
+   05/12/2022
 
-   Ovaj web sajt koristi sledeće kolačiće kako bi ispravno prikazao
-   korisnički doživljaj i navigaciju kroz kategorije i stranice.
-   Neophodni
-   [X] Neophodni
-   Always Enabled
-   Neophodni kolačići su vezani za ispravnu funkcionalnosti ovog web sajta
-   i oni čine da se njegov dizajn, sadržaj i bezbednost ispravno prikažu
-   posetiocu na PC, laptopu, tabletu ili mobilnom telefonu.
-   Cookie Duration Description
-   cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR
-   Cookie Consent plugin. The cookie is used to store the user consent for
-   the cookies in the category "Analytics".
-   cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR
-   cookie consent to record the user consent for the cookies in the
-   category "Functional".
-   cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR
-   Cookie Consent plugin. The cookies is used to store the user consent
-   for the cookies in the category "Necessary".
-   cookielawinfo-checkbox-others 11 months This cookie is set by GDPR
-   Cookie Consent plugin. The cookie is used to store the user consent for
-   the cookies in the category "Other.
-   cookielawinfo-checkbox-performance 11 months This cookie is set by GDPR
-   Cookie Consent plugin. The cookie is used to store the user consent for
-   the cookies in the category "Performance".
-   viewed_cookie_policy 11 months The cookie is set by the GDPR Cookie
-   Consent plugin and is used to store whether or not user has consented
-   to the use of cookies. It does not store any personal data.
-   Analitika
-   [ ] Analitika
-   Kolačići analitike služe da razumemo kretanje posetilaca sajta kroz
-   njegove web stranice i kategorije.
-   Oglašavanje
-   [ ] Oglašavanje
-   Kolačići za oglašavanje koriste se da posetiocu budu prikazane
-   relevantne promotivne ponude u okviru dostupnih kanala promocije.
-   SAVE & ACCEPT
+Vučević: Vojnu obuku bi morali da prođu svi punoletni do 30...
+
+   05/12/2022
+
+Brnabić o sankcijama Rusiji: “Srbija ima principijelnu poziciju”
+
+   05/12/2022
+   Učitaj još
+   - Advertisement -
+
+Poslednji komentari
+
+     * Bobby on Vučević: Vojnu obuku bi morali da prođu svi punoletni do
+       30 godina, pa i oni stariji
+     * gradjanin Srbije on Budućnost pripada odgovornim i hrabrim
+       brendovima
+     * Душко on “Reklamni spotovi reprezentacije pred Mundijal podsećali
+       su na nastup SPO pred izbore 1990. godine”: Fudbal, politika i
+       identitet – Analiza Zorana Panovića
+     * Т on KARL LAGERFELD otvorio prvu prodavnicu u Srbiji
+     * Душко on Jovanović: “Više volim Vulina na čelu BIA nego nekog ko je
+       prozapadno orijentisan”
+
+PRATITE NAS NA DRUŠTVENIM MREŽAMA
+
+   20,704PratilacaLajkuj
+   923PratilacaZaprati
+   2,388PratilacaZaprati
+   14,700SubskrajberaPrati
+
+   Nedeljnik
+   Internet izdanje najtiražnijeg srpskog njuzmagazina koji čita poslovna,
+   politička i biznis elita. Autorsko novinarstvo, veliki intervjui i
+   reportaže. Uz Nedeljnik izlaze redovni dodaci: The New York Times
+   International Report – prvi mesečnik u istoriji najvećih novina sveta,
+   Le monde diplomatique. Nedeljnik izlazi svakog četvrtka.
+   Kontaktirajte nas: redakcija@nedeljnik.rs
+
+     * Marketing
+     * Impresum
+     * Kontakt
+     * Uslovi i prava korišćenja
+     * Pretplata
+
+   © 2013-2019 Nedeljnik - sva prava zadržana - Hosted by Providus
+
+   Više tekstova
+
+Putin potpisao zakon o ustavnim reformama koje će mu omogućiti da...
+
+   14/03/2020
+
+Kremlj zadovoljan pregovorima za koje Vašington kaže da su propali
+
+   11/01/2022
+
+   Edit with Live CSS
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Save
+   Write CSS OR LESS and hit save. CTRL + SPACE for auto-complete.

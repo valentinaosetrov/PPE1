@@ -1,296 +1,422 @@
-   #alternate Uredi Википедија (sr) alternate alternate alternate
-   alternate
+     * Najnovije
+     * Vesti
+     * Katar 2022
+     * Biznis
+     * Ukrajina
+     * Sport
+     * BalkanBet Fantazi
+     * Svet
+     * Kultura
+     * Jetset
+     * Ona
+     * Život
+     * eKlinika
+     * Hi-Tech
+     * Zanimljivosti
+     * Održivost
 
-   Jump to content
-   [ ]
+   ____________________
+     * <% item.title %>
 
-   Toggle sidebar Википедија
-   Pretraga
-   ____________________ Pretraži Idi
+   Za ispravno funkcionisanje sajta, molimo Vas aktivirajte Javascript.
+    1. Naslovna /
+    2. Život & Stil /
+    3. Know How
 
-     * Otvorite nalog
+     * 7
+     * <% shareCounter %>
 
-   [ ] Lične alatke
-   Otvorite nalog
-   Prijavite se
+   25/09/14 | 15:36
 
-   Pages for logged out editors learn more
-     * Razgovor
-     * Doprinosi
+INTELIGENCIJA JE PROKLETSTVO: Evo zašto je bolje biti glup
 
-   Navigacija
-     * Glavna strana
-     * Sadržaj
-     * Skorašnje izmene
-     * Slučajna stranica
-     * Aktuelnosti
-     * Donacije
+   25/09/14 | 15:36
 
-   Interakcija
-     * Pomoć
-     * Trg
-     * Radionica
-     * Kontakt
-     * Otpremite datoteku
+Sigurno ste nekad čuli, ili pomislili, da je "bolje biti glup". Tačno je da
+inteligencija, generalno, predstavlja prednost, ali to ne mora uvek da bude
+tako. Ponekad je stvarno bolje biti glup. Evo i zašto
 
-   Alatke
-     * Šta vodi ovamo
-     * Srodne izmene
-     * Otpremite datoteku
-     * Posebne stranice
-     * Trajan link
-     * Podaci o stranici
-     * Citiranje ove stranice
-     * Stavka na Vikipodacima
+     *
+     *
+     *
+     *
+     *
+     *
 
-   Print/export
-     * Preuzmite kao PDF
-     * Odštampajte
+     * 7
+     * <% shareCounter %>
 
-   Na drugim projektima
-     * Vikimedijina ostava
+   Inteligentni ljudi imaju dovoljno razloga da budu zahvalni što im je
+   priroda bila naklonjena, ali sigurno nekad zažale što nisu propustili
+   trenutak kad je "Bog delio pamet". Evo koje su to loše strane visoke
+   inteligencije:
 
-   Languages
-   Jezičke veze se nalaze na vrhu stranice pored naslova članka. Idite na
-   vrh.
-   [ ]
+   VEROVATNO STE NOĆNA PTICA
 
-   Contents (BUTTON) move to sidebar (BUTTON) hide
-     * Početak
-     * 1Дефиниција
-     * 2Утицај
-     * 3Гик чик
-     * 4Референце
-     * 5Литература
+   Naučnici su nedavno otkrili negativnu posledicu posedovanja visoke
+   inteligencije – sklonost ka kasnom, odnosno “ranom” odlaženju u krevet
+   i kasnijem ustajanju. Uopšteno, inteligentniji ljudi skloniji su da
+   dugo ostanu budni, ali to nosi neke negativne posledice.
 
-   Toggle the table of contents
+   Brojne studije su pokazale kako su noćne ptice sklonije da razviju
+   emocionalnu nestabilnost, ali i da trpe simptome depresije. Osim
+   psihičkog, zbog takvog bioritma trpi i fizičko zdravlje.
+   Šakota o trenutnoj atmosferi oko kluba: Kritika će uvek biti, treba
+   izdržati još 60 utakmica
 
-Gik
+Biznis
 
-   [ ] 39 languages
-     * العربية
-     * مصرى
-     * Bahasa Indonesia
-     * Bahasa Melayu
-     * Беларуская
-     * Brezhoneg
-     * Català
-     * Čeština
-     * Dansk
-     * Deutsch
-     * English
-     * Español
-     * Esperanto
-     * Euskara
-     * فارسی
-     * Français
-     * Galego
-     * گیلکی
-     * Hrvatski
-     * Հայերեն
-     * Italiano
-     * 日本語
-     * ქართული
-     * Қазақша
-     * 한국어
-     * Magyar
-     * Nederlands
-     * Norsk bokmål
-     * Polski
-     * Português
-     * Română
-     * Русский
-     * Sicilianu
-     * Simple English
-     * Srpskohrvatski / српскохрватски
-     * Svenska
-     * Türkçe
-     * Українська
-     * 中文
+     * 3:38
 
-   Izmeni veze
+Domaćin koji je šljvovicu odveo u svet: Sa Canetovog imanja poslat uzorak
+rakije za Unesko
 
-     * Članak
-     * Razgovor
+   Šakota o trenutnoj atmosferi oko kluba: Kritika će uvek biti, treba
+   izdržati još 60 utakmica
 
-   [ ] Latinica
-     * Ћир./lat.
-     * Ћирилица
-     * Latinica
+Zanimljivosti
 
-     * Čitaj
-     * Uredi
-     * Uredi izvor
-     * Istorija
+     * 1:07
 
-   [ ] Više
-     * Čitaj
-     * Uredi
-     * Uredi izvor
-     * Istorija
+Pere veš na - 20° C, probija se kroz duboke smetove i prostire veš na mećavi:
+Domaćica sa Grenlanda
 
-   Gikovi su često povezani sa abnormalnim znanjem matematike. Na ovoj
-   slici se vidi aproksimacija broja pi koji se proteže od logotipa mazde
-   3, parkiranog na Univerzitetu Kalifornije u Ervajnu.
+   MANJE SU ŠANSE DA SVOJE GENE PRENESETE POTOMCIMA
 
-   Gik (engl. geek, srp. интелигентна али недруштвена особа^[1]) je sleng
-   termin koji se prvobitno koristio za opis ekscentričnih i nemejnstrim
-   ljudi; u sadašnjoj upotrebi, riječ obično označava stručnjaka ili
-   entuzijastu ili osobu koja je opsjednuta hobijem ili intelektualnim
-   zanimaljem, sa uopštenim pejorativnim značenjem po kome je to „čudna
-   osoba, posebno ona koja se smatra previše intelektualnom, nemodernom,
-   dosadnom ili društvenom neprijatnom”.^[2]^[3]
+   Još jedan nesrećni stereotip pametnih ljudi jeste da oni nisu baš
+   preterano socijalni ljudi, odnosno da su čudni “gikovi” koji su osuđeni
+   na život u celibatu sve dok se ne izvuku iz srednjoškolskog pakla, piše
+   Cracked.
 
-   Neki koriste ovaj izraz samoreferencijalno, bez zlobe ili ponosno,
-   odnoseći se često na "nekoga ko je zainteresovan za neku temu (obično
-   intelektualnu ili složenu) zbog svoje koristi". Bez obzira na to, izraz
-   ostaje pejorativan, široko zloupotrebljen protiv dece i adolescenata
-   koji su možda više usredsređeni na učenje, a manje na popularnost, modu
-   ili društvene aktivnosti.^[4]^[5]
+   Nije ni to toliko bitno, koliko podaci koji pokazuju da, što je žena
+   više obrazovana, to ima manje dece. Pametni većinom jure karijeru, zbog
+   čega stvaranje porodice ostaje u drugom planu.
 
-Definicija[uredi | uredi izvor]
+   VIŠE LAŽETE
 
-   U američkom rečniku iz 1975. godine postoji jedna jedina definicija:
-   'Gik [imenica, sleng]. Karnevalski izvođač čiji se nastup sastoji od
-   odgrizanja glave živog pileta ili zmije.' Tehnička revolucija pronašla
-   je nove načine za upotrebu ove reči, ali i dalje često pogrdno. Danas,
-   engleski sajt sa definicijama reči ima pet definicija, od kojih je
-   četvrta "karnevalski izvođač koji vrši senzacionalno morbidne i
-   odvratne nastupe, kao odgrizanje glave živog pileta."^[6]
+   Problem u tome što ste najpametniji u prostoriji je obično činjenica da
+   ste toga svesni, a mnogi to zloupotrebljavaju. Visok koeficijent
+   inteligencije često u ljudima pobuđuje dar za obmanjivanje ostalih.
+   Kako biste lagali i ostali neuhvatljivi, treba misliti i na istinu, a
+   pritom manipulisati. Sve to uključuje integraciju nekoliko moždanih
+   procesa koji funkcionišu na isti način kao i kod rešavanja kompleksnih
+   matematičkih zadataka.
 
-   Definicija gika korišćena je kao sleng sa različitim konotacijama,
-   uključujući i ljubaznu etiketu. Međutim, to ne znači da je termin
-   besmislen ili da je izgubio svoje značenje tokom vremena. Ipak ostaje
-   pogrdan naziv koji se koristi za nepravedno i uvredljivo označavanje
-   ljudi. Ne smatra se prijateljskim ili ljubaznim komplimentom za nečiji
-   karakter, nego uvredljivim pogrdnim oblikom poniženja ili emocionalnog
-   zlostavljanja.
+   pinokio
 
-   Termin "štreber" ima slično, praktično sinonimno značenje kao gik, ali
-   mnogi smatraju da postoje različite konotacije između ova dva termina,
-   iako su razlike sporne. U intervjuu 2007. godine, Ričard Klark je rekao
-   da je razlika između gika i štrebera ta što "gikovi odrade posao".
-   Džuli Smit je definisala gika kao "bistru mladu osobu koja se uvukla u
-   sebe, slabo socijalna, koja ne oseća srodstvo sa svojom planetom, tako
-   da rutinski putuje na one koje su izmislili njegovi omiljeni autori,
-   koja razmišlja o tom tajnom mestu iz snova na koje ju je odveo njen
-   računar kao u sajberprostor – negde uzbudljivo, mesto stvarnije od
-   njenog života, zemlja koju može osvojiti, a ne jednolična adolescentska
-   soba u kući njenih roditelja".
+   SKLONIJI STE DA POVERUJETE U LAŽ
 
-Uticaj[uredi | uredi izvor]
+   Obrazovanje vodi do jednog pogrešnog verovanja, a to je - mislite da
+   ste pametniji nego što jeste. Tri studije su otkrile da su ljudi koji
+   su pali na neku laž, uložili novac tamo gde nije trebalo, i slično,
+   obično bolje obrazovani. Oni ne traže savet jer smatraju da su imuni na
+   greške, a ne shvataju kako inteligencija ne znači uvek sposobnost
+   preživljavanja u stvarnom svetu.
 
-   Posebno tehnički orijentisani gikovi danas imaju snažan uticaj na
-   globalnu ekonomiju i društvo.^[7] Dok su prethodne generacije gikova
-   imale tendenciju da posluju u istraživačkim odeljenjima, laboratorijama
-   i na funkcijama za podršku, sada oni sve više zauzimaju visoke položaje
-   u preduzećima i imaju značajan komercijalni i politički uticaj. Kada se
-   američki predsednik Barak Obama sreo sa Markom Zakerbergom, izvršnim
-   direktorom Fejsbuka, i izvršnim direktorima najvećih svetskih tehničkih
-   kompanija, na privatnoj večeri u Vudsajdu, Kaliforniji, 17. feburara
-   2011. godine, Njujork magazin objavio je priču pod naslovom
-   "Najsnažniji čovek na svetu sastao se sa predsednikom Obamom."^[8] Tada
-   je Zakerbergova kompanija porasla na preko milijardu korisnika.
+   SKLONIJI STE AUTODESTRUKTIVNOSTI
 
-   Prema Marku Roderu, porast gikova predstavlja novu fazu evolucije
-   čoveka. U svojoj knjizi "Neprirodna selekcija: Zašto će gikovi
-   naslediti zemlju", predlaže da "visokotehnička sredina antropocene
-   favorizira ljude sa gik-ovskim osobinama, od kojih su mnogi na spektru
-   autizma, sa hiperkinetičkim poremećajem ili disleksijom. Ranije su
-   takvi ljudi možda bili u nepovoljnom položaju, ali sada nekima od njih
-   njihove jedinstvene kognitivne osobine omogućuju da se uzdignu sa novim
-   tehnološkim cajtgajstom i postanu veoma uspešni."
+   Veliki umovi često imaju jednu zajedničku osobinu, a to je znatiželja.
+   Problem u tome je što su ekstra znatiželjni ljudi takođe oni koji će,
+   pre nego ostali, probati određene supstance. To je potvrdila i studija
+   britanskih naučnika koja je otkrila kako su pametniji ljudi skloniji da
+   postanu alkoholičari, a takođe su pronašli vezu između visoke
+   inteligencije i korišćenja psihoaktivnih droga.
 
-   Časopis Ekonomist je primetio, 2. juna 2012. godine "Ovi nespretni
-   ljudi (gikovi) možda neće imati jednostavne školske dane. Možda će im
-   se rugati i ignorisati ih na zabavama. Ali danas nijedna ozbiljna
-   organizacija ne može napredovati bez njih."^[9]
+   (Telegraf.rs / HercegovinaInfo)
 
-Gik čik[uredi | uredi izvor]
+Podelite vest:
 
-   Izraz "gik čik" odnosno gik devojka, odnosi se na manji modni trend
-   koji se pojavio sredniom 2000-ih, kada su mladi ljudi usvojili "giki"
-   modu, kao što su ogromne naočare sa crnim okvirima, tregeri, proteze za
-   zube i visoke pantalone. Naočare — ponekad nošene sa staklima bez
-   dioptrije ili bez stakla — brzo su postale aspekt koji definiše trend,
-   pri čemu su mediji identifikovali razne poznate ličnosti kao "pokušaje
-   gika" zato što su nosili takve naočare, kao što su Dejvid Bekam i
-   Džastin Timberlejk.^[10] U međuvremenu, u svetu sporta, mnogi NBA
-   igrači nosili su "gik naočare" tokom intervjua nakon utakmice, čime su
-   poređeni sa Stivom Urkelom.^[11]^[12]
+     *
+     *
+     *
+     *
+     *
+     *
 
-   Izraz "gik čik" dodeljen je nekim samoidentifikovanim "gikovima"
-   odnoseći se na novu, socijalno prihvatljivu ulogu u tehnički naprednom
-   društvu.^[13]
+   Pošaljite nam Vaše snimke, fotografije i priče na broj telefona +381 64
+   8939257 (WhatsApp / Viber / Telegram).
 
-Reference[uredi | uredi izvor]
+Priče za vas
 
-    1. ^ Rowe, Suzana (2007). Sezamov englesko-srpski rečnik. Zrenjanin:
-       Sezam book. str. 1104. ISBN 978-86-86003-37-9.
-    2. ^ „geek prevod | englesko - srpski rečnik”. onlinerecnik.com (na
-       jeziku: srpski). Pristupljeno 15. 8. 2018.
-    3. ^ „the definition of geek”. www.dictionary.com (na jeziku:
-       engleski). Pristupljeno 15. 8. 2018.
-    4. ^ Olivri, Thomas (2014). Geek-Art: An Anthology: Art, Design,
-       Illustration & Pop Culture (na jeziku: engleski). Chronicle Books.
-       ISBN 9781452140483.
-    5. ^ Berlatsky, Noah (31. 1. 2013). „Why Geeks Get Bullied (It's Not
-       Necessarily for Being Geeks)”. The Atlantic (na jeziku: engleski).
-       Pristupljeno 17. 8. 2018.
-    6. ^ „the definition of geek”. www.dictionary.com (na jeziku:
-       engleski). Pristupljeno 17. 8. 2018.
-    7. ^ „Study shows Stanford alumni create nearly $3 trillion in
-       economic impact each year”. Stanford University (na jeziku:
-       engleski). Pristupljeno 17. 8. 2018.
-    8. ^ „The World’s Most Powerful Man Meets President Obama”. Daily
-       Intelligencer (na jeziku: engleski). Pristupljeno 17. 8. 2018.
-    9. ^ „In praise of misfits”. The Economist (na jeziku: engleski).
-       Pristupljeno 17. 8. 2018.
-   10. ^ „Justin Timberlake is bringing geek chic back at the Social
-       Network premiere”. Mail Online. Pristupljeno 17. 8. 2018.
-   11. ^ NBA (29. 5. 2012), Whacky NBA Playoff Fashion!, Pristupljeno 17.
-       8. 2018
-   12. ^ Cacciola, Scott; Cohen, Ben (14. 6. 2012). „Fashion Plates of the
-       NBA Make Specs of Themselves”. Wall Street Journal (na jeziku:
-       engleski). ISSN 0099-9660. Pristupljeno 17. 8. 2018.
-   13. ^ „How Geek Chic Works”. HowStuffWorks (na jeziku: engleski). 15.
-       7. 2007. Pristupljeno 17. 8. 2018.
+     * Mrzi vas da vežbate? Pijte vino!
+     * ČUDO OD TRUDNICE: Pukao joj vodenjak u četvrtom mesecu, a onda je
+       zarastao sam od sebe!
+     * ŽELITE DA OSTAVITE PLJUGE? Evo kako da očistite pluća od nikotina!
+       (FOTO)
 
-Literatura[uredi | uredi izvor]
+   Telegraf.rs zadržava sva prava nad sadržajem. Za preuzimanje sadržaja
+   pogledajte uputstva na stranici Uslovi korišćenja.
 
-   Gik na Vikimedijinoj ostavi.
-     * Olivri, Thomas (2014). Geek-Art: An Anthology: Art, Design,
-       Illustration & Pop Culture (na jeziku: engleski). Chronicle Books.
-       ISBN 9781452140483.
-     * Reagle, Joseph (2018-01-01). „Nerd vs. bro: Geek privilege,
-       idiosyncrasy, and triumphalism”. First Monday. 23 (1).
-       ISSN 1396-0466. doi:10.5210/fm.v23i1.7879.
+Teme
 
-   Preuzeto iz
-   „https://sr.wikipedia.org/w/index.php?title=Гик&oldid=23681023”
-   Kategorije:
-     * Internet kultura
-     * Pejorativi
-     * Stereotipi
-     * Nerd kultura
+     * Depresija
+     * Glupost
+     * Inteligencija
+     * IQ
+     * Obrazovanje
+     * Pamet
 
-   Sakrivene kategorije:
-     * CS1 izvori na jeziku — engleski (en)
-     * Članci koji sadrže tekst na jeziku — srpski (eksplicitno navođenje)
-     * Kategorija na Ostavi sa lokalnim linkom istim kao na Vikipodacima
+Komentari
 
-     * Datum i vreme poslednje izmene stranice: 12. mart 2021. u 14:14.
-     * Tekst je dostupan pod licencom Krijejtiv komons Autorstvo—Deliti
-       pod istim uslovima; mogući su i dodatni uslovi. Pogledajte uslove
-       korišćenja za više informacija.
+   7
+   Pošalji komentar
 
+Povezane vesti
+
+   Anica Savić Rebac
+
+Ona
+
+Anica Savić Rebac: Život srpske intelektualke obeležila je neprestana borba
+za akademskom karijerom
+
+     * 0
+     * 1
+
+   Alfa BK Univerzitet
+
+Srbija
+
+300 godišnjih stipendija za 30 godina vrhunskog obrazovanja
+
+     * 0
+     * 0
+
+   Pas i znaci stresa, tuge i depresije
+
+Ljubimci
+
+     *
+     *
+
+Stres, depresija i tuga: Kad pas “podvije" rep
+
+     * 0
+     * 0
+
+   Svetlana Ceca Ražnatović, Aca Lukas, Edita Aradinović, Dara Bubamara
+
+Jetset vesti
+
+     *
+
+Neko dve fakultetske diplome, a neko jedva osnovnu: Koje škole su naši
+poznati završili
+
+     * 13
+     * 98
+
+Priče sa Weba
+
+   MEDICINSKA SESTRA IZ ČAČKA IMA NAJNEOBIČNIJE IME NA PLANETI: Niko joj
+   ne veruje kada kaže kako se zove i svi pacijenti misle da je ŠALA
+
+MEDICINSKA SESTRA IZ ČAČKA IMA NAJNEOBIČNIJE IME NA PLANETI: Niko joj ne
+veruje kada kaže kako se zove i svi pacijenti misle da je ŠALA
+
+   Svi ŠOKIRANO GLEDAJU u NOVO LICE PUTINOVE LJUBAVNICE: Alina se juče
+   pojavila prvi put posle 3 MESECA i izgleda SASVIM DRUGAČIJE - kažu da
+   su ona i Putin imali istu plastičnu operaciju
+
+Svi ŠOKIRANO GLEDAJU u NOVO LICE PUTINOVE LJUBAVNICE: Alina se juče pojavila
+prvi put posle 3 MESECA i izgleda SASVIM DRUGAČIJE - kažu da su ona i Putin
+imali istu plastičnu operaciju
+
+   Savo je sa 17 skočio u Tamiš, SLOMIO VRAT i ostao INVALID: Na
+   REHABILITACIJI u Igalu je upoznao Snežu, a njihova ljubavna priča je
+   FILMSKA
+
+Savo je sa 17 skočio u Tamiš, SLOMIO VRAT i ostao INVALID: Na REHABILITACIJI
+u Igalu je upoznao Snežu, a njihova ljubavna priča je FILMSKA
+
+   Kijanu Rivs dolazi u Srbiju, a razlog posete ostaviće ljude BEZ TEKSTA:
+   Posle ovoga svi će želeti da mu priđu i da ga zagrle
+
+Kijanu Rivs dolazi u Srbiju, a razlog posete ostaviće ljude BEZ TEKSTA: Posle
+ovoga svi će želeti da mu priđu i da ga zagrle
+
+   Akcije i katalozi
+
+Najnovije iz rubrike Život & Stil
+
+   Pravoslavni sveštenik, monah, crkva, molitva
+
+Zdravlje
+
+     *
+
+Božićni post iz dana u dan (7): "Kako da postim ako sam bolestan?"
+
+     * 28
+     * 66
+
+   žis, salata, zdrava hrana, žena
+
+Zdravlje
+
+"Fasting" ipak ne produžava život? Naš nutricionista otkriva ko ne sme ovako
+da se hrani
+
+     * 0
+     * 0
+
+   Horoskop, astrologija, zodijak
+
+Horoskop
+
+Pun Mesec u Blizancima donosi verbalne provokacije: Za 4 znaka ovo će biti
+posebni dani
+
+     * 0
+     * 2
+
+   Sve vesti iz rubrike Život & Stil
+
+Komentari
+
+   7
+   Pošalji komentar
+   Sortiranje
+     *
+
+milos
+       25. septembar 2014 | 16:04
+       Ko umnozava ZNANJE, umnozava i MUKU . Premudri Solomon
+       Odgovorite   ›
+       71
+       3
+
+Podelite komentar
+          +
+          +
+          +
+          +
+          +
+          +
+     *
+
+ona
+       25. septembar 2014 | 18:37
+       Nista novo.Samo je problem sto su glupi,primitivni,bahati na
+       pojedinim rukovodecim mestima.Kroje sudbinu naroda sa pilecim
+       mozgom.E to je najstrasnije.
+       Odgovorite   ›
+       55
+       1
+
+Podelite komentar
+          +
+          +
+          +
+          +
+          +
+          +
+     *
+
+Mrmot
+       25. septembar 2014 | 17:49
+       O kako je lepo biti glup...
+       Odgovorite   ›
+       40
+       0
+
+Podelite komentar
+          +
+          +
+          +
+          +
+          +
+          +
+
+   Svi komentari   ›
+
+Video dana
+
+   Sve iz rubrike Video dana
+     * Najnovije
+     * Najčitanije
+     * Komentari
+
+     *
+
+Konzilijum je novi član MediGroup sistema
+          + 0
+          + 0
+     *
+
+Španska Marka potvrđuje: Gotov posao, Ronaldo od 1. januara u Saudijskoj
+Arabiji za 200 miliona po sezoni!
+          + 0
+          + 0
+     *
+
+Jedan od najmoćnijih AI sistema nudi alternativu pretraživačima, pitali smo
+ga da li će zameniti Google
+          + 0
+          + 0
+     *
+
+Božićni post iz dana u dan (7): "Kako da postim ako sam bolestan?"
+          + 28
+          + 66
+     *
+
+Detalji užasa u Padinskoj Skeli: Okružili ih s troja kola, jednog oteli, pa
+ga bacili u septičku jamu
+          + 0
+          + 0
+
+     *
+
+Uživo <% item.title %>
+          + <% item.comment_count %>
+          + <% item.shares %>
+
+   Sve najnovije vesti
+   Akcije i katalozi
+   TV program
+     * Eur: <% exchange.eur %>
+     * Usd: <% exchange.usd %>
+
+   TV program
+
+     * Najnovije
+     * Vesti
+     * Ukrajina
+     * Korona
+     * Biznis
+
+     * Sport
+     * Svet
+     * Kultura
+     * Jetset
+     * Ona
+
+     * Život
+     * Zanimljivosti
+     * Hi-Tech
+     * Auto
+     * eSports
+
+     *
+     *
+     *
+     *
+     *
+
+     * O nama
+     * Marketing
+     * Impressum
+     * Uslovi korišćenja
      * Politika privatnosti
-     * O Vikipediji
-     * Odricanje odgovornosti
-     * Mobilni prikaz
-     * Za programere
-     * Statistika
-     * Izjava o kolačićima
+     * Kontakt
 
-     * Wikimedia Foundation
-     * Powered by MediaWiki
+   © Telegraf 2020   Sva prava zadržana.
+
+Najnovije vesti
+
+   Dozvoljavam da mi Telegraf.rs šalje obaveštenja o najnovijim vestima
+
+   Ne, hvala Prihvatam
+
+   [tr?id=826484444393247&ev=PageView&noscript=1]
