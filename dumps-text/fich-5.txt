@@ -1,309 +1,240 @@
-   ﻿ #alternate alternate alternate
+   #alternate
 
-   [logo.png]
+   BBC News, na srpskomPređite na sadržaj
+   Ћир
 
-Алати за приступачност
-     __________________________________________________________________
-
-Величина текста
-
-   (BUTTON) [minus.png]
-   (BUTTON) [plus.png]
-
-Контраст
-
-   (BUTTON) A
-   (BUTTON) A
-   (BUTTON) A
-   (BUTTON) A
-
-Обележавање линкова
-
-   (BUTTON) [link.png]
-
-Прилагођена читљивост
-
-   (BUTTON) АБВ
-   (BUTTON) Поништи подешавања (BUTTON) Затвори алате
-
-   Developed by: NewTec Solutions & TNation
-   [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS]
-   [INS: :INS]
-   [INS: :INS]
-
-   Ponedeljak, 05.12.2022. ✝ Verski kalendar
-   Verski kalendar
-   ☦ Vavedenje Presvete Bogorodice
-   ☨ 2. ned. Došašća Ivan Damaščanski, Barbara
-   ✡ 10. Kislev
-   ☪ 10. Džumada-l-ula
-   € Kursna lista
-   Kursna lista
-    Kup.  Prod.  Sred.
-   116.94 117.65 117.3
-   110.55 111.22 110.89
-   118.19 118.9  118.54
-   Izdanja Čitulje
-   Ćirilica
-   accessibility-tools
-   Politika logo
-
-   Politika Logo Meni
-     * Naslovna
-     * Najnovije vesti
+   (BUTTON) Odeljci
+     * Početna strana
+     * Ukrajina
+     * Srbija
+     * Balkan
      * Svet
-     * Politika
-     * SP 2022
-     * Društvo
-     * Pogledi
-     * Hronika
-     * Ekonomija
-     * Kultura
-     * Beograd
-     * Sport
-     * Region
-     * Sve
-     *
+     * Video
+     * Najpopularnije
 
-   Mozaik Pisma čitalaca Moj život u inostranstvu Priča o Kini Zdravlje
-
-   [INS: :INS] [INS: :INS]
-
-   [politika-logo-nopadding.svg]
-
-   Nedelja, 05.07.2015. u 20:52 I. A.
-
-Tom Kruz protiv dronova u nastavku „Top gana”
-
-   [677z381_kruz.jpg]
-   Сцена из „Топ гана” из 1986. године (Промотивна фотографија)
-
-   Zaplet drugog dela filma „Top gan” činiće borba pilota „stare škole” i
-   najnovije generacije dronova, najavio je Dejvid Elison, producent
-   nastavka čuvenog blokbastera iz 1986. godine. Kako je preneo londonski
-   „Gardijan”, Elison je potvrdio i da će Kruz reprizirati ulogu pilota
-   borbenih aviona, Pita Mičela – Maverika.
-
-   Scenario uveliko piše Džastin Marks, film će biti sniman u 3D
-   tehnologiji, a očekuje se da će Kruz (52), po svom poznatom običaju,
-   insistirati da lično odigra gotovo sve opasne scene odnosno da ni ovoga
-   puta neće koristiti dublera.
-
-   Nastavak film će biti priča o pilotima borbenih aviona kojima „vreme
-   polako ističe”, pa sve češće u vazdušnim napadima bivaju zamenjeni
-   dronovima. Maverik, u prvom delu mladić željan dokazivanja, moraće da
-   nađe svoje mesto u svetu u kom njegove sposobnosti više nisu potrebne
-   vojnoj industriji.
-
-   Vesti o nastavku „Top gana” prvi put su se pojavile pre pet godina,
-   kada je reditelj Toni Skot, koji je u međuvremenu preminuo, angažovan
-   za pripreme snimanja drugog dela. Skot je tada izjavio da nije
-   nameravao da se vrati u svet junaka (Maverika, Ledenog i Gusa), ali da
-   je bio inspirisan razgovorom s jednim mladim pilotom koji je radio sa
-   dronovima.
-
-   „To je danas jedan sasvim drugi svet. Ti kompjuterski gikovi, ta deca
-   se igraju rata u prikolici nasred Nevade”, naveo je tada Skot, preneo
-   je Tanjug.
-
-   Zasad se još ne zna ko će biti reditelj nastavka niti kada će on biti
-   prikazivan u bioskopima, ali obožavaoci mogu, u međuvremenu, da se
-   zabave uz dvojnika Toma Kruza, odnosno Maverika, koji je postao zvezda
-   na internetu. Reč je o pakistanskom pilotu Jasiru Musaderu, čija je
-   fotografija, snimljena tokom aero-mitinga na aerodromu Le Burže, pored
-   Pariza, preplavila društvene mreže. Pakistanski pilot vrlo podseća na
-   drčnog pilota „Top gana”.
-
-   Uz priču o pilotima i ljubavnu vezu između glavnih junaka, koje su
-   tumačili Kruz i Keli Makgilis, film je ostao upamćen i po baladi „Take
-   My Breath Away” grupe „Berlin”, koja je nagrađena Oskarom za najbolju
-   pesmu komponovanu za potrebe filma. U filmu su igrali i Meg Rajan, Tom
-   Skerit i Val Kilmer (Ledeni).
-
-   „Top gan” je snimljen u jeku hladnog rata, pa je imao mnogo patriotskih
-   replika, a prema mišljenju mnogih kritičara, površnost s kojom je
-   tretiran eventualni oružani sukob SAD-a i SSSR-a bila je izraz
-   militarizma. Inače, producenti Don Simpson i Džeri Brukhajmer uživali
-   su tokom snimanja do tada nezapamćenu podršku američke ratne mornarice,
-   Pentagona i Reganove administracije, zbog čega je film često
-   proglašavan za dugačak reklamni spot za vojsku SAD-a.
-
-   Danas se „Top gan” posmatra samo kao jedan od prvih modernih
-   holivudskih blokbastera (budžet filma bio je 15 miliona dolara a širom
-   sveta zaradio je 356 miliona), odnosno kao film koji je marketinški
-   proizvod zasnovan na romantičnoj priči i dobroj muzici i zabavlja
-   gledaoca samo dok se ne upale svetla u bioskopskoj sali.
-
-Подели ову вест
-
-   [INS: :INS] [INS: :INS]
-   Komentari0
-   [member-no-image.png]
-   ____________________
-   ____________________
-
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Pošaljite komentar
-   Molimo vas da sе u komеntarima držitе tеmе tеksta. Rеdakcija Politikе
-   ONLINE zadržava pravo da – ukoliko ih procеni kao nеumеsnе - skrati ili
-   nе objavi komеntarе koji sadržе osvrtе na nеčiju ličnost i privatan
-   život, uvrеdе na račun autora tеksta i/ili članova rеdakcijе „Politikе“
-   kao i bilo kakvu prеtnju, nеpristojan rеčnik, govor mržnjе, rasnе i
-   nacionalnе uvrеdе ili bilo kakav nеzakonit sadržaj. Komеntarе pisanе
-   vеrzalom i linkovе na drugе sajtovе nе objavljujеmo. Politika ONLINE
-   nеma nikakvu obavеzu obrazlaganja odluka vеzanih za skraćivanjе
-   komеntara i njihovo objavljivanjе. Rеdakcija nе odgovara za stavovе
-   čitalaca iznеsеnе u komеntarima. Vaš komеntar možе sadržati najvišе
-   1.000 pojеdinačnih karaktеra, i smatra sе da stе slanjеm komеntara
-   potvrdili saglasnost sa gorе navеdеnim pravilima.
-   This site is protected by reCAPTCHA and the Google Privacy Policy and
-   Terms of Service apply.
-     __________________________________________________________________
-
-   60x60
-   ____________________
-   ____________________
-
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Pošaljite komentar
-     __________________________________________________________________
-
-Komentar uspešno dodat!
-
-   Vaš komentar će biti vidljiv čim ga administrator odobri.
-
-   Početna / Vesti kultura i zabava
-
-   Povezane Teme
-   film
-   [INS: :INS] [INS: :INS]
-   [INS: :INS]
-   [294z166_ramila-bozic-wiki.jpg]
-
-„Crne šamije” ponovo među Srbima
-
-   [294z166_qqas.jpg]
-
-Uzbuna u bošnjačkoj dijaspori zbog filma o RS
-
-   [294z166_Oliver-Stoun.gif]
-
-Moćna platforma za slavljenje filma
-
-   [294z166_gg-638a4603d2eb6.jpg]
-
-Festival srpskog filma u Čikagu
-
-   [294z166_elvis.jpg]
-
-Elvis Prisli ponovo na vrhu liste najslušanijih albuma
-
-   [294z166_bitlsi.jpg]
-
-Gitara Džona Lenona prodata za 2,4 miliona dolara
-
-   [294z166_bond.jpg]
-
-Bond obara rekorde
-
-   [294z166_brit-flojd.jpg]
-
-„Brit flojd” večeras u Beogradu izvodi muziku „Pink flojda”
-
-Pročitajte još:
-
-   [60z60_677z381_hrvatska-policija.jpg]
-   Region
-   Lažne dojave o bombama širom Hrvatske
-   [60z60_yyy.jpg]
-   Društvo
-   Kiša sutra u Srbiji
-   [60z60_hhh-638de1649e248.jpg]
-   Hronika
-   Uhapšeno više osoba zbog krađe 26 tona suncokreta u Zrenjaninu
-   [60z60_medical-563427_1920.jpg]
-   Zdravlje
-   Po termin kod specijaliste neće više morati da se ide od 1. do 5. u
-   mesecu
-   [60z60_tttt.jpg]
-   Politika
-   Ana Brnabić: Povećavamo plate, penzije, investicije
-   [60z60_Dodik-i-Konakovic-u-Laktasima--Foto-Tviter-.jpg]
-   Region
-   Nešto novo u BiH: Dodik i Konaković zajedno na utakmici
-   [60z60_eee.jpg]
-   Društvo
-   Većina muzejskih ustanova delimično pristupačna osobama sa
-   invaliditetom
-   [60z60_677z381_gradiliste.jpg]
-   Hronika
-   Visoko obrazovanje za poslove bezbednosti i zdravlja na radu
-
-   [INS: :INS]
-
-   [INS: :INS]
-
-   [INS: :INS]
-
-Овај веб сајт користи колачиће
-
-   Сајт politika.rs користи колачиће у циљу унапређења услуга које пружа.
-   Прикупљамо искључиво основне податке који су неопходни за прилагођавање
-   садржаја и огласа, надзор рада сајта и апликације. Подаци о навикама и
-   потребама корисника строго су заштићени. Даљим коришћењем сајта
-   politika.rs подразумева се да сте сагласни са употребом колачића.
-   (BUTTON) Дозволи колачиће
-
-   © Politika OnlinePolitika novine i MagaziniTrg Politika 1, Beograd,
-   Srbija
-   [banner-aaa-v-progressive.jpeg]
-   Meni
-     *
-     * Najnovije vesti
+     * Početna strana
+     * Ukrajina
+     * Srbija
+     * Balkan
      * Svet
-     * Politika
-     * SP 2022
-     * Društvo
-     * Pogledi
-     * Hronika
-     * Ekonomija
-     * Potrošač
-     * Kultura
+     * Video
+     * Najpopularnije
 
+Veštac: Ispunjavanje praznine koju je ostavila Igra prestola
 
-     * Beograd
-     * Sport
-     * Region
-     * Mozaik
-     * Magazin
-     * TV revija
-     * Gastronomija
-     * Pisma čitalaca
-     * Moj život u inostranstvu
-     * Priča o Kini
+   25 decembar 2019
+   Henri Kevil kao Geralt
 
-   Linkovi
-     * Pretraga
-     * Vremenska prognoza
+   Autor fotografije, Netflix
+
+   „Ono što je Igra prestola uradila jeste... da je pokazala da je
+   fantastika za sve i da i vi možete da se pronađete u ovom svetu."
+
+   I Loren Šmit Hisrih se nada da će koji ožalošćeni gledaoci Vesterosa, u
+   potrazi za dozom fantastike, pogledati njenu novu seriju.
+
+   Ona je kreatorka Netfliksove serije Veštac (The Witcher) i zahvalna je
+   Igri prestola što je približila ovaj žanr široj publici.
+
+   „To više nije žanr u kom užavaju samo gikovi i štreberi", izjavila je
+   za BBC.
+
+   Veštac je zasnovan na popularnom književnom serijalu. Prati priči
+   Geralta od Rivije - lovca na čudovišta koji luta Kontinentom, svetom
+   prepunim ljudskog i magičnog zla.
+   Henri Kevil kao Geralt
+
+   Autor fotografije, Netflix
+   Potpis ispod fotografije,
+
+   Geralt od Rivije je isprva usamljeni lovac na čudovišta.
+
+   Geralta glumi Supermen lično, Henri Kevil, koji se slaže da je Igra
+   prestola imala veliki uticaj na svet fantastike.
+
+   „Mislim da je utabala stazu na isti način kao što je to ranije uradio
+   Gospodar prstenova. Jako sam srećan što se fantastika kao žanr češće
+   pojavljuje na ekranu", kaže.
+
+   Ali da li serija može da upotpuni prazninu koju su ostavili Tirion,
+   Deneris i Džon Snežni?
+
+   Loren kaže da su poređenja sa hit serijom neizbežna, ali da Veštac ima
+   sopstveni put.
+
+   „Često to čujemo, ali mislim da će Veštac sam stati na noge. U pitanju
+   je veoma drugačija serija."
+
+   Ono po čemu se serija ističe, smatra Loren, jeste što se u glavnim
+   ulogama nalaze snažne žene.
+
+   Tokom njegovih avantura, Geralt upoznaje moćnu čarobnicu - Jenefer od
+   Vengerberga - i mladu princezu Siri. Njih glume Anja Kalotra i Freja
+   Alan.
+   Anya Chalotra as Yennefer
+
+   Autor fotografije, Netflix
+
+   Freja za BBC objašnjava da snaga Ciri leži u tome koliko je otvorena
+   prema ljudima.
+
+   „Čak i kada je to jako teško - potrebna je neverovatna količina snage."
+
+   Loren kaže da je bilo lako uključiti tako jake likove u seriju.
+
+   „To nije tako često u žanru fantastike u kom su oduvek dominirali
+   muškarci. Ali sve ove snažne žene su već u knjigama. Stoga nismo morali
+   da pravimo velike iskorake prilikom pisanja scenarija."
+
+   „Ove žene su neverovatno moćne, jake i veoma složene."
+
+   Zbog ovih karakteristika će šira publika stvoriti jaku povezanost, kaže
+   Freja.
+
+   „Ne morate da budete fan fantastike da biste uživali u njoj. Postoje
+   ljudski odnosi sa kojima svako može da se poistoveti i da prati."
+   Ciri
+
+   Autor fotografije, Netflix
+
+   Jedna sfera u kojoj će Veštac možda krenuti stopama Igre prestola su
+   fanovi.
+
+   „Prvi javni događaj na kom smo se predstavili bio je San Dijego Koikon
+   - tu smo bačeni u vatru", kaže Freja.
+
+   „Bilo je donekle očaravajuće", priča Anja.
+
+   „Nikada ovo ranije nisam doživela - toliko fanova, ogromna produkcija,
+   mi smo novi u ovome."
+
+   A i dobro su startovali - Netfliks je već potvrdio drugu sezonu serije.
+
+   Tomaš Baginski, producent serije, kaže da je ponosan na to što je
+   serija stvorila, bez obzira na poređenja sa Igrom prestola.
+
+   „Život je zabavan. Kada razmislite o svemu, čak i tokom najmračnijih
+   trenutaka."
+
+   „Posebno mi je drago jeste što smo uspeli da ubodemo to - taj
+   gorko-slatki, mračni, a opet zabavni ton. Što je jedinstveno i retko u
+   sferi zabave."
+   Grey line
+
+   Pratite nas na Fejsbuku i Tviteru. Ako imate predlog teme za nas,
+   javite se na bbcnasrpskom@bbc.co.uk
+
+Povezano
+
+     * Hari Poter na trci u Mančesteru
+
+Hari Poter i druga poznata imena
+       2 oktobar 2019
+     * igra o Hariju Poteru
+
+Hari Poter: Šta donosi nova igrica
+       13 mart 2019
+     * Simpsonovi
+
+Simpsonovi i rođendan - decenije nezaustavljivog smeha
+       17 decembar 2019
+
+Najvažnije
+
      *
-     * Verski kalendar
 
-   Linkovi
-     * Arhiva
-     * Impresum
-     * O nama
-     * Kontakt
-     * Pretplata
-     * Oglašavanje
+Špijun sa druge strane jastuka: Šta kad vam partner tajno čita sve poruke
+       5 decembar 2022
+     *
+
+Video, Šta je recesija i kako može da utiče na vaš život
+       5 decembar 2022
+     *
+
+Rafal Brazila po Južnoj Koreji, golman Dominik Livaković heroj Hrvatske
+       Pre 19 minuta
+
+Reportaže
+
+     * kamp u siriji
+
+Unutar zatočeničkih kampova u Siriji: „Nisam se pridružio Islamskoj državi.
+Imao sam samo 10 godina”
+       Pre 6 sati
+     * žena i mačka
+
+„Čuvamo više od 100 mačaka u kući”
+       5 decembar 2022
+     * lik iz metroa svetsko prvenstvo u kataru fudbal
+
+„Lik iz metroa" postao miljenik navijača na Svetskom prvenstvu
+       2 decembar 2022
+     * „Živa legenda dvorane Pionir”: Neobična ljubav mačke Ljubice prema
+       košarci
+
+„Živa legenda dvorane Pionir”: Neobična ljubav mačke Ljubice prema košarci
+       24 novembar 2022
+     * cuvari zaveta stjuart rouds i sin
+
+Porodica osnivača paravojske Čuvari zaveta: „Kako smo pobegli od militantne
+grupe mog oca"
+       2 decembar 2022
+     * kamila izbor lepote katar
+
+Izbor za mis kamile u Kataru: Koja je najlepša
+       1 decembar 2022
+     * dron sahrane pepeo
+
+Nova pogrebna usluga: Prosipanje pepela voljenih dronom
+       2 decembar 2022
+     * šumar u bangladešu
+
+Od Amazonije do Bangladeša: Kako je jedan čovek sam obnovio šumu
+       1 decembar 2022
+     * Reciklaža obuće
+
+Veterinarka iz Srbije daje novi život starim cipelama
+       30 novembar 2022
+
+Najčitanije
+
+    1. 1
+       Ko je Rišarlison, brazilski fudbaler koji je presudio Srbiji
+    2. 2
+       Špijun sa druge strane jastuka: Šta kad vam partner tajno čita sve
+       poruke
+    3. 3
+       Rezultati utakmica, tabele i parovi nokaut faze na Svetskom
+       fudbalskom prvenstvu u Kataru
+    4. 4
+       Rafal Brazila po Južnoj Koreji, golman Dominik Livaković heroj
+       Hrvatske
+    5. 5
+       Džulija Roberts pretvorila haljinu u Džordža Klunija
+    6. 6
+       Šest stvari koje su obeležile grupnu fazu Svetskog prvenstva u
+       fudbalu
+    7. 7
+       Kako su izbeglice iz Bosne i Hercegovine pronašle utočište u
+       dalekom Pakistanu
+    8. 8
+       Svetsko fudbalsko prvenstvo 2022: Preuzmite raspored utakmica
+       Poslednji put ažurirano 25 jun 2022
+    9. 9
+       Šta znamo o Severnoj Koreji i Kim Džong Unu
+       Poslednji put ažurirano 28 april 2020
+   10. 10
+       Tri neočekivana heroja Srbije u Kataru (i trojica koja su često u
+       tom društvu)
+
+   BBC News, na srpskom
+     * Zašto BBC zaslužuje vaše poverenje
      * Pravila korišćenja
-     * Biznis Klub
-     * Pravila o privatnosti
+     * O BBC-ju
+     * Pravila privatnosti
+     * Kolačići
+     * Kontaktirajte BBC
+     * AdChoices / Do Not Sell My Info
 
-   Arhiva Impresum O nama Kontakt Pretplata Oglašavanje Pravila korišćenja
-   Biznis Klub Pravila o privatnosti
-
-   Developed by: NewTec Solutions  &  TNation
-
-   [INS: :INS]
+   © 2022 BBC. BBC nije odgovoran za sadržaj drugih sajtova. Pročitajte
+   naša pravila o linkovanju drugih sajtova.

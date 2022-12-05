@@ -1,496 +1,304 @@
-   [m-lft-on.gif] [logo-top.gif]
-    Korisnik:  ____________  Lozinka:  ____________ [ ] Zapamti me
-   Prijavi me [BUTTON Input] (not implemented)________________________
-   [BUTTON Input] (not implemented)_______________
-   [m-rgt-on.gif]
+   [tr?id=292302761293982&ev=PageView &noscript=1]
 
-                                 [INS: :INS]
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K5SRSF4
 
-                                 [empty.gif]
+   Laguna
+   ____________________
+   Type ____________________
+   Pretraži
+   Prijava | Pomoć
+   0
+   0
+     * Naslovna
+     * Knjige
+     * U pripremi
+     * #Bukmarker
+     * Top-liste
+     * Mala Laguna
+     * Klub čitalaca
+       (BUTTON)
 
-     *
-     * Komponente
-     * Računari
-     * Laptop & PDA
-     * Foto
-     * Telefoni
-     * Tehnika
-     * Forum
-     * Oglasi
+     * [fb.png]
+     * [tw.png]
+     * [in.png]
+     * [yt.png]
+     * [tiktok.png]
 
+   VestiIntervjuiPromocijeAkcijeKnjiževni
+   klubPrikazi#knjigoljupci#TriRajkeVideoKolumneNagradeKalendar Filteri
+   [ ] Vesti
+   [ ] Intervjui
+   [ ] Promocije
+   [ ] Akcije
+   [ ] Književni klub
+   [ ] Prikazi
+   [ ] #knjigoljupci
+   [ ] #TriRajke
+   [ ] Video
+   [ ] Biografija
+   [ ] Domaći autori
+   [ ] Drama
+   [ ] Duh i telo
+   [ ] Edukativni
+   [ ] Erotski
+   [ ] Fantastika
+   [ ] Filmovane knjige
+   [ ] Internet
+   [ ] Istorijski
+   [ ] Klasici
+   [ ] Knjige za decu
+   [ ] Ljubavni
+   [ ] Nagrađene knjige
+   [ ] Priče
+   [ ] Publicistika
+   [ ] Tinejdž
+   [ ] Trileri
+   Primeni
 
-                                   [empty.gif]
-   [INS: :INS]
+„Ponekad je prkošenje i nepoštovanje zakona jedini način da do promene dođe.“
 
-   IFRAME: https://www.lisica.rs/inc/banner_ak_inc.php?sirina=160
+   16.06.2017.
+   [haker-trol-uzbunjivac-spijun_(2).jpg]
 
-   Beograd Novi Sad Kragujevac Niš [empty.gif]
-   [empty.gif]
-   PC Berza Forum : Ver. 2.35
-   [empty.gif]
-   [empty.gif]
-   Najnovije teme Najnoviji odgovori Prikačene teme Najaktivnije teme
-                              Najčitanije teme
-   Pronađi : ____________________ U : [Svim kategorijama] Pretraži : (*)
-   Kompletne poruke ( ) Samo naslove Pronađi ...
-   [icon_open_folder.gif] Forum : Softver [reply_button.gif]
-   [icon_bar.gif] [icon_open_topic.gif] Operativni sistemi i sistemski
-   programi
-   [empty.gif] [icon_bar.gif] [icon_open_page.gif] Win 7 u mreži, problem,
-   pomozite ...
-   [empty.gif]
-   [page_first_unactiv.gif] [page_previous_unactiv.gif] STRANA 1 OD 2
-   [page_next.gif] [page_last.gif]
-   [empty.gif]
-   zeljkoa [4.gif] Win 7 u mreži, problem, pomozite ... 17.03.2011. 10:28
-   T34572
-   [empty.gif]
-   [12923.jpg]
-   status: admin
-   broj poruka: 712 Da pre nekoliko dana nisam koristio Win 7 pa me neke
-   stvari po malo zbunjuju.
-   Imam banalan problem, a to je da sa Win XP računara ne mogu da
-   pristupim deljenim diskovima na Win 7 računaru !
-   Mislim da sam sve lepo podesio, uradio sharing, isključio password,
-   isključio 128-bitnu enkripciju da bi mogli da mu priđu i oni koji
-   nemaju tu opciju i opet neće.
-   Sa Win XP računara vidim Win 7, vidim disk koji je podeljen, ali ne
-   mogu da ga otvorim. Prvo su mi na računarima bili različiti useri, sada
-   sam podesio da je na oba računara isti username i opet neće.
-   Šta tu ima još što ja ne vidim? Napominjem da je u pitanju Win 7 Home
-   Premium 32-bit.
-   - - - - - - - - - - - - - - - - - -
-   Željko Arnautović,
-   PC Berza d.o.o.
-   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
-   - https://www.nsinfo.rs - https://www.nisinfo.rs
-   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       zekson      [1.gif] ako vec nisi... 17.03.2011. 10:33 #305876
-   [empty.gif]
-   [21.gif]
-   status: user
-   broj poruka: 34 ...stavi ih u istu radnu grupu.
-       :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       zeljkoa      [1.gif] Jesam            17.03.2011. 10:36   #305877
-   [empty.gif]
-   [12923.jpg]
-   status: admin
-   broj poruka: 712 Pa jesu u istoj grupi i sa Win 7 lako pristupam XP-u,
-   ali ne mogu obrnuto.
-   - - - - - - - - - - - - - - - - - -
-   Željko Arnautović,
-   PC Berza d.o.o.
-   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
-   - https://www.nsinfo.rs - https://www.nisinfo.rs
-   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-      pajsgudgud     [1.gif] Imao sam isti problem 17.03.2011. 10:45 #305879
-   [empty.gif]
-   [1.gif]
-   status: user
-   broj poruka: 3687 i nisam ga rešio.
-   zato sam stavio sedmice na sve računare i mukama je došao kraj. To je
-   bilo prošle godine dal` se u međuvremenu pojavilo neko rešenje ne
-   znam...
-   support normality
-               :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-         raic        [1.gif] re       17.03.2011. 10:49            #305883
-   [empty.gif]
-   [15616.jpg]
-   status: user
-   broj poruka: 9023 Znači išao si share with - specific people - i dodao
-   na listu `everyone`
-   Ako neće i dalje ideš na properties - security - dodaš na listu
-   everyone i staviš dozvolu read&execute ili full control šta god da ti
-   je u planu
-   Ako pred sobom imamo mitsko biće sa dve ili više glava, bar jedna od
-   njih će da bljuje vatru.
-   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-      pajsgudgud     [1.gif] Re: re   17.03.2011. 10:51 #305884
-   [empty.gif]
-   [1.gif]
-   status: user
-   broj poruka: 3687 Sve sam to i ja prošao i nije hteo...
-   http://www.howtogeek.com/howto/windows-7/share-files-and-printers-betwe
-   en-windows-7-and-xp/
-   evo ovi gikovi su kao uspeli...mada ne vidim nigde sliku da su
-   pristupili sa xp-a na sedmicu...da napomenem da sam i sve preporuke sa
-   njihovog sajta prošao, međutim i dalje nije htelo. Jedina razlika je
-   što sam ja imao sp2 XP.
-   support normality
-   :: Znači išao si share with - specific people - i dodao na listu
-   `everyone
-   ::
-   :: Ako neće i dalje ideš na properties - security - dodaš na listu
-   everyone i staviš dozvolu read&execute ili full control šta god da ti
-   je u plan
-   ::
-   :: Ako pred sobom imamo mitsko biće sa dve ili više glava, bar jedna od
-   njih će da bljuje vatru.
-   ::
-   ::
-   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       zeljkoa      [1.gif] Da, ali neće     17.03.2011. 10:54     #305889
-   [empty.gif]
-   [12923.jpg]
-   status: admin
-   broj poruka: 712 Već sam stavio Full controll za Everyone i opet neće.
-   - - - - - - - - - - - - - - - - - -
-   Željko Arnautović,
-   PC Berza d.o.o.
-   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
-   - https://www.nsinfo.rs - https://www.nisinfo.rs
-   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-      pajsgudgud     [1.gif] Re: Re: re 17.03.2011. 10:54 #305890
-   [empty.gif]
-   [1.gif]
-   status: user
-   broj poruka: 3687 EDIT: i ovi su ga kao rešili...
-   http://www.sevenforums.com/network-sharing/10586-cant-connect-win-7-sha
-   red-xp.html
-   support normality
-   :: Sve sam to i ja prošao i nije hteo..
-   ::
-   ::
-   http://www.howtogeek.com/howto/windows-7/share-files-and-printers-betwe
-   en-windows-7-and-xp
-   ::
-   ::
-   :: evo ovi gikovi su kao uspeli...mada ne vidim nigde sliku da su
-   pristupili sa xp-a na sedmicu...da napomenem da sam i sve preporuke sa
-   njihovog sajta prošao, međutim i dalje nije htelo. Jedina razlika je
-   što sam ja imao sp2 XP
-   :: support normalit
-   ::
-   :: :: Znači išao si share with - specific people - i dodao na listu
-   `everyone
-   :: ::
-   :: :: Ako neće i dalje ideš na properties - security - dodaš na listu
-   everyone i staviš dozvolu read&execute ili full control šta god da ti
-   je u plan
-   :: ::
-   :: :: Ako pred sobom imamo mitsko biće sa dve ili više glava, bar jedna
-   od njih će da bljuje vatru.
-   :: ::
-   :: ::
-    :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-         raic        [1.gif] re       17.03.2011. 10:55       #305891
-   [empty.gif]
-   [15616.jpg]
-   status: user
-   broj poruka: 9023 Sharing XP-a i sedmice garant radi korektno u oba
-   smera, samo treba da se namesti po propisu.
-   Željko: Probaj da ugasiš firewall.
-   Ako pred sobom imamo mitsko biće sa dve ili više glava, bar jedna od
-   njih će da bljuje vatru.
-   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       strela75      [1.gif] Ja sam nekad to uspeo... 17.03.2011. 11:05 #305897
-   [empty.gif]
-   [25650.jpg]
-   status: user
-   broj poruka: 1585 ...evo teme:
-   http://www.pcberza.rs/forum/topic.php?topid=31567&forid=17&katid=2
-   + jos jedna na tu temu:
-   http://www.pcberza.rs/forum/topic.php?topid=32182&forid=23&katid=6
-   Pozdrav.
-   -
-   Just look at us.Everything is backwards. everything is upside
-   down.Doctors destroy health, lawyers destroy justice, universities
-   destroy knowledge, governments destroy freedom, the major media destroy
-   information and religions destroy spirituality
-                  :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       zeljkoa      [1.gif] Ne radi          17.03.2011. 11:10 #305899
-   [empty.gif]
-   [12923.jpg]
-   status: admin
-   broj poruka: 712 Sve sam ja to odradio i ne radi. Ne pomaže ni
-   isključivanje firewall-a.
-   Iz XP-a vidim taj deljeni disk i vidim još jednu deljenu stavku Users.
-   To users otvara bez problema, a HDD neće pa neće.
-   - - - - - - - - - - - - - - - - - -
-   Željko Arnautović,
-   PC Berza d.o.o.
-   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
-   - https://www.nsinfo.rs - https://www.nisinfo.rs
-   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-        obradmi      [1.gif] Kod mene radi 17.03.2011. 11:22   #305902
-   [empty.gif]
-   [17549.jpg]
-   status: user
-   broj poruka: 7593 probaj share folder ,nemoj share logicke particije
-   ,sa fiksnim IP .Meni je iskljucen win firewall ,zone alarm ukljucen,a
-   mozes privremeno da stavis lokal ftp server ,dok ne vidis u cemu je
-   fora.Kad pravis share ,probaj sa numerickom IP.
-       :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-         raic        [1.gif] Re: Ne radi 17.03.2011. 11:28     #305905
-   [empty.gif]
-   [15616.jpg]
-   status: user
-   broj poruka: 9023 Šta ti stoji pod advanced sharing, jel share this
-   folder štiklirano, probaj da mu daš drugo ime, umesto H stavi recimo
-   DJUBRE ili slično.
-   Aj probaj i da kucaš ručno adresu u windows exploreru.
-   Tipa, ako ti je zeljko2 taj komp na kojem deliš a deliš particiju h
-   koju si nazvao djubre kucaš:
-   \Zeljko2\djubre
-   Ako pred sobom imamo mitsko biće sa dve ili više glava, bar jedna od
-   njih će da bljuje vatru.
-   :: Sve sam ja to odradio i ne radi. Ne pomaže ni isključivanje
-   firewall-a
-   ::
-   :: Iz XP-a vidim taj deljeni disk i vidim još jednu deljenu stavku
-   Users. To users otvara bez problema, a HDD neće pa neće
-   ::
-     :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       zeljkoa      [1.gif] Neće pa neće     17.03.2011. 11:52 #305913
-   [empty.gif]
-   [12923.jpg]
-   status: admin
-   broj poruka: 712 Sve sam probao i opet neće.
-   - - - - - - - - - - - - - - - - - -
-   Željko Arnautović,
-   PC Berza d.o.o.
-   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
-   - https://www.nsinfo.rs - https://www.nisinfo.rs
-   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-        FordP       [1.gif] Re: Da, ali neće 17.03.2011. 11:55 #305914
-   [empty.gif]
-   [empty.gif]
-   status: user
-   broj poruka: 133
-   :: Već sam stavio Full controll za Everyone i opet neće
-   ::
-   ceo posao je:
-   1. dodeliš Home ili Busines network
-   2. ukineš password protection
-   3. sharujesh folder koji želiš
-   4. dodaš user everyone za sharovane foldere (ako ti radi USERS znači
-   sve je sa 7-micom u redu)
-   5. dodaš read and write prava za everyone (ako ti je to potrebno)
-   i onda kada sve to i dalje ne radi - dođeš do čuvene genijalnosti
-   6. restartujesh 7 pa onda i XP :) da bi prihvatio XP promenu ovlaštenja
-   - to ponekad hoće da pravi problem :)
-   meni 15-tak mreža radi 7-mica + XP dvostrano bez ikakvog problema :)
-   tako da sigurno može da se namesti
-         :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       zeljkoa      [1.gif] Teoretski, da    17.03.2011. 12:45 #305923
-   [empty.gif]
-   [12923.jpg]
-   status: admin
-   broj poruka: 712 Ali praktično neće pa neće ...
-   - - - - - - - - - - - - - - - - - -
-   Željko Arnautović,
-   PC Berza d.o.o.
-   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
-   - https://www.nsinfo.rs - https://www.nisinfo.rs
-   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-   Seerauber [1.gif] re:Win 7 u mreži, problem, pomozite ... 17.03.2011.
-   13:04 #305930
-   [empty.gif]
-   [39240.jpg]
-   status: user
-   broj poruka: 946 na strani 48. knjige `kucno umrezavanje-prakticni
-   vizuelni vodic` imas o konfiguraciji mreze-objedinjavanju u jednu
-   celinu. mreza u windowsu xp se konfigurise uz pomoc wizarda: control
-   panel->network conection ->setup a home or small office network
-   za windows 7 predpostavljam da je ovde negde : control panel-> network
-   and sharing center->connect to a network
-   evo linka za knjigu:
-   http://www3.zippyshare.com/v/5562367/file.html
-   meni mreza radi izmedju xp-a i win 7,mogu da pristupim sa xp na win 7
-   da li si stavio istu workgrupu?
-   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-        FordP       [1.gif] Re: Teoretski, da 17.03.2011. 13:10 #305931
-   [empty.gif]
-   [empty.gif]
-   status: user
-   broj poruka: 133
-   ako ti rade USERS (to je iz XP-a ALL users) to su foledri već sve
-   podešeno za share sa parametrima everyone, onda mora da može i kod tebe
-   da se nameste i ostali folderi (probaj za početak da se izboriš sa
-   sharovanjem foldera), ja nikad ne sharujem cele particije to mi je
-   besmisleno
-   :: Ali praktično neće pa neće ..
-          :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-        Equinoxe      [8.gif] Re:     17.03.2011. 13:28 #305934
-   [empty.gif]
-   [17766.jpg]
-   status: user
-   broj poruka: 12063
-   Primer:
-   http://img862.imageshack.us/img862/765/network.jpg
-   Šta nije jasno sa slike pitaj.
-   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-        FordP       [1.gif] sad mi samo reci 17.03.2011. 13:33     #305935
-   [empty.gif]
-   [empty.gif]
-   status: user
-   broj poruka: 133 da sharujesh cele particije, a da za to nemaš dovoljno
-   ovlašenja zbog prisustva recycle bin i System Volume Information :)
-   pošto po defautu nemaš nikakva prava nad njima pa ih ne možeš ni
-   sharovati bez special permitions
-   prikaže da je cela particija sharovana, ali ne može da joj se pristupi
-   iz mreže :)
-         :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-        -ShonE-      [1.gif] re              17.03.2011. 13:42 #305936
-   [empty.gif]
-   [16297.jpg]
-   status: user
-   broj poruka: 3529
-   Skoro sam imao isti problem, bas win 7 home premium. Resio sam ga tako
-   sto sam u shering-u pod opciom Permissions pored Everyone dodao i
-   user-a `Guest`, nakon toga momentalno je proradilo.
-   :: www :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-   zeljkoa [1.gif] Da 17.03.2011. 13:42 #305937
-   [empty.gif]
-   [12923.jpg]
-   status: admin
-   broj poruka: 712 Da, problem je u šerovanju cele D particije na kojoj
-   su podaci.
-   Uspeo sam da šerujem folder, ali particiju neće pa neće, a iskreno
-   rečeno, nervira me da šerujem svaki folder posebno. Zamislite da u rutu
-   uma 50 foldera koje treba šerovati, pa ko to da radi ručno jedan po
-   jedan ....
-   Kako da sebi obezbedim dodatna prava da šerujem celu particiju, a da
-   recimo recycle bin i slične gluposti isključim iz šeringa.
-   - - - - - - - - - - - - - - - - - -
-   Željko Arnautović,
-   PC Berza d.o.o.
-   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
-   - https://www.nsinfo.rs - https://www.nisinfo.rs
-   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-        FordP       [1.gif] Re: Da    17.03.2011. 13:48 #305939
-   [empty.gif]
-   [empty.gif]
-   status: user
-   broj poruka: 133 jednostavno rešenje:
-   šeruješ folder u rutu a onda sve ostale foldere prebaciš u njega
-   tako si šerovao sve foldere koji ti trebaju biti šerovani, a šerovan
-   samo jedan folder :)
-   :: Da, problem je u šerovanju cele D particije na kojoj su podaci
-   :: Uspeo sam da šerujem folder, ali particiju neće pa neće, a iskreno
-   rečeno, nervira me da šerujem svaki folder posebno. Zamislite da u rutu
-   uma 50 foldera koje treba šerovati, pa ko to da radi ručno jedan po
-   jedan ...
-   ::
-   :: Kako da sebi obezbedim dodatna prava da šerujem celu particiju, a da
-   recimo recycle bin i slične gluposti isključim iz šeringa
-   ::
-   :: - - - - - - - - - - - - - - - - -
-   :: Željko Arnautović
-   :: PC Berza d.o.o
-   :: https://www.pcberza.rs - https://www.bginfo.rs -
-   https://www.kginfo.rs - https://www.nsinfo.rs - https://www.nisinfo.rs
-   ::
-   ::
-   :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       zeljkoa      [1.gif] Re: Re: Da       17.03.2011. 13:57 #305941
-   [empty.gif]
-   [12923.jpg]
-   status: admin
-   broj poruka: 712 :: jednostavno rešenje
-   :: šeruješ folder u rutu a onda sve ostale foldere prebaciš u njeg
-   :: tako si šerovao sve foldere koji ti trebaju biti šerovani, a šerovan
-   samo jedan folder :
-   Izem ti vic, pa nije u tome poenta. To sam mogao da odradim i bez
-   postavljanja ove teme, ali neću to. Nemoguće da ne može da se šeruje
-   cela particija.
-   - - - - - - - - - - - - - - - - - -
-   Željko Arnautović,
-   PC Berza d.o.o.
-   https://www.pcberza.rs - https://www.bginfo.rs - https://www.kginfo.rs
-   - https://www.nsinfo.rs - https://www.nisinfo.rs
-   :: icq :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-       savatije      [1.gif] moje iskustvo... 17.03.2011. 14:02 #305942
-   [empty.gif]
-   [1804.jpg]
-   status: user
-   broj poruka: 1118 imam slično mrežno okruzenje ( 2x7 + 1XP)...nisam
-   uspeo da šerujem ceo disk na sedmici nego samo foldere i to mi
-   obostrano funkcionise normalno, doduse sa User-ima i Pass-vordima elem
-   postoji ivelika igranka sa security polisama...pa probaj sa anonimus
-   log on....
-   http://img43.imageshack.us/i/zapcberzu.jpg/
-          :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-        FordP       [1.gif] uradio i share particije 17.03.2011. 14:39 #305950
-   [empty.gif]
-   [empty.gif]
-   status: user
-   broj poruka: 133 evo i to sam uspeo da uradim, sharovao drive :)
-   i dalje mislim da je to glupo, ali - nije moje da sudim o tome
-   ali sam na gomili uradio puno toga pa ne znam šta je tačno odradilo
-   problem
-   ono što sam radio
-   desni klik na drive
-   properties
-   security
-   advanced
-   permissions
-   change permissions
-   dodao usera everyone
-   naravno full control sam dodelio za everyone :)
-   zatim isto na owner
-   i auditing
-   moguće da je dovoljno samo change permissions da se odradi
-   pa proveri da li na zadnjem tabu imaš nakon promene sva ovlaštenja
-   bem ti serverska sharovanja :)
-   sigurnost fajlova = 0
-   pozdrav
-                 :: e-mail :: prijavi adminu :: citiraj :: odgovori ::
-   [empty.gif]
-   [page_first_unactiv.gif] [page_previous_unactiv.gif] STRANA 1 OD 2
-   [page_next.gif] [page_last.gif]
-   Broj postavljenih tema: 59931. Broj poslatih odgovora: 642787.
-   Trenutno niste prijavljeni na PC Berzu i zbog toga imate status
-   'gosta'. Kao gost ne možete da šaljete poruke na Forum. Ako ste
-   registrovani kao član PC Berze, prijavite se. Ako ste novi korisnik,
-   molimo registrujte se da bi dobili mogućnost aktivnog učešća u radu
-   Foruma.
-   [empty.gif]
-   [no_login.gif] - niste prijavljeni [no_new_readonly.gif] - samo za
-   čitanje [no_new_locked.gif] - zaključano
-   [no_new.gif] - nema novih poruka [new_message.gif] - ima novih poruka
-   [new_topic.gif] - ima novih tema
-   [empty.gif]
+Prvi deo intervjua sa Gabrijelom Kolman, autorkom knjige „Haker, trol,
+uzbunjivač, špijun: mnoga lica Anonimusa“
 
-   Slagalica.net
+   Zašto ste kao antropolog istraživali Anonimuse? Šta za vas predstavlja
+   taj pokret, osim mogućnosti da iskusite specifičan rad na terenu?
+   Anonimiusi su mi uleteli u život prilično neočekivano kroz manje
+   istorijske projekte o sajentološkoj crkvi – jednoj od najpoznatijih
+   meta Anonimusa. Pre nego što se ovo pretvori u kampanju za Anonimuse,
+   vratimo se malo unazad: zašto sam proučavala sajentologiju kada je moje
+   polje interesovanja hakerisanje?
+   Tokom devedesetih godina XX veka, pošto su se tajna dokumenta ove crkve
+   pojavila na popularnoj Usenet mejling listi, sajentolozi su nemilosrdno
+   progonili svoje kritičare i pokušavali da zatvore medije, kao i
+   anonimni server koji je distribuirao dokumenta. U to vreme,
+   interesovali su me duboki i često nejasni kulturološki razlozi zbog
+   kojih su neki gikovi prešli u hakere kako bi se borili protiv, što sam
+   kasnije uvidela, njihovog savršenog neprijatelja: zato što je
+   sajentologija poput hakerovog zlog alter ega, nervira hakere i oni
+   uživaju u tome da napakoste ovoj totalitarnoj organizaciji.
+   Za one koji nisu upoznati sa sajentologijom, evo malog objašnjenja: oni
+   se predstavljaju kao religija ukorenjena u nauci i tehnologiji, ali ako
+   provedete pet minuta proučavajući ovu „naučnu“ teologiju shvatite da su
+   u pitanju naučna fantastika i njene tehnologije poput e-metara koji
+   tehnički ne funkcionišu. Pošto hakeri nauku i tehnologiju smatraju
+   svetom teritorijom, svaku veleposedničku, tajanstvenu organizaciju koja
+   radi za profit  i predstavlja se kao religija, tvrdeći da su nauka i
+   tehnologija njen domet, samo je čini još sumnjivijom. Tako su mali
+   delovi gikovske i hakerske zajednice dokazivali da je sajentologija
+   farsa, naročito posle agresivnih pravnih poteza sajentologa protiv
+   kritičara, i ja sam sve dublje ulazila u kulturološke razloge ovih
+   sukoba očekujući da ću napisati nekoliko članaka po završetku
+   istraživanja.
+   Onda su 2008. godine Anonimusi pokrenuli ogromnu kampanju trolovanja
+   protiv sajentološke crkve. Podstaknuti pokušajima crkve da cenzuriše
+   video snimak njenog najvernijeg pristalice Toma Kruza, Anomimusi su
+   nekoliko nedelja radili ono što trolovi Anonimusi rade najbolje:
+   preplavljivali su sajtove snimkom, slali u sedište crkve neplaćene
+   pice, i neumorno je zivkali telefonom.
+   To što su gikovi napadali sajentološku crkvu nije iznenađujuće. Potpuno
+   se slaže sa mojom kulturološkom tezom: ako se prilika pojavi, gikovi ne
+   samo da će vratiti crkvi već će iskusiti i ozbiljan nalet endorfina
+   radeći to.
+   Bila sam nespremna za ono što je usledilo. Da biste bolje razumeli,
+   moram da vam opišem ceo kontekst. U vreme prvih napada na sajentologe,
+   Anonimusi su bili manje-više subkulturni trolovi. U svom istraživanju
+   Vitni Filips piše da ovi samoidentifikovani trolovi maltretiraju mete u
+   potrazi za naročitom vrstom isplate: „lulz“-a, mračnoj vrsti humora i
+   šale. Suštinski, lepo vam je jer maltretirate druge ili, još gore,
+   nanosite im bol, ponižavate ih ili maltretirate. Prateći ranije
+   trolovske eskapade shvatila sam da će se ova, koju su učesnici nazvali
+   „ultrakoordinisanom zaj********m“ ubrzo skrenuti sa kursa i rasplamsati
+   se.
+   Moja prognoza je bila pogrešna. Bilo je fascinantno i šokantno
+   prisustvovati slučajnom stvaranju iskrenog pokreta – nazvali su ga
+   „Čenologija“ – uprenog na otkrivanje svih pravnih zloupotreba koje
+   praktikuje sajentološka crkva. Pomislila sam da je ovo neka slučajnost
+   (priča o tome kako i zašto su neki trolovi postali organizatori
+   antisajentoloških protesta postoji u mojoj knjizi) i to ime „Anonimusi“
+   će narednih godina biti korišćeno samo za trolovanje i ovaj neočekivani
+   protest manjeg obima.
+   I opet sam pogrešila. Nekoliko godina kasnije, Anonimusi su prerasli u
+   pravi protestni pokret sa sedištem na internetu, i imali su dovoljno
+   snage da obuhvate ceo svet. Svi su ih podržavali – od Japana do
+   Italije, od Makedonije do Dominikanske republike – i aktivisti su se
+   uhvatili raznih tema: od protesta zbog diktature ili borbe za prirodnu
+   okolinu do korporativne cenzure. I bilo je mnogo, baš mnogo hakovanja.
+   Tempo je bio sve brži i žešći, i trudila sam se da držim korak sa svim
+   operacijama koje su se odvijale 2011. godine.
+   Koji su bili rizici istraživanja tako mutnog i fluidnog pokreta? Da li
+   ste morali da balansirate između ličnog angažmana, čak i emotivnog? Da
+   li ste uspeli da ostanete nepristrasni?
+   Da počnemo od poslednjeg pitanja. Generalno, antropolozi ne teže
+   nepristrasnosti. To je rezultat suštinskog antropološkog imperativa –
+   rada na terenu – koij nas tera da kopamo duboko unutar zajednica, mesta
+   i ljudi koje proučavamo.
+   U knjizi sam pokušala da moje perspektive, stavovi, interesovanja,
+   pitanja i pristrasnosti budu eksplicitni i očigledni. Anonimusi su mi
+   bili privlačni, i to sam i rekla. Mogla sam da stanem iza njihovih
+   intervencija, ali ne i u potpunosti. Iako sam ih podržavala nisam
+   želela da sklonim u stranu ružne momente i trudila sam se da i njih
+   uključim u priču. Čitalac će, nadam se, doći do drugačijih zaključaka
+   baš zato što su moje pozicije bile jasne.
+   Kada su brojni hakeri uhapšeni 2011. i 2012. godine, nisam ostala po
+   strani. Umešala sam se koliko sam mogla. Pisala sam članke o preteranoj
+   kriminalizaciji Anonimusa. Sarađivala sam sa novinarima koji su kasnije
+   pisali šire priče o masivnim udarima na hakere. Dokumentovala sam svoju
+   ulogu pomiritelja između njih i medijskih profesionalaca jer je to
+   postalo sastavni deo mog istraživanja i moja obaveza prema kolektivu.
+   Iako bih mogla da imam kritičku distancu, takva intimnost značila je da
+   sam retko kad mogla da imam klinički, sterilni pogled i umesto toga sam
+   pokušala da iskusim – praktično i emotivno – sve što su radili. Kada bi
+   Anonimusi radili nešto riskantno, zastrašujuće, uzbudljivo, vredno
+   divljenja ili uznemirujuće, i ja sam bila tamo osećajući oduševljenje
+   ili strah sa njima.
+   Najuzbudljiviji deo svih anominih – zapravo pseudonimnih -  interakcija
+   istovremeno je i najteži. Za razliku od opšteg stava da anonimnost
+   izvlači na svetlost vašeg unutarnjeg, patološkog kretena, moje iskustvo
+   je drugačije. Anonimnost je izvukla divne kvalitete kod onih sa kojima
+   sam pričala poput saosećanja i dobrote. To što nisam mogla da sretnem
+   darežljive ljude koji su pisali sve one poruke ponekad je bilo
+   iscrpljujuće, a ponekad i tužno.
+   Konačno, iako sam bila veoma blizu akcije, nisam bila sveprisutna jer
+   sam želela da minimalizujem rizik koje bi moje prisustvo predstavljalo.
+   Do 2011. godine, Anonimusi su radili razne stvari, ali su postali
+   ozloglašeni zbog hakerisanja i morala sam da se klonim tajnih onlajn
+   soba gde su hakeri organizovali ilegalne infiltrirajuće operacije. Na
+   kraju, pošto je toliko mnogo hakera uhapšeno, mogla sam da pokrijem
+   neke od tih ilegalnih operacija, ali da su mnogi bili bolje obezbeđeni
+   moja knjiga ne bi izgledala ovako.
+   Deo jednog poglavlja nazvan je „Legitimnost protiv legalnosti“. Šta
+   mislite o tom kontrastu? Postoji li način da zadržite supstancu
+   legitimnosti unutar ilegalnog poziva na akciju kako biste postigli
+   revolucionarne rezultate?
+   To pitanje me podseća na jedan od mojih omiljenih citata Ursule LeGvin:
+   „Da bi neko postao lopov, prvo mora da postoji vlasnik. Da bi postojao
+   zločin, mora prvo da postoji zakon.“
+   Ponekad je prkošenje i nepoštovanje zakona jedini način da do promene
+   dođe. Bilo da je u pitanju radikalna direktna akcija ili liberalnija
+   građanska neposlušnost, ova strategija je dobro poznata aktivistima i
+   organizatorima svih vrsta, i priznata je kao neophodna. Jedan od
+   najuzbudljivijih momenata mog boravka među Anonimusima bilo je kada
+   mladi aktivisti ovo otkriju. Često su to radili usput ili
+   eksperimentišući, ali su s vremenom shvatili da je slepo poštovanje
+   zakona politički regresivno i opasno.
+   Drugo interesantno pitanje proizilazi iz vašeg pitanja: zašto je toliko
+   hakera spremno da prekrši zakon? Oni su prilično privilegovana grupa
+   ljudi, a opasnosti koje prate hakovanje su ogromne.
+   Identifikovali ste upotrebu maske Gaja Foksa kao strategiju da se
+   sačuva anonimnost i izbegne identifikacija (na primer tokom protesta
+   protiv sajentološke crkve) ali i kao nešto što je čuvalo pokret od
+   optužbi za terorizam. Možete li nam to objasniti?
+   Mnogi radikalni borci za slobodu, poput Nelsona Mandele i radikalnih
+   grupa poput aktivista za zaštitu prava životinja, bili su nepravedno
+   demonizovani kao teroristi. Anonimusi su bili dobra meta za napade
+   američke vlade kao nova, opasna vrsta sajber-ekstremista i terorista.
+   Ali ne samo da se to nije dogodilo, već je Holivud od Anonimusa
+   napravio heroje.
+   Pitanje koje sledi je: kako su uspeli da izbegnu tu negativnu etiketu?
+   Identifikovala sam pet razloga, od tajminga njihovih intervencija do
+   humora, ali najironičnije je korišćenje Foksove maske. Ironično je jer
+   je britanska vlada vekovima smatrala da je Foksa zločinac i terorista
+   zbog toga što je pokušao da digne u vazduh parlament 1605. godine.
+   Međutim, kako je Alan Mur, autor veoma popularnog grafičkog romana „V
+   kao vendeta“ provokativno objasnio, britanska vlada je vremenom
+   izgubila kontrolu nad pričom o Gaju Foksu.
+   Zahvaljujući autorima poput Alana Mura (ali i drugima pre njega,
+   uključujući i dečje pisce) lik Gaja Foksa je doživeo drastičnu
+   metamorfozu – od nesumnjivog mračnog lika do ambivalentnog
+   heroja/antiheroja. U vreme kada su Anonimusi preuzeli masku,
+   transformacija je bila gotovo završena zahvaljujući holivudskom
+   blokbasteru „V kao vendeta“ koji je poslao pozitivniju poruku o Gaju
+   Foksu. Izabravši ikonu, kolektiv je preuzeo i pozitivne asocijacije na
+   Gaja Foksa, a za uzvrat – sada kada je Gaj Foks gotovo sinonim za
+   Anonimuse – obezbedili su Foksu mesto u budućnosti. Konačni rezultat je
+   da su bliske asocijacije Anonimusa i ove ikone otežale davanje etikete
+   terorista Anonimusima.
 
-   Microsystems d.o.o.
+   Podelite na društvenim mrežama:
+     * Najnovije
 
-   IFRAME: https://www.lisica.rs/inc/banner_ak_inc.php?sirina=120
+   Noć knjige od 9. do 11. decembra!
+   Zabranjena ljubav u novom romanu Dajne Džefriz „Pre sezone kiša“
+   Poučne priče o prijateljstvu u dve knjige iz veselog dečjeg serijala
+   „Bibin svet“
+   Knjiga nedelje – „Brojevi ne lažu“
+   Dečja knjiga nedelje – „Bio jednom jedan strah“
+   Noć knjige od 9. do 11. decembra!
+   Ana Atanasković: Samo voli – čime god da se baviš
+   Klasik svetske književnosti „Zamak“ Franca Kafke u prodaji od 5.
+   decembra
+   Prikaz romana „Mica, Beograd i odvratni Britanac“: Srpska književnica
+   protiv UDB-e i KGB-a
+   Remek-delo antiratne književnosti „Klanica pet“ Kurta Vonegata u
+   prodaji od 5. decembra
+   Povezani naslovi
+   haker, trol, uzbunjivač, špijun mnoga lica anonimusa laguna knjige
+   Haker, trol, uzbunjivač, špijun: mnoga lica Anonimusa Gabrijela Kolman
+   NajnovijePogledaj sve
+   noć knjige od 9 do 11 decembra laguna knjige Noć knjige od 9. do 11.
+   decembra!
+   05.12.2022.
+   Dragi ljubitelji knjige, decembar je mesec koji pruža mnogo povoda za
+   slavlje, a jedan od njih je svakako Noć knjige. 27. Noć knjige održaće
+   se od 9. do 11. decembra 2022. godine pod pokrovi...
+   više
+   zabranjena ljubav u novom romanu dajne džefriz pre sezone kiša laguna
+   knjige Zabranjena ljubav u novom romanu Dajne Džefriz „Pre sezone kiša“
+   05.12.2022.
+   Novi roman Dajne Džefriz „Pre sezone kiša“ romantična je priča o
+   ljubavi koja istrajava uprkos mnogobrojnim nedaćama i preprekama, a
+   dešava se tridesetih godina prošlog veka u Indiji. Ova ljubavna ...
+   više
+   poučne priče o prijateljstvu u dve knjige iz veselog dečjeg serijala
+   bibin svet laguna knjige Poučne priče o prijateljstvu u dve knjige iz
+   veselog dečjeg serijala „Bibin svet“
+   05.12.2022.
+   „Majstor za snežne ludorije“ i „Prokopijev rudnik“ dve su vesele
+   slikovnice iz popularnog serijala „Bibin svet“, koji je stvorila
+   Biljana Crvenkovska, a ilustrovala Magdalena Tofilovska.   ...
+   više
+   knjiga nedelje brojevi ne lažu laguna knjige Knjiga nedelje – „Brojevi
+   ne lažu“
+   05.12.2022.
+   Za svoje članove Laguna uvek ima dobre vesti! Svake nedelje jedan od
+   aktuelnijih naslova proglašavamo za Knjigu nedelje. To znači da će naši
+   članovi samo te nedelje moći da kupe Knjigu nedelje sa spec...
+   više
+   NaslovnaKnjigeU pripremi#BukmarkerAkcijeMala LagunaVesti
+   Klub čitalacaKalendarNagradeLagunin književni klubTop-listeGodišnja
+   top-listaCenovnik
+   Uslovi korišćenjaO namaKontaktNewsletter – prijavaNewsletter – odjava
+   [maestro.gif]
+   [master_cardc.gif]
+   [visa-216x137.png]
+   [dinacard.png]
+   [amex.png]
+   [intesa.png]
+   [ikona_master.png]
+   [ikona_visa.png]
+   [logoWSPay.png]
+   [IPSINTESA.png]
+   [google_play_icon.png]
+   [Download_on_the_App_Store_Badge.png]
+   [image.php]
+   DMCA.com Protection Status
+   [1-excellence-award.jpg] [2-beogradski-pobednik.jpg]
+   [3-superbrandsserbia-laguna-2015-16.jpg]
+   [4-logo-topserbian-brands_laguna.jpg] [5-web-top-50.jpg]
 
-   PCB Network: pcberza.rs | superponuda.com | bginfo.rs | nsinfo.rs |
-   kginfo.rs | nisinfo.rs | lisica.rs
-     * PC BERZA
-     * Adresar
-     * Copyright © 1999 - 2022 by Network IT doo & MINET DOO
-     * Kontakt
-     * Marketing
+   Safesigned Seal
+   [Najbolje_iz_Srbije_2019-Znak_za_dobitnike_kolor.png]
+   [laguna-doo-companywall.png]
 
-   [empty.gif]
+   Laguna d.o.o. Resavska 33, Beograd Matični broj: 17414844
 
-   [empty.gif]
+   Copyright © Laguna 1999 - 2022
+
+   Naš sajt koristi kolačiće koji služe da poboljšaju vaše korisničko
+   iskustvo, analiziraju posete sajtu na sajtu i prikazuju adekvatne
+   reklame odabranoj publici. Posetom ovog sajta, vi se slažete sa
+   korišćenjem kolačiča u skladu sa našom Politkom korišćenja kolačiča.
+   SLAŽEM SE

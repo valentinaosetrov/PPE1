@@ -1,343 +1,307 @@
-   #alternate alternate alternate alternate alternate alternate
+   ﻿ #alternate alternate alternate
 
-     *
-     *
-     *
-        [English]
+   [logo.png]
 
-   United States of America, Department of State
+Алати за приступачност
+     __________________________________________________________________
 
-Ambasada SAD na Kosovu
+Величина текста
 
-Social / Search – SR
+   (BUTTON) [minus.png]
+   (BUTTON) [plus.png]
 
-   TwitterFacebookYouTube
-   |
+Контраст
 
-     *
-          +
-          + Pretraživanjea
-            ____________________ 
+   (BUTTON) A
+   (BUTTON) A
+   (BUTTON) A
+   (BUTTON) A
 
-   [Skip to Content]
+Обележавање линкова
 
-     *
-     *
-     * Vize
-     * Usluge za Američke državljane
-     * Naš odnos
-          +
-          + Čelnici misije SAD
-               o Ambasador Džefri M. Hovenijer (Jeffrey M. Hovenier)
-               o Alyson Grunder (Alison Grunder)
-          + Čelnici Vlade SAD
-               o Predsednik SAD
-               o Zamenik predsednika SAD
-               o Državni sekretar SAD
-          + SAD i косово
-               o Politika i istorija
-               o Zvanični izveštaji
-          + Informacije o Anti-korupciji
-               o [UnitedAgainstcorruption.jpg ]
-               o Podrška u borbi protiv korupcije je jedan od najvažnijih
-                 prioriteta ambasade. Pročitajte više o tome šta radimo da
-                 pomognemo.
-               o Saznajte više
-     * Poslovanje
-          +
-          + Poslovanje na Kosovu
-               o Počeci u Kosovo
-               o Privredne mogućnosti
-               o Ekonomski podaci i izveštaji
-          + Poslovanje u SAD
-               o Počeci u SAD
-               o Privredni podaci i izveštaji SAD-a
-     * Obrazovanje i kultura
-          +
-          + Studiranje u SAD
-               o [study-us-243x115.png]
-               o Saznajte više o mogućnostima kvalitetnog visokog
-                 obrazovanja u SAD koje nećete naći nigde drugde u svetu.
-               o Pronađi mogućnosti
-          + Američki prostor
-               o Američki kuci
-               o Američki centar za savetovanje
-               o Centar za informacije
-          + Programi
-               o Programi Razmene
-               o Program Donacija
-               o Omladinski savet
-          + Fulbrajt na Kosovu
-               o [new-fulbright-243.jpg]
-               o Najšire priznat i prestižni program razmene u svetu
-                 udružio se sa Kosovom da bi proširili mogućnosti za
-                 studente i učenike u naše dve zemlje.
-               o Pročitajte više
-     * Ambasada
-          +
-          + Ambasada SAD
-               o Ambasada SAD-a u Prištini
-               o Arberia / Dragodan
-                 Rr. 4 KORRIKU Nr.25
-                 Priština, Kosovo
-                 Tel: +383 38 59 59 3000
-                 Fak: +383 38 604 890
-          + Radite sa nama!
-               o a group of people in business attire with hands raised
-               o Radna mesta u ambasadi!
-          + KVALITET VAZDUHA U PRIŠTINI
-               o logo
-               o Pročitajte više
-     * Novosti i događaji
-          +
-          +
-               o Vesti
-                    #
-                    # DCM Alyson Grunder at the DISICON22 Obraćanje Alison
-                      Grunder zamenice šefa Misijе na konferenciji o
-                      integritetu informacija – DISICON 2022
-                    # [DCM-750x450.jpg] Obraćanje otpravnice poslova
-                      Alison Grunder na komemoraciji povodom 11. septembra
-                    # Embassy Seal Šest meseci ukrajinskog otpora,
-                      izdržljivosti i odlučnosti
-                    # USEP Izjava ambasadora Džefrija Hovenijera kosovskim
-                      medijima u vezi sa odlukama o dokumentima za
-                      ulazak/izlazak i registarskim tablicama
-               o Ambasador
-                    #
-                    # USEP Poštovanje suvereniteta i teritorijalnog
-                      integriteta Ukrajine
-                    # Embassy Seal Šest meseci ukrajinskog otpora,
-                      izdržljivosti i odlučnosti
-                    # USEP Izjava ambasadora Džefrija Hovenijera kosovskim
-                      medijima u vezi sa odlukama o dokumentima za
-                      ulazak/izlazak i registarskim tablicama
-                    # [IMG_5494-750x450.jpg] Obraćanje ambasadora
-                      Hovenijera na potpisivanju Memoranduma o razumevanju
-                      povodom projekta „Integritet opština na Kosovu“
-               o Govori
-                    #
-                    # DCM Alyson Grunder at the DISICON22 Obraćanje Alison
-                      Grunder zamenice šefa Misijе na konferenciji o
-                      integritetu informacija – DISICON 2022
-                    # [DCM-750x450.jpg] Obraćanje otpravnice poslova
-                      Alison Grunder na komemoraciji povodom 11. septembra
-                    # Embassy Seal Šest meseci ukrajinskog otpora,
-                      izdržljivosti i odlučnosti
-                    # USEP Izjava ambasadora Džefrija Hovenijera kosovskim
-                      medijima u vezi sa odlukama o dokumentima za
-                      ulazak/izlazak i registarskim tablicama
-               o Dešavanja
-                    #
-                    # 2022 2021, Godina napretka; Srećna Nova godina iz
-                      Ambasade SAD u Prištini
-                    # [IMG_0165-scaled-e1639573245372-750x450.jpg]
-                      Obraćanje otpravnika poslova Điakobija na svečanosti
-                      donacije medicinske opreme Univerzitetsko
-                      kliničko-bolničkom centru Kosova – TREĆI TALAS
-                      KOVIDA
-                    # Giacobbe’s Remarks for Hack to Learn and Protect
-                      Cybersecurity Conference Obraćanje otpravnika
-                      poslova Điakobija na Konferenciji pod nazivom
-                      „Hakovanje radi sticanja znanja i zaštite sajber
-                      bezbednosti”
-                    # Fulbright MOU Signing Obraćanje otpravnika poslova
-                      Nikolasa Džej Điakobija povodom svečanosti
-                      potpisivanja MoR-a za Fulbrajt program akademske
-                      razmene
-               o News
-                    #
-                    # DCM Alyson Grunder at the DISICON22 Obraćanje Alison
-                      Grunder zamenice šefa Misijе na konferenciji o
-                      integritetu informacija – DISICON 2022
-                    # USEP Poštovanje suvereniteta i teritorijalnog
-                      integriteta Ukrajine
-                    # [DCM-750x450.jpg] Obraćanje otpravnice poslova
-                      Alison Grunder na komemoraciji povodom 11. septembra
-                    # Embassy Seal Šest meseci ukrajinskog otpora,
-                      izdržljivosti i odlučnosti
+   (BUTTON) [link.png]
 
-Obraćanje ambasadora Kosneta povodom početka programa „Mladi gikovi“
+Прилагођена читљивост
 
-   Home Home | Novosti i događaji | Obraćanje ambasadora Kosneta povodom
-   početka programa „Mladi gikovi“
+   (BUTTON) АБВ
+   (BUTTON) Поништи подешавања (BUTTON) Затвори алате
 
-   Ambassador Kosnett’s Remarks for Junior Geeks Launch
+   Developed by: NewTec Solutions & TNation
+   [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS]
+   [INS: :INS]
+   [INS: :INS]
 
-Obraćanje ambasadora Kosneta povodom početka programa„ Mladi gikovi“, 21.
-februar 2019.
+   Ponedeljak, 05.12.2022. ✝ Verski kalendar
+   Verski kalendar
+   ☦ Vavedenje Presvete Bogorodice
+   ☨ 2. ned. Došašća Ivan Damaščanski, Barbara
+   ✡ 10. Kislev
+   ☪ 10. Džumada-l-ula
+   € Kursna lista
+   Kursna lista
+    Kup.  Prod.  Sred.
+   116.94 117.65 117.3
+   110.55 111.22 110.89
+   118.19 118.9  118.54
+   Izdanja Čitulje
+   Ćirilica
+   accessibility-tools
+   Politika logo
 
-   Dame i gospodo, ministre i uvaženi gosti. Dobar dan! Zadovoljstvo je
-   biti ovde povodom zvaničnog početka programa „Mladi gikovi”. Vrlo rado
-   sam prihvatio poziv da se svima vama pridružim danas ovde, jer stvarno
-   verujem da je podržavanje obrazovnih inicijativa – posebno obrazovanja
-   u oblasti nauke, tehnologije, inženjerstva i matematike – od suštinskog
-   značaja za uspeh Kosova.
-
-   Obrazovni programi sa aktivnim i praktičnim uključivanjem u oblasti
-   nauke, tehnologije, inženjerstva i matematike kao što je program „Mladi
-   gikovi” pruža polaznicima praktične alate i nove veštine da nastave
-   daljnje školovanje ili da budu konkurentni na tržištu rada. Međutim,
-   ono što je još važnije, program „Mladi gikovi” će ohrabriti polaznike
-   da budu kreativni, da kritički razmišljaju i da razviju veštine
-   rešavanja problema koje su primenjuju daleko izvan kabineta za
-   informatiku.
-
-   Rad Vlade Sjedinjenih Američkih Država na Kosovu se fokusira oko tri
-   ključne teme: mir, pravda i prosperitet. Polaznici koji učestvuju u
-   ovom programu biće bolje pripremljeni da doprinesu razvoju Kosova u sve
-   ove tri oblasti.
-
-   Povezanost sa prosperitetom je jasna. Program „Mladi gikovi” se
-   fokusira na „tvrde“ veštine koje će biti potrebne polaznicima kako bi
-   dali doprinos ekonomiji koja se neprestano menja i koja je usmerena na
-   tehnologije. Uz podršku Kosovskog inovacionog centra i mentora,
-   polaznici će ovladati nekim osobinama koje su im neophodne da postanu
-   uspešni preduzetnici ili stvaraju nova radna mesta.
-
-   Međutim, obrazovanje u oblasti nauke, tehnologije, inženjerstva i
-   matematike takođe doprinosi i stvaranju mira i pravde na Kosovu.
-
-   Tehnologija je od suštinskog značaja za transparentnost. Alatke kao
-   portal za otvorene i transparentne javne nabavke podržan od strane
-   USAID-a pruža građanima pristup  informacijama o vladinim nabavkama.
-   Onlajn platforme pružaju javnosti način da drže vladu odgovornom i da
-   doprinesu sveobuhvatnoj vladavini prava na Kosovu.
-
-   Kao što ste čuli od organizatora, Program „Mladi gikovi” je osmišljen
-   da bude inkluzivna platforma koja okuplja zajedno mlade muškarce i žene
-   preko geografskih i etničkih granica. To će osigurati da širi segment
-   kosovskog društva ima pristup alatima koji će im omogućiti da uspeju na
-   tržištu rada. Ukoliko želimo da Kosovo ostane izvor mira i stabilnosti
-   u regionu  od kritičnog značaja je ekonomski rast koji uključuje  i
-   muškarce i žene i sve zajednice na Kosovu.
-
-   Srećan sam što mogu da vidim da organizatori programa „Mladi gikovi”
-   praktikuju tu inkluzivnost sa dve žene u svom tročlanom timu. Često
-   mislimo da su u karijerama unutar oblasti nauke, tehnologije,
-   inženjerstva i matematike muškarci ti koji su dominanti, ali žene su
-   uvek imale važnu ulogu u nekim od najvažnijih svetskih naučnih
-   dostignuća, tako da mi je pravo zadovoljstvo što mogu danas da vidim
-   toliko puno mladih muškaraca i žena.
-
-   Konačno, želim da čestitam Špendu, Zani i Eljditi na organizovanju
-   ovako važnog programa.  Stejt Department je primio preko 1.300 zahteva
-   za projekte „Inovacionog fonda za uključivanje alumnista” i mi smo
-   finansirali manje od 1% tih projekata širom sveta. To je ogromno
-   zaveštanje talentu za koji svi znamo da je ovde na Kosovu.
-
-   Fantastično je videti programe razmene alumnista vlade SAD-a  koji
-   sprovode do kraja vašu posvećenost da upotrebite ono što ste naučili u
-   Sjedinjenim Američkim Državama kako biste doprineli razvoju ovde.
-
-   Nastavnicima i mentorima, hvala vam što ste dali doprinos ovom programu
-   svojim talentom, veštinom i energijom. Poruka svima polaznicima je da
-   vas podstičem da prigrlite mogućnost da naučite nešto novo čak i kada
-   je teško, posebno kada je teško.
-
-   Želim sve najbolje ovom sjajnom programu.
-
-
-
-   Пostavio (ime autora) U.S. Embassy pristina | 22 фебруара, 2019 |
-   Filtriraj postove: Ambasador, Dešavanja, Govori, Vesti
-   Predloženo za Vas
-     * DCM Alyson Grunder at the DISICON22
-    Obraćanje Alison Grunder zamenice šefa Misijе na konferenciji o
-       integritetu informacija – DISICON 2022
-     * USEP
-    Poštovanje suvereniteta i teritorijalnog integriteta Ukrajine
-
-Prevod
-
-     * English
-     * Shqip
-
-Blog filter
-
-   Ključna/e reč/i ____________________
-
-   Kategorije
-
-   [ ] Vesti
-   Mjesec/Godina[_______________________]
-
-   Filtriraj postove
-
-Teme
-
-     * Agencije SAD
-     * Ambasada
-     * Ambasador
-     * Dešavanja
-     * Evropa i Evroazija
-     * Govori
-     * Konzularni poslovi
-     * Nekategorisano
-     * Neuseljeničke vize
-     * News
-     * Obrazovanje
-     * Odnosi sa javnošću
-     * Politička pitanja
+   Politika Logo Meni
+     * Naslovna
+     * Najnovije vesti
+     * Svet
      * Politika
-     * Poslovanje
-     * predsednik Barak Obama
-     * Privredni poslovi
-     * SAD i косово
-     * Saopštenja za štampu
-     * Studiranje u SAD
-     * Svršeni studenti
-     * Učenje engleskog jezika
-     * Vesti
-     * Vize
-     * Zamenik šefa misije
-     * Заменик председника Мајк Пенс
-     * стипендије
+     * SP 2022
+     * Društvo
+     * Pogledi
+     * Hronika
+     * Ekonomija
+     * Kultura
+     * Beograd
+     * Sport
+     * Region
+     * Sve
+     *
 
-   Prikaži više ∨
+   Mozaik Pisma čitalaca Moj život u inostranstvu Priča o Kini Zdravlje
 
-Najnoviji postovi
+   [INS: :INS] [INS: :INS]
 
-     * DCM Alyson Grunder at the DISICON22
-    Obraćanje Alison Grunder zamenice šefa Misijе na konferenciji o
-       integritetu informacija – DISICON 2022
-     * USEP
-    Poštovanje suvereniteta i teritorijalnog integriteta Ukrajine
-     * Obraćanje otpravnice poslova Alison Grunder na komemoraciji povodom
-       11. septembra
-     * Embassy Seal
-    Šest meseci ukrajinskog otpora, izdržljivosti i odlučnosti
-     * USEP
-    Izjava ambasadora Džefrija Hovenijera kosovskim medijima u vezi sa
-       odlukama o dokumentima za ulazak/izlazak i registarskim tablicama
+   [politika-logo-nopadding.svg]
 
-Ambasada SAD u Kosovo
+   Nedelja, 05.07.2015. u 20:52 I. A.
 
-     * Vize
-     * Usluge za Američke državljane
-     * Naš odnos
-     * Poslovanje
-     * Obrazovanje i kultura
-     * Ambasada
-     * Novosti i događaji
-     * Privatnost
-     * Mapa internet stranice
+Tom Kruz protiv dronova u nastavku „Top gana”
 
-Ambasada SAD
+   [677z381_kruz.jpg]
+   Сцена из „Топ гана” из 1986. године (Промотивна фотографија)
 
-   Ambasada SAD Na Kosovu
-   Arberia / Dragodan
-   Rr. 4 KORRIKU Nr.25
-   Priština, Kosovo
-   Tel: + 383 38 59 59 3000
-   Fak: + 383 38 604 890
-   TwitterFacebookYouTubeFlickrEmail Us
+   Zaplet drugog dela filma „Top gan” činiće borba pilota „stare škole” i
+   najnovije generacije dronova, najavio je Dejvid Elison, producent
+   nastavka čuvenog blokbastera iz 1986. godine. Kako je preneo londonski
+   „Gardijan”, Elison je potvrdio i da će Kruz reprizirati ulogu pilota
+   borbenih aviona, Pita Mičela – Maverika.
 
-   Footer Disclaimer
-   Ovo je zvanična internet prezentacija ambasade i konzulata SAD u
-   Косову. Spoljne linkove ka drugim internet prezentacijama ne bi trebalo
-   tumačiti kao potvrdu stavova ili politike privatnosti postavljenih na
-   njima.
-   American Flag
+   Scenario uveliko piše Džastin Marks, film će biti sniman u 3D
+   tehnologiji, a očekuje se da će Kruz (52), po svom poznatom običaju,
+   insistirati da lično odigra gotovo sve opasne scene odnosno da ni ovoga
+   puta neće koristiti dublera.
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-T8NZJH
+   Nastavak film će biti priča o pilotima borbenih aviona kojima „vreme
+   polako ističe”, pa sve češće u vazdušnim napadima bivaju zamenjeni
+   dronovima. Maverik, u prvom delu mladić željan dokazivanja, moraće da
+   nađe svoje mesto u svetu u kom njegove sposobnosti više nisu potrebne
+   vojnoj industriji.
+
+   Vesti o nastavku „Top gana” prvi put su se pojavile pre pet godina,
+   kada je reditelj Toni Skot, koji je u međuvremenu preminuo, angažovan
+   za pripreme snimanja drugog dela. Skot je tada izjavio da nije
+   nameravao da se vrati u svet junaka (Maverika, Ledenog i Gusa), ali da
+   je bio inspirisan razgovorom s jednim mladim pilotom koji je radio sa
+   dronovima.
+
+   „To je danas jedan sasvim drugi svet. Ti kompjuterski gikovi, ta deca
+   se igraju rata u prikolici nasred Nevade”, naveo je tada Skot, preneo
+   je Tanjug.
+
+   Zasad se još ne zna ko će biti reditelj nastavka niti kada će on biti
+   prikazivan u bioskopima, ali obožavaoci mogu, u međuvremenu, da se
+   zabave uz dvojnika Toma Kruza, odnosno Maverika, koji je postao zvezda
+   na internetu. Reč je o pakistanskom pilotu Jasiru Musaderu, čija je
+   fotografija, snimljena tokom aero-mitinga na aerodromu Le Burže, pored
+   Pariza, preplavila društvene mreže. Pakistanski pilot vrlo podseća na
+   drčnog pilota „Top gana”.
+
+   Uz priču o pilotima i ljubavnu vezu između glavnih junaka, koje su
+   tumačili Kruz i Keli Makgilis, film je ostao upamćen i po baladi „Take
+   My Breath Away” grupe „Berlin”, koja je nagrađena Oskarom za najbolju
+   pesmu komponovanu za potrebe filma. U filmu su igrali i Meg Rajan, Tom
+   Skerit i Val Kilmer (Ledeni).
+
+   „Top gan” je snimljen u jeku hladnog rata, pa je imao mnogo patriotskih
+   replika, a prema mišljenju mnogih kritičara, površnost s kojom je
+   tretiran eventualni oružani sukob SAD-a i SSSR-a bila je izraz
+   militarizma. Inače, producenti Don Simpson i Džeri Brukhajmer uživali
+   su tokom snimanja do tada nezapamćenu podršku američke ratne mornarice,
+   Pentagona i Reganove administracije, zbog čega je film često
+   proglašavan za dugačak reklamni spot za vojsku SAD-a.
+
+   Danas se „Top gan” posmatra samo kao jedan od prvih modernih
+   holivudskih blokbastera (budžet filma bio je 15 miliona dolara a širom
+   sveta zaradio je 356 miliona), odnosno kao film koji je marketinški
+   proizvod zasnovan na romantičnoj priči i dobroj muzici i zabavlja
+   gledaoca samo dok se ne upale svetla u bioskopskoj sali.
+
+Подели ову вест
+
+   [INS: :INS] [INS: :INS]
+   Komentari0
+   [member-no-image.png]
+   ____________________
+   ____________________
+
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Pošaljite komentar
+   Molimo vas da sе u komеntarima držitе tеmе tеksta. Rеdakcija Politikе
+   ONLINE zadržava pravo da – ukoliko ih procеni kao nеumеsnе - skrati ili
+   nе objavi komеntarе koji sadržе osvrtе na nеčiju ličnost i privatan
+   život, uvrеdе na račun autora tеksta i/ili članova rеdakcijе „Politikе“
+   kao i bilo kakvu prеtnju, nеpristojan rеčnik, govor mržnjе, rasnе i
+   nacionalnе uvrеdе ili bilo kakav nеzakonit sadržaj. Komеntarе pisanе
+   vеrzalom i linkovе na drugе sajtovе nе objavljujеmo. Politika ONLINE
+   nеma nikakvu obavеzu obrazlaganja odluka vеzanih za skraćivanjе
+   komеntara i njihovo objavljivanjе. Rеdakcija nе odgovara za stavovе
+   čitalaca iznеsеnе u komеntarima. Vaš komеntar možе sadržati najvišе
+   1.000 pojеdinačnih karaktеra, i smatra sе da stе slanjеm komеntara
+   potvrdili saglasnost sa gorе navеdеnim pravilima.
+   This site is protected by reCAPTCHA and the Google Privacy Policy and
+   Terms of Service apply.
+     __________________________________________________________________
+
+   60x60
+   ____________________
+   ____________________
+
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Pošaljite komentar
+     __________________________________________________________________
+
+Komentar uspešno dodat!
+
+   Vaš komentar će biti vidljiv čim ga administrator odobri.
+
+   Početna / Vesti kultura i zabava
+
+   Povezane Teme
+   film
+   [INS: :INS] [INS: :INS]
+   [INS: :INS]
+   [294z166_Oliver-Stoun--ddd.jpg]
+
+Oliver Stoun eksluzivno za Politiku: Više bih voleo da živim na…
+
+   [294z166_gaj-rici-epa-neil-hall.jpg]
+
+Gaj Riči: Uhvati dvocevku i snimi hrabro film
+
+   [294z166_Liv-Tajler-foto-EPA-EFE-ETTORE-FERRARI.jpg]
+
+Liv Tajler ekskluzivno za „Politiku“: Moj život je bio podređen…
+
+   [294z166_ramila-bozic-wiki.jpg]
+
+„Crne šamije” ponovo među Srbima
+
+   [294z166_elvis.jpg]
+
+Elvis Prisli ponovo na vrhu liste najslušanijih albuma
+
+   [294z166_bitlsi.jpg]
+
+Gitara Džona Lenona prodata za 2,4 miliona dolara
+
+   [294z166_bond.jpg]
+
+Bond obara rekorde
+
+   [294z166_brit-flojd.jpg]
+
+„Brit flojd” večeras u Beogradu izvodi muziku „Pink flojda”
+
+Pročitajte još:
+
+   [60z60_SUG-singidunum-2.jpg]
+   Beograd
+   Umetnička dela malog formata
+   [60z60_zatvor-celija-pixa-nnn.jpg]
+   Svet
+   Osuđeni masovni ubica priznao još pet ubistava
+   [60z60_-----638e5d2bc9485.jpg]
+   Ostali sportovi
+   Naša atletičarka Adriana Vilagoš proglašena za svetsku Zvezdu u usponu
+   [60z60_papic-sudjenje-se.jpg]
+   Hronika
+   Tužilac traži strožu kaznu za Gorana Papića
+   [60z60_slavko-curuvija-epa-efe-ssss.jpg]
+   Hronika
+   Nema dokaza da je u Ćuruviju pucao nepoznati napadač
+   [60z60_Sarajevo-vojnici-sudjenje.jpg]
+   Region
+   Nema kazne za ubistvo vojnika JNA u sarajevskom parku
+   [60z60_Mohamed-bin-Salman--Si-Dinping-u-Pekingu-2016.jpg]
+   Svet
+   Dolazak Sija u Rijad pod budnim okom Vašingtona
+   [60z60_11179794.jpg]
+   SP 2022
+   Pele iz bolnice gleda i navija za Brazil
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+Овај веб сајт користи колачиће
+
+   Сајт politika.rs користи колачиће у циљу унапређења услуга које пружа.
+   Прикупљамо искључиво основне податке који су неопходни за прилагођавање
+   садржаја и огласа, надзор рада сајта и апликације. Подаци о навикама и
+   потребама корисника строго су заштићени. Даљим коришћењем сајта
+   politika.rs подразумева се да сте сагласни са употребом колачића.
+   (BUTTON) Дозволи колачиће
+
+   © Politika OnlinePolitika novine i MagaziniTrg Politika 1, Beograd,
+   Srbija
+   [banner-aaa-v-progressive.jpeg]
+   Meni
+     *
+     * Najnovije vesti
+     * Svet
+     * Politika
+     * SP 2022
+     * Društvo
+     * Pogledi
+     * Hronika
+     * Ekonomija
+     * Potrošač
+     * Kultura
+
+
+     * Beograd
+     * Sport
+     * Region
+     * Mozaik
+     * Magazin
+     * TV revija
+     * Gastronomija
+     * Pisma čitalaca
+     * Moj život u inostranstvu
+     * Priča o Kini
+
+   Linkovi
+     * Pretraga
+     * Vremenska prognoza
+     *
+     * Verski kalendar
+
+   Linkovi
+     * Arhiva
+     * Impresum
+     * O nama
+     * Kontakt
+     * Pretplata
+     * Oglašavanje
+     * Pravila korišćenja
+     * Biznis Klub
+     * Pravila o privatnosti
+
+   Arhiva Impresum O nama Kontakt Pretplata Oglašavanje Pravila korišćenja
+   Biznis Klub Pravila o privatnosti
+
+   Developed by: NewTec Solutions  &  TNation
+
+   [INS: :INS]

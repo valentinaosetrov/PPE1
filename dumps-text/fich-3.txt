@@ -1,304 +1,319 @@
-   [tr?id=292302761293982&ev=PageView &noscript=1]
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-T939P5
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K5SRSF4
+   Ћир Eng
+   ____________________ Пронађи
+     * Vesti
+     * FIFA 2022
+     * OKO
+     * Sport
+     * Magazin
+     * TV
+     * Radio
+     * Emisije
+     * RTS
+     * Ostalo
+            Ћир Eng
+          + Moja škola
+          + Evrosong 2022
+          + Kovid19
+          + Filmski program
+          + Informator o radu Javne medijske ustanove „Radio-televizija
+            Srbije“
+          + RTS predstavlja
+          + Dijaspora
+          + Muzička produkcija
+          + PGP
 
-   Laguna
-   ____________________
-   Type ____________________
-   Pretraži
-   Prijava | Pomoć
-   0
-   0
-     * Naslovna
-     * Knjige
-     * U pripremi
-     * #Bukmarker
-     * Top-liste
-     * Mala Laguna
-     * Klub čitalaca
-       (BUTTON)
+   ____________________ Пронађи
+   (BUTTON)
+   ____________________ Пронађи
 
-     * [fb.png]
-     * [tw.png]
-     * [in.png]
-     * [yt.png]
-     * [tiktok.png]
+   Ћир Eng
+     * Vesti
+          + Politika
+          + Region
+          + Svet
+          + Srbija danas
+          + Hronika
+          + Društvo
+          + Ekonomija
+          + Vreme
+          + Merila vremena
+          + Servisne vesti
+          + Video dana
+          + Smatračnica
+          + Rat u Ukrajini
+     * FIFA 2022
+     * OKO
+          + Politika
+          + Društvo
+          + Ekonomija
+          + Istorija
+          + Svet
+          + Kultura
+          + Muzika
+          + Sport
+          + Lektira
+          + Bermudski trougao
+     * Sport
+          + Fudbal
+          + Košarka
+          + Tenis
+          + Odbojka
+          + Rukomet
+          + Vaterpolo
+          + Atletika
+          + Auto-moto
+          + Ostali sportovi
+          + Memorijal RTS
+     * Magazin
+          + Život
+          + Muzika
+          + Zanimljivosti
+          + Tehnologija
+          + Putujemo
+          + Svet poznatih
+          + Zdravlje
+          + Nauka
+          + Priroda
+          + Film i TV
+          + Gledaoci reporteri
+          + Digitalni preduzetnik
+     * TV
+          + RTS 1
+          + RTS 2
+          + RTS 3
+          + RTS Svet
+          + RTS Nauka
+          + RTS Drama
+          + RTS Život
+          + RTS Klasika
+          + RTS Kolo
+          + RTS Trezor
+          + RTS Muzika
+          + RTS Poletarac
+     * Radio
+          + Radio Beograd 1
+          + Radio Beograd 2
+          + Radio Beograd 3
+          + Beograd 202
+          + Radio Pletenica
+          + Radio Rokenroler
+          + Radio Džuboks
+          + Radio Vrteška
+          + Arhiv
+     * Emisije
+     * RTS
 
-   VestiIntervjuiPromocijeAkcijeKnjiževni
-   klubPrikazi#knjigoljupci#TriRajkeVideoKolumneNagradeKalendar Filteri
-   [ ] Vesti
-   [ ] Intervjui
-   [ ] Promocije
-   [ ] Akcije
-   [ ] Književni klub
-   [ ] Prikazi
-   [ ] #knjigoljupci
-   [ ] #TriRajke
-   [ ] Video
-   [ ] Biografija
-   [ ] Domaći autori
-   [ ] Drama
-   [ ] Duh i telo
-   [ ] Edukativni
-   [ ] Erotski
-   [ ] Fantastika
-   [ ] Filmovane knjige
-   [ ] Internet
-   [ ] Istorijski
-   [ ] Klasici
-   [ ] Knjige za decu
-   [ ] Ljubavni
-   [ ] Nagrađene knjige
-   [ ] Priče
-   [ ] Publicistika
-   [ ] Tinejdž
-   [ ] Trileri
-   Primeni
+     * Moja škola
+     * Evrosong 2022
+     * Kovid19
+     * Filmski program
+     * Informator o radu Javne medijske ustanove „Radio-televizija Srbije“
+     * RTS predstavlja
+     * Dijaspora
+     * Muzička produkcija
+     * PGP
 
-„Ponekad je prkošenje i nepoštovanje zakona jedini način da do promene dođe.“
+   (BUTTON) ×
+     * Registracija
+     * Ulogujte se
 
-   16.06.2017.
-   [haker-trol-uzbunjivac-spijun_(2).jpg]
+Registracija
 
-Prvi deo intervjua sa Gabrijelom Kolman, autorkom knjige „Haker, trol,
-uzbunjivač, špijun: mnoga lica Anonimusa“
+   * Korisnik" ____________________
 
-   Zašto ste kao antropolog istraživali Anonimuse? Šta za vas predstavlja
-   taj pokret, osim mogućnosti da iskusite specifičan rad na terenu?
-   Anonimiusi su mi uleteli u život prilično neočekivano kroz manje
-   istorijske projekte o sajentološkoj crkvi – jednoj od najpoznatijih
-   meta Anonimusa. Pre nego što se ovo pretvori u kampanju za Anonimuse,
-   vratimo se malo unazad: zašto sam proučavala sajentologiju kada je moje
-   polje interesovanja hakerisanje?
-   Tokom devedesetih godina XX veka, pošto su se tajna dokumenta ove crkve
-   pojavila na popularnoj Usenet mejling listi, sajentolozi su nemilosrdno
-   progonili svoje kritičare i pokušavali da zatvore medije, kao i
-   anonimni server koji je distribuirao dokumenta. U to vreme,
-   interesovali su me duboki i često nejasni kulturološki razlozi zbog
-   kojih su neki gikovi prešli u hakere kako bi se borili protiv, što sam
-   kasnije uvidela, njihovog savršenog neprijatelja: zato što je
-   sajentologija poput hakerovog zlog alter ega, nervira hakere i oni
-   uživaju u tome da napakoste ovoj totalitarnoj organizaciji.
-   Za one koji nisu upoznati sa sajentologijom, evo malog objašnjenja: oni
-   se predstavljaju kao religija ukorenjena u nauci i tehnologiji, ali ako
-   provedete pet minuta proučavajući ovu „naučnu“ teologiju shvatite da su
-   u pitanju naučna fantastika i njene tehnologije poput e-metara koji
-   tehnički ne funkcionišu. Pošto hakeri nauku i tehnologiju smatraju
-   svetom teritorijom, svaku veleposedničku, tajanstvenu organizaciju koja
-   radi za profit  i predstavlja se kao religija, tvrdeći da su nauka i
-   tehnologija njen domet, samo je čini još sumnjivijom. Tako su mali
-   delovi gikovske i hakerske zajednice dokazivali da je sajentologija
-   farsa, naročito posle agresivnih pravnih poteza sajentologa protiv
-   kritičara, i ja sam sve dublje ulazila u kulturološke razloge ovih
-   sukoba očekujući da ću napisati nekoliko članaka po završetku
-   istraživanja.
-   Onda su 2008. godine Anonimusi pokrenuli ogromnu kampanju trolovanja
-   protiv sajentološke crkve. Podstaknuti pokušajima crkve da cenzuriše
-   video snimak njenog najvernijeg pristalice Toma Kruza, Anomimusi su
-   nekoliko nedelja radili ono što trolovi Anonimusi rade najbolje:
-   preplavljivali su sajtove snimkom, slali u sedište crkve neplaćene
-   pice, i neumorno je zivkali telefonom.
-   To što su gikovi napadali sajentološku crkvu nije iznenađujuće. Potpuno
-   se slaže sa mojom kulturološkom tezom: ako se prilika pojavi, gikovi ne
-   samo da će vratiti crkvi već će iskusiti i ozbiljan nalet endorfina
-   radeći to.
-   Bila sam nespremna za ono što je usledilo. Da biste bolje razumeli,
-   moram da vam opišem ceo kontekst. U vreme prvih napada na sajentologe,
-   Anonimusi su bili manje-više subkulturni trolovi. U svom istraživanju
-   Vitni Filips piše da ovi samoidentifikovani trolovi maltretiraju mete u
-   potrazi za naročitom vrstom isplate: „lulz“-a, mračnoj vrsti humora i
-   šale. Suštinski, lepo vam je jer maltretirate druge ili, još gore,
-   nanosite im bol, ponižavate ih ili maltretirate. Prateći ranije
-   trolovske eskapade shvatila sam da će se ova, koju su učesnici nazvali
-   „ultrakoordinisanom zaj********m“ ubrzo skrenuti sa kursa i rasplamsati
-   se.
-   Moja prognoza je bila pogrešna. Bilo je fascinantno i šokantno
-   prisustvovati slučajnom stvaranju iskrenog pokreta – nazvali su ga
-   „Čenologija“ – uprenog na otkrivanje svih pravnih zloupotreba koje
-   praktikuje sajentološka crkva. Pomislila sam da je ovo neka slučajnost
-   (priča o tome kako i zašto su neki trolovi postali organizatori
-   antisajentoloških protesta postoji u mojoj knjizi) i to ime „Anonimusi“
-   će narednih godina biti korišćeno samo za trolovanje i ovaj neočekivani
-   protest manjeg obima.
-   I opet sam pogrešila. Nekoliko godina kasnije, Anonimusi su prerasli u
-   pravi protestni pokret sa sedištem na internetu, i imali su dovoljno
-   snage da obuhvate ceo svet. Svi su ih podržavali – od Japana do
-   Italije, od Makedonije do Dominikanske republike – i aktivisti su se
-   uhvatili raznih tema: od protesta zbog diktature ili borbe za prirodnu
-   okolinu do korporativne cenzure. I bilo je mnogo, baš mnogo hakovanja.
-   Tempo je bio sve brži i žešći, i trudila sam se da držim korak sa svim
-   operacijama koje su se odvijale 2011. godine.
-   Koji su bili rizici istraživanja tako mutnog i fluidnog pokreta? Da li
-   ste morali da balansirate između ličnog angažmana, čak i emotivnog? Da
-   li ste uspeli da ostanete nepristrasni?
-   Da počnemo od poslednjeg pitanja. Generalno, antropolozi ne teže
-   nepristrasnosti. To je rezultat suštinskog antropološkog imperativa –
-   rada na terenu – koij nas tera da kopamo duboko unutar zajednica, mesta
-   i ljudi koje proučavamo.
-   U knjizi sam pokušala da moje perspektive, stavovi, interesovanja,
-   pitanja i pristrasnosti budu eksplicitni i očigledni. Anonimusi su mi
-   bili privlačni, i to sam i rekla. Mogla sam da stanem iza njihovih
-   intervencija, ali ne i u potpunosti. Iako sam ih podržavala nisam
-   želela da sklonim u stranu ružne momente i trudila sam se da i njih
-   uključim u priču. Čitalac će, nadam se, doći do drugačijih zaključaka
-   baš zato što su moje pozicije bile jasne.
-   Kada su brojni hakeri uhapšeni 2011. i 2012. godine, nisam ostala po
-   strani. Umešala sam se koliko sam mogla. Pisala sam članke o preteranoj
-   kriminalizaciji Anonimusa. Sarađivala sam sa novinarima koji su kasnije
-   pisali šire priče o masivnim udarima na hakere. Dokumentovala sam svoju
-   ulogu pomiritelja između njih i medijskih profesionalaca jer je to
-   postalo sastavni deo mog istraživanja i moja obaveza prema kolektivu.
-   Iako bih mogla da imam kritičku distancu, takva intimnost značila je da
-   sam retko kad mogla da imam klinički, sterilni pogled i umesto toga sam
-   pokušala da iskusim – praktično i emotivno – sve što su radili. Kada bi
-   Anonimusi radili nešto riskantno, zastrašujuće, uzbudljivo, vredno
-   divljenja ili uznemirujuće, i ja sam bila tamo osećajući oduševljenje
-   ili strah sa njima.
-   Najuzbudljiviji deo svih anominih – zapravo pseudonimnih -  interakcija
-   istovremeno je i najteži. Za razliku od opšteg stava da anonimnost
-   izvlači na svetlost vašeg unutarnjeg, patološkog kretena, moje iskustvo
-   je drugačije. Anonimnost je izvukla divne kvalitete kod onih sa kojima
-   sam pričala poput saosećanja i dobrote. To što nisam mogla da sretnem
-   darežljive ljude koji su pisali sve one poruke ponekad je bilo
-   iscrpljujuće, a ponekad i tužno.
-   Konačno, iako sam bila veoma blizu akcije, nisam bila sveprisutna jer
-   sam želela da minimalizujem rizik koje bi moje prisustvo predstavljalo.
-   Do 2011. godine, Anonimusi su radili razne stvari, ali su postali
-   ozloglašeni zbog hakerisanja i morala sam da se klonim tajnih onlajn
-   soba gde su hakeri organizovali ilegalne infiltrirajuće operacije. Na
-   kraju, pošto je toliko mnogo hakera uhapšeno, mogla sam da pokrijem
-   neke od tih ilegalnih operacija, ali da su mnogi bili bolje obezbeđeni
-   moja knjiga ne bi izgledala ovako.
-   Deo jednog poglavlja nazvan je „Legitimnost protiv legalnosti“. Šta
-   mislite o tom kontrastu? Postoji li način da zadržite supstancu
-   legitimnosti unutar ilegalnog poziva na akciju kako biste postigli
-   revolucionarne rezultate?
-   To pitanje me podseća na jedan od mojih omiljenih citata Ursule LeGvin:
-   „Da bi neko postao lopov, prvo mora da postoji vlasnik. Da bi postojao
-   zločin, mora prvo da postoji zakon.“
-   Ponekad je prkošenje i nepoštovanje zakona jedini način da do promene
-   dođe. Bilo da je u pitanju radikalna direktna akcija ili liberalnija
-   građanska neposlušnost, ova strategija je dobro poznata aktivistima i
-   organizatorima svih vrsta, i priznata je kao neophodna. Jedan od
-   najuzbudljivijih momenata mog boravka među Anonimusima bilo je kada
-   mladi aktivisti ovo otkriju. Često su to radili usput ili
-   eksperimentišući, ali su s vremenom shvatili da je slepo poštovanje
-   zakona politički regresivno i opasno.
-   Drugo interesantno pitanje proizilazi iz vašeg pitanja: zašto je toliko
-   hakera spremno da prekrši zakon? Oni su prilično privilegovana grupa
-   ljudi, a opasnosti koje prate hakovanje su ogromne.
-   Identifikovali ste upotrebu maske Gaja Foksa kao strategiju da se
-   sačuva anonimnost i izbegne identifikacija (na primer tokom protesta
-   protiv sajentološke crkve) ali i kao nešto što je čuvalo pokret od
-   optužbi za terorizam. Možete li nam to objasniti?
-   Mnogi radikalni borci za slobodu, poput Nelsona Mandele i radikalnih
-   grupa poput aktivista za zaštitu prava životinja, bili su nepravedno
-   demonizovani kao teroristi. Anonimusi su bili dobra meta za napade
-   američke vlade kao nova, opasna vrsta sajber-ekstremista i terorista.
-   Ali ne samo da se to nije dogodilo, već je Holivud od Anonimusa
-   napravio heroje.
-   Pitanje koje sledi je: kako su uspeli da izbegnu tu negativnu etiketu?
-   Identifikovala sam pet razloga, od tajminga njihovih intervencija do
-   humora, ali najironičnije je korišćenje Foksove maske. Ironično je jer
-   je britanska vlada vekovima smatrala da je Foksa zločinac i terorista
-   zbog toga što je pokušao da digne u vazduh parlament 1605. godine.
-   Međutim, kako je Alan Mur, autor veoma popularnog grafičkog romana „V
-   kao vendeta“ provokativno objasnio, britanska vlada je vremenom
-   izgubila kontrolu nad pričom o Gaju Foksu.
-   Zahvaljujući autorima poput Alana Mura (ali i drugima pre njega,
-   uključujući i dečje pisce) lik Gaja Foksa je doživeo drastičnu
-   metamorfozu – od nesumnjivog mračnog lika do ambivalentnog
-   heroja/antiheroja. U vreme kada su Anonimusi preuzeli masku,
-   transformacija je bila gotovo završena zahvaljujući holivudskom
-   blokbasteru „V kao vendeta“ koji je poslao pozitivniju poruku o Gaju
-   Foksu. Izabravši ikonu, kolektiv je preuzeo i pozitivne asocijacije na
-   Gaja Foksa, a za uzvrat – sada kada je Gaj Foks gotovo sinonim za
-   Anonimuse – obezbedili su Foksu mesto u budućnosti. Konačni rezultat je
-   da su bliske asocijacije Anonimusa i ove ikone otežale davanje etikete
-   terorista Anonimusima.
+   * E mail adresa ____________________
+   * Lozinka ____________________
+   * potvrdi lozinku ____________________
+   (BUTTON) Registruj se
 
-   Podelite na društvenim mrežama:
+Ulogujte se
+
+   Korisnik ____________________
+
+   Lozinka ____________________
+   (BUTTON) Ulogujte se
+
+   Zaboravili ste lozinku?
+   Naslovna Magazin
+     * Život
+     * Muzika
+     * Zanimljivosti
+     * Tehnologija
+     * Putujemo
+     * Svet poznatih
+     * Zdravlje
+     * Nauka
+     * Priroda
+     * Film i TV
+     * Gledaoci reporteri
+     * Digitalni preduzetnik
+
+   Zanimljivosti Kako izgleda boks za „štrebere“?
+     * Život
+     * Muzika
+     * Zanimljivosti
+     * Tehnologija
+     * Putujemo
+     * Svet poznatih
+     * Zdravlje
+     * Nauka
+     * Priroda
+     * Film i TV
+     * Gledaoci reporteri
+     * Digitalni preduzetnik
+     * Kulturno
+     * Arhiva rubrika
+
+   sreda, 01. feb 2017, 23:00 -> 23:35
+
+   Izvor: RTS
+
+Kako izgleda boks za „štrebere“?
+
+   Kažu da nije loše iskaliti stres udarajući u bokserski džak, ali nekima
+   to nije dovoljno. Smislili su da je mnogo efikasnije ako umesto džaka
+   imaju pravog protivnika. Kako stres leče intelektualci?
+
+   Oni nisu profesionalni bokseri, nisu čak ni amateri. Oni su inženjeri,
+   intelektualci, popularni „gikovi“ (štreberi). Napravili su boks-klub i
+   tri puta nedeljno treniraju. Redovno dolazi njih desetak, ponekad i
+   više. Kako između kancelarijskih poslova i ozbiljnih projekata nađu
+   vremena za trening?
+
+   „Nikako, generalno uspešni inženjeri, advokati, ekonomisti rade i do 10
+   sati dnevno i onda da izdvoje još sat vremena za sport, teško je to“,
+   kaže Miloš Milošević.
+
+   Ali, kada jednom probaju, promene mišljenje.
+
+   „Kad malo povećaju svoje psihofizičke sposobnosti, svoju koncentraciju,
+   kad počne mozak brže da im obrađuje informacije, onda tih 10 sati
+   pretvore u šest sati“, navodi Milošević.
+
+   Nekima od njih boks je pomogao i da dobiju posao. Ali priznaju, od
+   treninga u ovoj sali ne idu dalje.
+
+   „Naučniku svakom je strašno teško da uđe u ring, svako ima bar malu
+   dozu straha“, navodi inženjer mašinstva Jovan Perović.
+
+   „Kad im kažem da treniram boks, obično me svi pitaju: Jesi li lud? A
+   kad vide da su sve advokati šampioni, obično je sledeće pitanje da li
+   mogu da dođu da treniraju“, ističe student ekonomije Nemanja Leposavić.
+
+   Advokat Vojin Draskoci preporučuje boks ljudima kojima treba opuštanje
+   ili lek od stresa, kao i ljudima koji vole dinamičan i zabavan
+   kolektivni trening.
+   broj komentara 5 pošalji komentar
+   (nedelja, 05. feb 2017, 20:07) - anonymous [neregistrovani]
+   pošalji odgovor
+
+Klub
+
+   Klub nije komercijalan, zatvorenog je tipa.
+   (četvrtak, 02. feb 2017, 14:45) - anonymous [neregistrovani]
+   pošalji odgovor
+
+Gde se ovo nalazi
+
+   Gde se ovo nalazi
+   (četvrtak, 02. feb 2017, 01:05) - anonisum [neregistrovani]
+   pošalji odgovor
+
+pitanje
+
+   moze li neka informacija, dje se nalaze, kontakt?
+   (četvrtak, 02. feb 2017, 00:52) - anonymous [neregistrovani]
+   pošalji odgovor
+
+Авио техничко усмерење на Машинцу
+
+   И Виталиј Кличко је потукао све противнике у рингу, изборио се за
+   политичку каријеру. Постао и градоначелник Кијева.
+   А шта вреди кад Антонов прошле године није произвео нити један
+   транспортни авион.
+   Кажу не могу без компоненти из Русије.
+   Можда би им колега Јован Перовић са нашег машинског факултета био од
+   помоћи?
+   (četvrtak, 02. feb 2017, 00:15) - anonymous [neregistrovani]
+   pošalji odgovor
+
+Molba
+
+   Molim vas mi odgovorite gde mogu da nadjem ovaj trening centar! Ljudi
+   su strava, atmosfera je vrhunska, voleo bih da odem da vidim i uzivo!
+   Veliki pozdrav! Hvala! :))
+     * Zanimljivosti
+
+   Kupci iz Mađarske nose naš ajvar i trenerke Kupci iz Mađarske nose naš
+   ajvar i trenerke
+   Akcija – besplatno uklanjanje tetovaža sa likom Kanjea Vesta Akcija –
+   besplatno uklanjanje tetovaža sa likom Kanjea Vesta
+   Dobri ovčar Kasper, odbranio stado od čopora kojota, ubio osam Dobri
+   ovčar Kasper, odbranio stado od čopora kojota, ubio osam
+   Benksijev mural u Ukrajini ostao netaknut nakon pokušaja krađe
+   Benksijev mural u Ukrajini ostao netaknut nakon pokušaja krađe
+   Ne može da spremi jelo za vreme koje piše u deklaraciji, pa tuži
+   kompaniju za pet miliona dolara Ne može da spremi jelo za vreme koje
+   piše u deklaraciji, pa tuži kompaniju za pet miliona dolara
+   ponedeljak, 05. decembar 2022.
+   Prognoza
+   [??????]
+   ° C ° C ° C ° C ° C ° C
+   iOS Aplikacija Android аplikacija
      * Najnovije
+     * Najčitanije
 
-   Noć knjige od 9. do 11. decembra!
-   Zabranjena ljubav u novom romanu Dajne Džefriz „Pre sezone kiša“
-   Poučne priče o prijateljstvu u dve knjige iz veselog dečjeg serijala
-   „Bibin svet“
-   Knjiga nedelje – „Brojevi ne lažu“
-   Dečja knjiga nedelje – „Bio jednom jedan strah“
-   Noć knjige od 9. do 11. decembra!
-   Ana Atanasković: Samo voli – čime god da se baviš
-   Klasik svetske književnosti „Zamak“ Franca Kafke u prodaji od 5.
-   decembra
-   Prikaz romana „Mica, Beograd i odvratni Britanac“: Srpska književnica
-   protiv UDB-e i KGB-a
-   Remek-delo antiratne književnosti „Klanica pet“ Kurta Vonegata u
-   prodaji od 5. decembra
-   Povezani naslovi
-   haker, trol, uzbunjivač, špijun mnoga lica anonimusa laguna knjige
-   Haker, trol, uzbunjivač, špijun: mnoga lica Anonimusa Gabrijela Kolman
-   NajnovijePogledaj sve
-   noć knjige od 9 do 11 decembra laguna knjige Noć knjige od 9. do 11.
-   decembra!
-   05.12.2022.
-   Dragi ljubitelji knjige, decembar je mesec koji pruža mnogo povoda za
-   slavlje, a jedan od njih je svakako Noć knjige. 27. Noć knjige održaće
-   se od 9. do 11. decembra 2022. godine pod pokrovi...
-   više
-   zabranjena ljubav u novom romanu dajne džefriz pre sezone kiša laguna
-   knjige Zabranjena ljubav u novom romanu Dajne Džefriz „Pre sezone kiša“
-   05.12.2022.
-   Novi roman Dajne Džefriz „Pre sezone kiša“ romantična je priča o
-   ljubavi koja istrajava uprkos mnogobrojnim nedaćama i preprekama, a
-   dešava se tridesetih godina prošlog veka u Indiji. Ova ljubavna ...
-   više
-   poučne priče o prijateljstvu u dve knjige iz veselog dečjeg serijala
-   bibin svet laguna knjige Poučne priče o prijateljstvu u dve knjige iz
-   veselog dečjeg serijala „Bibin svet“
-   05.12.2022.
-   „Majstor za snežne ludorije“ i „Prokopijev rudnik“ dve su vesele
-   slikovnice iz popularnog serijala „Bibin svet“, koji je stvorila
-   Biljana Crvenkovska, a ilustrovala Magdalena Tofilovska.   ...
-   više
-   knjiga nedelje brojevi ne lažu laguna knjige Knjiga nedelje – „Brojevi
-   ne lažu“
-   05.12.2022.
-   Za svoje članove Laguna uvek ima dobre vesti! Svake nedelje jedan od
-   aktuelnijih naslova proglašavamo za Knjigu nedelje. To znači da će naši
-   članovi samo te nedelje moći da kupe Knjigu nedelje sa spec...
-   više
-   NaslovnaKnjigeU pripremi#BukmarkerAkcijeMala LagunaVesti
-   Klub čitalacaKalendarNagradeLagunin književni klubTop-listeGodišnja
-   top-listaCenovnik
-   Uslovi korišćenjaO namaKontaktNewsletter – prijavaNewsletter – odjava
-   [maestro.gif]
-   [master_cardc.gif]
-   [visa-216x137.png]
-   [dinacard.png]
-   [amex.png]
-   [intesa.png]
-   [ikona_master.png]
-   [ikona_visa.png]
-   [logoWSPay.png]
-   [IPSINTESA.png]
-   [google_play_icon.png]
-   [Download_on_the_App_Store_Badge.png]
-   [image.php]
-   DMCA.com Protection Status
-   [1-excellence-award.jpg] [2-beogradski-pobednik.jpg]
-   [3-superbrandsserbia-laguna-2015-16.jpg]
-   [4-logo-topserbian-brands_laguna.jpg] [5-web-top-50.jpg]
+komentari
 
-   Safesigned Seal
-   [Najbolje_iz_Srbije_2019-Znak_za_dobitnike_kolor.png]
-   [laguna-doo-companywall.png]
+   Postovanje Лордан Зафрановић – забрањиван и слављен, вечити борац
+   против зла
+   Odgovor Шест митова о репрезентацији Србије на СП
+   Najvažnije Када је време за операцију смањења желуца
+   Novi srpski jezik ? Није океј да се браћа и сестре лемају, родитељи
+   треба да науче како да реагују
+   Mitovi Шест митова о репрезентацији Србије на СП
+   Preuzmite RTS mobilnu aplikaciju
+   Radio Televizija Srbije
 
-   Laguna d.o.o. Resavska 33, Beograd Matični broj: 17414844
+   Vesti Politika | Region | Svet | Srbija danas | Hronika | Društvo |
+   Ekonomija | Vreme | Merila vremena | Servisne vesti | Video dana |
+   Smatračnica | Rat u Ukrajini
 
-   Copyright © Laguna 1999 - 2022
+   Sport Fudbal | Košarka | Tenis | Odbojka | Rukomet | Vaterpolo |
+   Atletika | Auto-moto | Ostali sportovi | Memorijal RTS
 
-   Naš sajt koristi kolačiće koji služe da poboljšaju vaše korisničko
-   iskustvo, analiziraju posete sajtu na sajtu i prikazuju adekvatne
-   reklame odabranoj publici. Posetom ovog sajta, vi se slažete sa
-   korišćenjem kolačiča u skladu sa našom Politkom korišćenja kolačiča.
-   SLAŽEM SE
+   Magazin Život | Muzika | Zanimljivosti | Tehnologija | Putujemo | Svet
+   poznatih | Zdravlje | Nauka | Film i TV | Priroda | Gledaoci reporteri
+   | Digitalni preduzetnik
+
+   TV RTS 1 | RTS 2 | RTS 3 | RTS Svet | RTS Nauka | RTS Drama | RTS Život
+   | RTS Kolo | RTS Klasika | RTS Trezor | RTS Muzika | RTS Poletarac
+
+   Radio Radio Beograd 1 | Radio Beograd 2 | Radio Beograd 3 | Beograd 202
+   | Radio Pletenica | Radio Rokenroler | Radio Džuboks | Radio Vrteška |
+   Arhiv
+
+   RTS Kontakt | Marketing | Javne nabavke | Konkursi | Internet portal
+
+   Vesti Politika Region Svet Srbija danas Hronika Društvo Ekonomija Vreme
+   Merila vremena Servisne vesti Video dana Smatračnica Rat u Ukrajini
+
+   Sport Fudbal Košarka Tenis Odbojka Rukomet Vaterpolo Atletika Auto-moto
+   Ostali sportovi Memorijal RTS
+
+   Magazin Život Muzika Zanimljivosti Tehnologija Putujemo Svet poznatih
+   Zdravlje Nauka Film i TV Priroda Gledaoci reporteri Digitalni
+   preduzetnik
+
+   TV RTS 1 RTS 2 RTS 3 RTS Svet RTS Nauka RTS Drama RTS Život RTS Kolo
+   RTS Klasika RTS Trezor RTS Muzika RTS Poletarac
+
+   Radio Radio Beograd 1 Radio Beograd 2 Radio Beograd 3 Beograd 202 Radio
+   Pletenica Radio Rokenroler Radio Džuboks Radio Vrteška Arhiv
+
+   RTS Kontakt | Marketing | Javne nabavke | Konkursi | Internet portal
+   MAPA SAJTA
+   Privatnost | Copyright | Pravila upotrebe sadržaja | Mapa sajta
+   Copyright © 2008 - 2022 RTS. Sva prava zadržana.
