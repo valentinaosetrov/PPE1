@@ -16,7 +16,7 @@
 
    Pretraga ____________________
 
-   05. 12. 2022
+   06. 12. 2022
      * Impresum
      * Advertising
      * Pošalji vest!
@@ -331,14 +331,12 @@ PROGNOZA VREMENA
    Novi Sad, RS
    scattered clouds
    ____________________ enter location
-   5.7 ° C
-   6.1 °
-   5 °
-   87 %
-   3.7kmh
-   30 %
-   Mon
+   4.6 ° C
    6 °
+   4.6 °
+   87 %
+   3.6kmh
+   39 %
    Tue
    8 °
    Wed
@@ -347,6 +345,8 @@ PROGNOZA VREMENA
    7 °
    Fri
    13 °
+   Sat
+   14 °
 
 KURSNA LISTA
 

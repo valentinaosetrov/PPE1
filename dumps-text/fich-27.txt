@@ -464,7 +464,7 @@
    [empty.gif]
    [page_first_unactiv.gif] [page_previous_unactiv.gif] STRANA 1 OD 2
    [page_next.gif] [page_last.gif]
-   Broj postavljenih tema: 59932. Broj poslatih odgovora: 642791.
+   Broj postavljenih tema: 59932. Broj poslatih odgovora: 642792.
    Trenutno niste prijavljeni na PC Berzu i zbog toga imate status
    'gosta'. Kao gost ne možete da šaljete poruke na Forum. Ako ste
    registrovani kao član PC Berze, prijavite se. Ako ste novi korisnik,

@@ -46,15 +46,15 @@ Pretraga
      *
           + U trendu:
           + Jel Krscanstvo dozvoljava masturbaciju?
+          + Koliko ima istine ...?
           + Zasto (ni)ste isli na Kosovo i Metohiju?
-          + Da li su žene seksualna vizuelna bića?
-          + Ponosna Bosanka
-          + Učenik koji je izmakao stolicu...
-          + Кад порастем бићу пчеларка
           + Velika pobeda žena: Iran ukida moralnu...
+          + Nemoj danas...
           + Adolescencija i seksualna orijentacije
           + Pohovanje
-          + Šta je to tribalizam?
+          + Da li su žene seksualna vizuelna bića?
+          + Učenik koji je izmakao stolicu...
+          + Prava i obaveze deteta
 
      * Društvo
 
@@ -112,7 +112,7 @@ Legenda
    Moderator
 
    Poruka
-          61.180
+          61.184
 
      * 22.07.2022. u 18:43 - Konak "Kod dobrog čoveka" (2)
 
@@ -168,7 +168,7 @@ Stara legenda
 Veoma poznat
 
    Poruka
-          13.077
+          13.083
 
      * 22.07.2022. u 18:46 - Konak "Kod dobrog čoveka" (2)
 
@@ -224,7 +224,7 @@ Legenda
    Moderator
 
    Poruka
-          61.180
+          61.184
 
      * 22.07.2022. u 18:48 - Konak "Kod dobrog čoveka" (2)
 
@@ -270,7 +270,7 @@ Stara legenda
 Veoma poznat
 
    Poruka
-          13.077
+          13.083
 
      * 22.07.2022. u 18:49 - Konak "Kod dobrog čoveka" (2)
 
@@ -296,7 +296,7 @@ Veoma poznat
 Veoma poznat
 
    Poruka
-          13.077
+          13.083
 
      * 22.07.2022. u 18:50 - Konak "Kod dobrog čoveka" (2)
 
@@ -323,7 +323,7 @@ Legenda
    Moderator
 
    Poruka
-          61.180
+          61.184
 
      * 22.07.2022. u 18:50 - Konak "Kod dobrog čoveka" (2)
 
@@ -349,7 +349,7 @@ Reefer
 Starosedelac
 
    Poruka
-          161.530
+          161.531
 
      * 22.07.2022. u 18:51 - Konak "Kod dobrog čoveka" (2)
 
@@ -427,7 +427,7 @@ Stara legenda
 Veoma poznat
 
    Poruka
-          13.077
+          13.083
 
      * 22.07.2022. u 18:53 - Konak "Kod dobrog čoveka" (2)
 
@@ -482,7 +482,7 @@ Reefer
 Starosedelac
 
    Poruka
-          161.530
+          161.531
 
      * 22.07.2022. u 18:54 - Konak "Kod dobrog čoveka" (2)
 
@@ -536,7 +536,7 @@ Stara legenda
 Veoma poznat
 
    Poruka
-          13.077
+          13.083
 
      * 22.07.2022. u 18:54 - Konak "Kod dobrog čoveka" (2)
 
@@ -562,7 +562,7 @@ Veoma poznat
 Veoma poznat
 
    Poruka
-          13.077
+          13.083
 
      * 22.07.2022. u 18:55 - Konak "Kod dobrog čoveka" (2)
 
@@ -591,7 +591,7 @@ Legenda
    Moderator
 
    Poruka
-          61.180
+          61.184
 
      * 22.07.2022. u 18:57 - Konak "Kod dobrog čoveka" (2)
 
@@ -612,7 +612,7 @@ Legenda
 Veoma poznat
 
    Poruka
-          13.077
+          13.083
 
      * 22.07.2022. u 18:58 - Konak "Kod dobrog čoveka" (2)
 
@@ -721,7 +721,7 @@ Legenda
    Moderator
 
    Poruka
-          61.180
+          61.184
 
      * 22.07.2022. u 19:00 - Konak "Kod dobrog čoveka" (2)
 
