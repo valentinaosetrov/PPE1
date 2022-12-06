@@ -14,7 +14,7 @@ Nous avons choisi le mot geek (choix validé par le prof). Le prof nous a propos
 Introduction HTML, exercice d'essaie (exemple Wikipedia)
 
 ## Semaine 6
-
+J'ai téléchargé lynx qui est un navigateur web dans le terminal et dont on aura besoin pour récupérer le contenu des URLs pour le projet. Commande cURL sera nécessaire aussi.
 
 ## Semaine 8
 Pendant le cours j'ai créée ma première page (https://valentinaosetrov.github.io/PPE1/), je n'ai eu aucun problème pour le faire !
@@ -36,3 +36,7 @@ en ce qui concerne le script, j'ai avancé et j'ai créé les dumps. cependant, 
 j'ai ouvert mes dumps html et j'ai remarqué que certains ont gardé leur mise en page telle qu'elle est sur le site. Je ne comprends pas pourquoi, je demanderai aux profs la prochaine fois si c'est normal ou sinon comment corriger ce problème.
 j'ai complété ma liste des URLs pour le mot nerd. J'ai ajouté du style à mon site, maintenant il est plus joli ! 
 Enfin, j'ai pris le temps de bien ranger mon git et à m'assurer que les commits et les pulls soient bien synchronisés.
+
+## Semaine 12
+J'ai bien rangé mes deux fichiers txt avec les URLs, normalement maintenant j'ai fini avec la sélection des URLs, j'ai rangé par type de texte (article de presse, blog, forum) donc tout n'est plus mélangé.
+J'ai avancé sur le script de base, j'ai ajouté un commentaire sur le fonctionnement du script, j'ai créé des contextes gauche et droit (pour le mot) et j'ai créé des concordanciers pour chaque URL. Pour tout cela, j'étais obligé de suivre la correction des profs de la semaine dernière donc je n'ai pas eu de problème. Je dois juste faire attention quand j'indique le chemin vers un fichier parce que des fois je me trompe un peu vu que le dossier que je veux est à l'intérieur d'un dossier qui lui est à l'intérieur d'un dossier qui lui ... et ainsi de suite... il y en a beaucoup ! Or cela me permet de bien trier et heureusement j'ai réussi à mettre le bon chemin finalement mais cela reste une question que je poserai aux profs mercredi. En outre j'ai fait tout les commits nécesserais et j'ai tout mis sur le git de mon groupe aussi.
