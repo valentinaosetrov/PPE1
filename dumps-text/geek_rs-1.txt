@@ -32,18 +32,18 @@
    [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS]
    [INS: :INS]
 
-   Četvrtak, 29.12.2022. ✝ Verski kalendar
+   Četvrtak, 05.01.2023. ✝ Verski kalendar
    Verski kalendar
-   ☦ Prepodobni Spiridon Čudotvorac, episkop trimituntski – Materice
-   ☨ ROĐENJE GOSP. BOŽIC
-   ✡ 1. Tevet
-   ☪ 1. Džumada-l-uhra
+   ☦ Svetih 10 mučenika Kritskih; Prep. Naum Ohridski – Tucindan
+   ☨ Miljenko, Emilijana, Radoslav
+   ✡ 12. Tevet
+   ☪ 12. Džumada-l-uhra
    € Kursna lista
    Kursna lista
     Kup.  Prod.  Sred.
-   116.96 117.66 117.31
-   110.09 110.75 110.42
-   118.68 119.39 119.04
+   117    117.7  117.35
+   110.15 110.82 110.49
+   118.54 119.25 118.89
    Izdanja Čitulje
    Ćirilica
    accessibility-tools
@@ -54,19 +54,19 @@
      * Najnovije vesti
      * Svet
      * Politika
-     * SP 2022
      * Društvo
      * Pogledi
      * Hronika
      * Ekonomija
+     * Sport
      * Kultura
      * Beograd
-     * Sport
      * Region
+     * Magazin
      * Sve
      *
 
-   Mozaik Pisma čitalaca Moj život u inostranstvu Priča o Kini Zdravlje
+   Pisma čitalaca Moj život u inostranstvu Priča o Kini Zdravlje
 
    [INS: :INS] [INS: :INS]
 
@@ -181,21 +181,21 @@ Komentar uspešno dodat!
    film
    [INS: :INS] [INS: :INS]
    [INS: :INS]
-   [294z166_Rosdi-Zem-2-foto-D-Lakic-63ac2dac0caa0.jpg]
+   [294z166_dok.jpg]
 
-Porodica čije severnoafričko poreklo nije tema
+Peti međunarodni festival dokumentarnog filma od 2. do 5. februara u…
 
-   [294z166_Dzerard-Batler-epa-nina-prommer.jpg]
+   [294z166_srdjan-karanovic-tan-m-milivojevic.jpg]
 
-Pravnik među glumcima
+Sazdani smo od niza slučajnosti
 
-   [294z166_clapper.jpg]
+   [294z166_mira.jpg]
 
-Kako napisati scenario
+Film Mirjane Karanović dobio podršku iz Francuske
 
-   [294z166_plakatzafilm.jpg]
+   [294z166_milan-Maric-epa-Clemens-Bilan.jpg]
 
-Film o stradanju sarajevskih Srba
+Ljudima je potrebna katarza, umetnici treba da im je ponude
 
    [294z166_elvis.jpg]
 
@@ -215,30 +215,31 @@ Bond obara rekorde
 
 Pročitajte još:
 
-   [60z60_padobranci.jpg]
-   Svet
-   Zašto je ruska taktika ojačanih bataljona podbacila u Ukrajini
-   [60z60_hitna-ljubljana.jpg]
-   Region
-   „Nehitni” prave problem u Hitnoj
-   [60z60_kosovo-map-.jpg]
-   Politika
-   NATO ohrabrio tvrdolinijaške elemente u Prištini
-   [60z60_Barikade-u-mestu-Zupce-63ad4e3cc52ec.jpg]
-   Politika
-   Nije počelo uklanjanje barikada na Rudaru
-   [60z60_sine.jpg]
-   Hronika
-   Teretni voz sa fosfornom kiselinom iskliznuo iz šina kod Zaječara
-   [60z60_jokic-ijvava-63ad4bebd13b2.jpg]
+   [60z60_begoviceva.jpg]
+   Društvo
+   Ministarka ohrabrila studente u inostranstvu da se vrate u zemlju
+   [60z60_dejan-bodiroga-tng-z.zz-dddd.jpg]
    Košarka
-   Odličan Jokić, ali i poraz njegovog tima
-   [60z60_677z381_sin-d.pantica.gif]
+   Bodiroga: U interesu Evrolige je da Kampaco igra
+   [60z60_mali-maturanti.jpg]
+   Društvo
+   Najviše osmaka izabralo biologiju za treći test na maloj maturi
+   [60z60_ispo-krajinovic.jpg]
+   Tenis
+   Krajinović zaustavljen u četvrfinalu turnira u Puneu
+   [60z60_NIKITA-MIHALKOV_-r-krstinic-nnn7.jpg]
+   Kultura
+   Nikita Mihalkov prebačen u bolnicu u teškom stanju
+   [60z60_pripreme-red-star.jpg]
+   Fudbal
+   S optimizmom u nove poduhvate
+   [60z60_jam-madar.jpg]
+   Košarka
+   Obradović na Obradovića
+   [60z60_kfor-kosovo--ap-beta--sddd.jpg]
    Politika
-   Sin Pantića: Otac je stigao kući i oseća se dobro
-   [60z60_Untitled.jpg]
-   Politika
-   Ovo je naša mala pobeda - nije kraj problema
+   NATO: Nismo dobili zvaničan zahtev sa KiM za povećanje broja vojnika u
+   Kforu
 
    [INS: :INS]
 
@@ -263,20 +264,24 @@ Pročitajte još:
      * Najnovije vesti
      * Svet
      * Politika
-     * SP 2022
      * Društvo
      * Pogledi
      * Hronika
      * Ekonomija
      * Potrošač
-     * Kultura
-
-
-     * Beograd
      * Sport
+     * Kultura
+     * Beograd
      * Region
-     * Mozaik
+
+
      * Magazin
+     * Zanimljivosti
+     * Nauka i tehnologija
+     * Istorija
+     * Putovanja
+     * Auto
+     * Moda
      * TV revija
      * Gastronomija
      * Pisma čitalaca

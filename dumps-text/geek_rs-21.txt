@@ -214,13 +214,25 @@ Webinar – učenje preko Interneta
 
 Izdvojeni univerziteti i fakulteti:
 
+   Prirodno-matematički fakultet u Kragujevcu
+
+Prirodno-matematički fakultet u Kragujevcu
+
+   Tehnički fakultet u Boru
+
+Tehnički fakultet u Boru
+
    CITY College, University of York Europe Campus
 
 CITY College, University of York Europe Campus
 
-   Prirodno-matematički fakultet u Kragujevcu
+   FEFA fakultet
 
-Prirodno-matematički fakultet u Kragujevcu
+FEFA fakultet
+
+   Filozofski fakultet - Beograd
+
+Filozofski fakultet - Beograd
 
    Fakultet društvenih nauka
 
@@ -230,9 +242,9 @@ Fakultet društvenih nauka
 
 Visoka škola modernog biznisa - MBS
 
-   Tehnički fakultet u Boru
+   Beogradska bankarska akademija
 
-Tehnički fakultet u Boru
+Beogradska bankarska akademija
 
    MEF - Fakultet za primenjeni menadžment, ekonomiju i finansije
 
@@ -241,18 +253,6 @@ MEF - Fakultet za primenjeni menadžment, ekonomiju i finansije
    Visoka škola elektrotehnike i računarstva strukovnih studija u Beogradu
 
 Visoka škola elektrotehnike i računarstva strukovnih studija u Beogradu
-
-   Beogradska bankarska akademija
-
-Beogradska bankarska akademija
-
-   FEFA fakultet
-
-FEFA fakultet
-
-   Filozofski fakultet - Beograd
-
-Filozofski fakultet - Beograd
 
    Maturang
    Nagradno istraživanje
@@ -335,9 +335,9 @@ Vesti o studiranju
    Stipendije
    O nama Najčešća pitanja Uslovi korišćenja Oglasite se kod nas
 
-Statistika za Novembar 2022.
+Statistika za Decembar 2022.
 
-   Broj poseta sajtu: 45.206
+   Broj poseta sajtu: 36.232
 
    Ukupan broj univerziteta: 21
 
@@ -347,7 +347,7 @@ Statistika za Novembar 2022.
 
    Ukupan broj smerova na fakultetima: 255
 
-   Ukupan broj smerova na visokim školama: 73
+   Ukupan broj smerova na visokim školama: 50
    Šta da upišem Prijemni ispit Inostranstvo Šta treba da znam Studentski
    život Stipendije
    O nama Najčešća pitanja Uslovi korišćenja Oglasite se kod nas
