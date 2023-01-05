@@ -3,8 +3,10 @@
 # attention : ce script doit être lancé depuis la racine du projet.
 # Cela lui permet de récupérer les fichiers dans les bons dossiers.
 # 
-# Se lancera donc comme ça :
-# $ ./programmes/correction_itrameur.sh
+# Pour lancer le script:
+# bash itrameur.sh nom_du_dossier nom_du_fichier
+# Pour le nom du dossier on prendra le dossier dumps-text ou contextes
+# Pour le nom du fichier on prendra le nom du fichier contenant les URLs (sans l'extension)
 
 if [[ $# -ne 2 ]]
 then
@@ -32,7 +34,28 @@ do
 	content=$(echo "$content"|sed 's/&/&amp;/g') # manière globale dans le fichier, l'ordre ici est important & en premier sinon < => &lt; =>amp;lt;
 	content=$(echo "$content"|sed 's/</&lt;/g')
 	content=$(echo "$content"|sed 's/>/&gt;/g')
-	
+	content=$(echo "$content"|sed 's/[ŠšSs]TREBERA/ŠTREBER/g') # lemmatisation des différentes formes pour regrouper la recherche sur iTrameur
+	content=$(echo "$content"|sed 's/[ŠšSs]trebere/ŠTREBER/g')
+	content=$(echo "$content"|sed 's/[ŠšSs]treberu/ŠTREBER/g')
+	content=$(echo "$content"|sed 's/[ŠšSs]trebera/ŠTREBER/g')
+	content=$(echo "$content"|sed 's/[ŠšSs]treberi/ŠTREBER/g')
+	content=$(echo "$content"|sed 's/[Gg]iku?/GIK/g')
+	content=$(echo "$content"|sed 's/[Gg]ikovima/GIK/g')
+	content=$(echo "$content"|sed 's/[Gg]eekova/GIK/g')
+	content=$(echo "$content"|sed 's/[Gg]ika/GIK/g')
+	content=$(echo "$content"|sed 's/[Gg]eeka/GIK/g')
+	content=$(echo "$content"|sed 's/[Gg]eekove/GIK/g')
+	content=$(echo "$content"|sed 's/[Gg]ikove/GIK/g')
+	content=$(echo "$content"|sed 's/[Gg]ikova/GIK/g')
+	content=$(echo "$content"|sed 's/[Gg]ikovi/GIK/g')
+	content=$(echo "$content"|sed 's/[Gg]ik/GIK/g')
+	content=$(echo "$content"|sed 's/[Gg]eek/GIK/g')
+	content=$(echo "$content"|sed 's/[ŠšSs]treber/ŠTREBER/g')
+	content=$(echo "$content"|sed 's/[ŠšSs]treberima/ŠTREBER/g')
+
+
+
+
 	echo "$content">> "./itrameur/$folder-$basename.txt"
 	
 	echo "</text>" >> "./itrameur/$folder-$basename.txt"
