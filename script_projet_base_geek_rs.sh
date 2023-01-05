@@ -25,17 +25,22 @@ then
 	exit
 fi
 
-mot="[Gg]ik(a|u|ovi|e|ovima|ova|uša|ušu|uši|ušama|uše)?|[Gg]eek(ovi|ove|ovima|ova)?" # différentes formes du mot (genre/nombre/les cas + écriture emprunté )
+mot="[Gg]ik(a|u|ovi|ove|ovima|ova|uša|ušu|uši|ušama|uše)?|[Gg]eek(a|u|ovi|ove|ovima|ova)?" # différentes formes du mot (genre/nombre/les cas + écriture emprunté )
 
 # ==== créer le tableau ====
 
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
 
-echo "<html><body>" > $fichier_tableau
-echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
+echo "<html><head>
+			<meta charset = "UTF-8"/>
+			<title> tableau URL (geek-rs) </title>
+			<meta name ="viewport" content="width=device-width, initial-scale=1">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+			<body>" > $fichier_tableau
+echo "<h2 class="title is-2" >Tableau $basename :</h2>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
-echo "<table>" >> $fichier_tableau
+echo "<table class=\"table is-bordered is-hoverable is-stripped\">" >> $fichier_tableau
 echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>dump html</th><th>dump text</th><th>occurrences</th><th>contextes</th><th>concordances</th></tr>" >> $fichier_tableau
  
 # ==== remplir le tableau ==== 
