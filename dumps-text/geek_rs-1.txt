@@ -32,7 +32,7 @@
    [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS] [INS: :INS]
    [INS: :INS]
 
-   Četvrtak, 05.01.2023. ✝ Verski kalendar
+   Subota, 07.01.2023. ✝ Verski kalendar
    Verski kalendar
    ☦ Svetih 10 mučenika Kritskih; Prep. Naum Ohridski – Tucindan
    ☨ Miljenko, Emilijana, Radoslav
@@ -41,9 +41,9 @@
    € Kursna lista
    Kursna lista
     Kup.  Prod.  Sred.
-   117    117.7  117.35
-   110.15 110.82 110.49
-   118.54 119.25 118.89
+   116.99 117.7  117.35
+   111.19 111.86 111.52
+   118.64 119.36 119
    Izdanja Čitulje
    Ćirilica
    accessibility-tools
@@ -181,6 +181,10 @@ Komentar uspešno dodat!
    film
    [INS: :INS] [INS: :INS]
    [INS: :INS]
+   [294z166_simic-jovan.jpg]
+
+Ne, ovo nije sve
+
    [294z166_dok.jpg]
 
 Peti međunarodni festival dokumentarnog filma od 2. do 5. februara u…
@@ -192,10 +196,6 @@ Sazdani smo od niza slučajnosti
    [294z166_mira.jpg]
 
 Film Mirjane Karanović dobio podršku iz Francuske
-
-   [294z166_milan-Maric-epa-Clemens-Bilan.jpg]
-
-Ljudima je potrebna katarza, umetnici treba da im je ponude
 
    [294z166_elvis.jpg]
 
@@ -215,31 +215,30 @@ Bond obara rekorde
 
 Pročitajte još:
 
-   [60z60_begoviceva.jpg]
+   [60z60_11034544.jpg]
+   Svet
+   Eksplozija na gasovodu u LNR
+   [60z60_1312938.jpg]
+   Svet
+   Zelenski uveo sankcije Nikiti Mihalkovu i za još 118 drugih umetnika
+   [60z60_POL_PR_060.jpg]
    Društvo
-   Ministarka ohrabrila studente u inostranstvu da se vrate u zemlju
-   [60z60_dejan-bodiroga-tng-z.zz-dddd.jpg]
-   Košarka
-   Bodiroga: U interesu Evrolige je da Kampaco igra
-   [60z60_mali-maturanti.jpg]
-   Društvo
-   Najviše osmaka izabralo biologiju za treći test na maloj maturi
-   [60z60_ispo-krajinovic.jpg]
-   Tenis
-   Krajinović zaustavljen u četvrfinalu turnira u Puneu
-   [60z60_NIKITA-MIHALKOV_-r-krstinic-nnn7.jpg]
-   Kultura
-   Nikita Mihalkov prebačen u bolnicu u teškom stanju
-   [60z60_pripreme-red-star.jpg]
+   Ništa nije tako posebno kao Božić u Svetoj zemlji
+   [60z60_celsi.jpg]
    Fudbal
-   S optimizmom u nove poduhvate
-   [60z60_jam-madar.jpg]
-   Košarka
-   Obradović na Obradovića
-   [60z60_kfor-kosovo--ap-beta--sddd.jpg]
-   Politika
-   NATO: Nismo dobili zvaničan zahtev sa KiM za povećanje broja vojnika u
-   Kforu
+   Santos i Fofana potpisali za Čelsi
+   [60z60_Teksas-svestenik2.jpg]
+   Svet
+   Američki Italijan starešina srpske crkve u Teksasu
+   [60z60_trudo.jpg]
+   Svet
+   Premijer Kanade čestitao Božić
+   [60z60_meksiko-policija.jpg]
+   Svet
+   Sudar dva voza u meksičkom metrou, ima poginulih
+   [60z60_miras-dedeic.jpg]
+   Region
+   Miraš Dedeić pomešao Božić i Vaskrs
 
    [INS: :INS]
 
