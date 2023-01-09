@@ -52,10 +52,6 @@ while read -r URL; do
 	code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
 	charset=$(curl -Ls $URL -D - -o "./aspirations/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
 
-	# autre façon, avec l'option -w de cURL
-	# code=$(curl -Ls -o /dev/null -w "%{http_code}" $URL)
-	# charset=$(curl -ILs -o /dev/null -w "%{content_type}" $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
-
 	echo -e "\tcode : $code";
 
 	if [[ ! $charset ]]
