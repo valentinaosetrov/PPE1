@@ -41,16 +41,16 @@ Pretraga
    (BUTTON) Instalirajte
      *
           + U trendu:
-          + Patrijarh: Božić obeležiti kod kuće, a...
-          + Pucnjava kod Štrpca: Albanac pucao na...
-          + Face reveal
-          + Privatni fakulteti, privatno školstvo...
-          + Zasto danas deca imaju velike oci?
-          + Ljubav i prevara
-          + Moj bivši muž će biti otac bebe sa...
-          + Šestogodišnjak u pritvoru nakon što je...
-          + Šok za sve fanove serije "Igra...
-          + Капилари на лицу и носу и спуштени капци
+          + "Zašto Bog dopušta da deca pate, čak i...
+          + Ћутање као слабост
+          + Neredi u Brazilu: Bolsonarove...
+          + Pomoć oko parkiranja
+          + Možda nisi savršena, ali volim te..
+          + Vojvodina postaje pustinja?
+          + Naš sistem edukacije
+          + Љубавни напитци/афродизијаци
+          + Jeste li usamljeni?
+          + Peting i trudnoca
 
      * Društvo
 
@@ -108,7 +108,7 @@ Legenda
    Moderator
 
    Poruka
-          62.076
+          62.108
 
      * 22.07.2022. u 18:43 - Konak "Kod dobrog čoveka" (2)
 
@@ -139,7 +139,7 @@ Legenda
 Stara legenda
 
    Poruka
-          80.917
+          80.940
 
      * 22.07.2022. u 18:43 - Konak "Kod dobrog čoveka" (2)
 
@@ -164,7 +164,7 @@ Stara legenda
 Veoma poznat
 
    Poruka
-          13.477
+          13.487
 
      * 22.07.2022. u 18:46 - Konak "Kod dobrog čoveka" (2)
 
@@ -191,7 +191,7 @@ Veoma poznat
 Stara legenda
 
    Poruka
-          80.917
+          80.940
 
      * 22.07.2022. u 18:47 - Konak "Kod dobrog čoveka" (2)
 
@@ -220,7 +220,7 @@ Legenda
    Moderator
 
    Poruka
-          62.076
+          62.108
 
      * 22.07.2022. u 18:48 - Konak "Kod dobrog čoveka" (2)
 
@@ -246,7 +246,7 @@ Legenda
 Stara legenda
 
    Poruka
-          80.917
+          80.940
 
      * 22.07.2022. u 18:49 - Konak "Kod dobrog čoveka" (2)
 
@@ -266,7 +266,7 @@ Stara legenda
 Veoma poznat
 
    Poruka
-          13.477
+          13.487
 
      * 22.07.2022. u 18:49 - Konak "Kod dobrog čoveka" (2)
 
@@ -292,7 +292,7 @@ Veoma poznat
 Veoma poznat
 
    Poruka
-          13.477
+          13.487
 
      * 22.07.2022. u 18:50 - Konak "Kod dobrog čoveka" (2)
 
@@ -319,7 +319,7 @@ Legenda
    Moderator
 
    Poruka
-          62.076
+          62.108
 
      * 22.07.2022. u 18:50 - Konak "Kod dobrog čoveka" (2)
 
@@ -345,7 +345,7 @@ Reefer
 Starosedelac
 
    Poruka
-          162.991
+          163.123
 
      * 22.07.2022. u 18:51 - Konak "Kod dobrog čoveka" (2)
 
@@ -371,7 +371,7 @@ Starosedelac
 Stara legenda
 
    Poruka
-          80.917
+          80.940
 
      * 22.07.2022. u 18:52 - Konak "Kod dobrog čoveka" (2)
 
@@ -401,7 +401,7 @@ Stara legenda
 Stara legenda
 
    Poruka
-          80.917
+          80.940
 
      * 22.07.2022. u 18:53 - Konak "Kod dobrog čoveka" (2)
 
@@ -423,7 +423,7 @@ Stara legenda
 Veoma poznat
 
    Poruka
-          13.477
+          13.487
 
      * 22.07.2022. u 18:53 - Konak "Kod dobrog čoveka" (2)
 
@@ -446,7 +446,7 @@ Veoma poznat
 Stara legenda
 
    Poruka
-          80.917
+          80.940
 
      * 22.07.2022. u 18:53 - Konak "Kod dobrog čoveka" (2)
 
@@ -478,7 +478,7 @@ Reefer
 Starosedelac
 
    Poruka
-          162.991
+          163.123
 
      * 22.07.2022. u 18:54 - Konak "Kod dobrog čoveka" (2)
 
@@ -505,7 +505,7 @@ Starosedelac
 Stara legenda
 
    Poruka
-          80.917
+          80.940
 
      * 22.07.2022. u 18:54 - Konak "Kod dobrog čoveka" (2)
 
@@ -532,7 +532,7 @@ Stara legenda
 Veoma poznat
 
    Poruka
-          13.477
+          13.487
 
      * 22.07.2022. u 18:54 - Konak "Kod dobrog čoveka" (2)
 
@@ -558,7 +558,7 @@ Veoma poznat
 Veoma poznat
 
    Poruka
-          13.477
+          13.487
 
      * 22.07.2022. u 18:55 - Konak "Kod dobrog čoveka" (2)
 
@@ -587,7 +587,7 @@ Legenda
    Moderator
 
    Poruka
-          62.076
+          62.108
 
      * 22.07.2022. u 18:57 - Konak "Kod dobrog čoveka" (2)
 
@@ -608,7 +608,7 @@ Legenda
 Veoma poznat
 
    Poruka
-          13.477
+          13.487
 
      * 22.07.2022. u 18:58 - Konak "Kod dobrog čoveka" (2)
 
@@ -629,7 +629,7 @@ bmaxa
 Buduća legenda
 
    Poruka
-          39.036
+          39.148
 
      * 22.07.2022. u 18:59 - Konak "Kod dobrog čoveka" (2)
 
@@ -659,7 +659,7 @@ Buduća legenda
 Stara legenda
 
    Poruka
-          80.917
+          80.940
 
      * 22.07.2022. u 18:59 - Konak "Kod dobrog čoveka" (2)
 
@@ -693,7 +693,7 @@ bmaxa
 Buduća legenda
 
    Poruka
-          39.036
+          39.148
 
      * 22.07.2022. u 19:00 - Konak "Kod dobrog čoveka" (2)
 
@@ -717,7 +717,7 @@ Legenda
    Moderator
 
    Poruka
-          62.076
+          62.108
 
      * 22.07.2022. u 19:00 - Konak "Kod dobrog čoveka" (2)
 
@@ -743,7 +743,7 @@ Legenda
 Stara legenda
 
    Poruka
-          80.917
+          80.940
 
      * 22.07.2022. u 19:01 - Konak "Kod dobrog čoveka" (2)
 
@@ -810,14 +810,14 @@ Slične teme
    3 4 5
 
    Odgovora
-          107
+          114
 
    Pregleda
-          1.772
+          1.868
 
-   26.12.2022.
-   DedaStojan
-   D
+   juče u 18:04
+   robivek
+   R
    Nikita Kulganov
    Kako su ljudi dobili saznanje od Boga da je on napravio Zemlju, prvog
    coveka....?
@@ -831,27 +831,29 @@ Slične teme
           33
 
    Pregleda
-          901
+          907
 
    16.11.2022.
    Branimir76
    Branimir76
    dlugomir
+     * Zatvorena
+
    Patrijarh: Božić obeležiti kod kuće, a ne polupaganski u polupijanoj
    atmosferi
      * dlugomir
-     * juče u 17:37
+     * petak u 17:37
      * Religija i duhovnost
 
-   3 4 5
+   4 5 6
 
    Odgovora
-          112
+          147
 
    Pregleda
-          1.477
+          2.170
 
-   pre 23 minuta
+   juče u 00:20
    Сале
    Сале
    Preporučite:

@@ -1,10 +1,10 @@
    #alternate Uredi Википедија (sr) alternate alternate alternate
    alternate
 
-   Jump to content
+   Pređi na sadržaj
    [ ]
 
-   Toggle sidebar Википедија
+   Prikaži/sakrij bočnu traku Википедија
    Pretraga
    ____________________ Pretraži Idi
 
@@ -14,7 +14,7 @@
    Otvorite nalog
    Prijavite se
 
-   Pages for logged out editors learn more
+   Stranice za odjavljene urednike detaljnije
      * Razgovor
      * Doprinosi
 
@@ -41,24 +41,24 @@
      * Posebne stranice
      * Trajan link
      * Podaci o stranici
-     * Citiranje ove stranice
+     * Citiraj stranicu
      * Stavka na Vikipodacima
 
-   Print/export
-     * Preuzmite kao PDF
+   Štampanje/izvoz
+     * Preuzmi u PDF-u
      * Odštampajte
 
    Na drugim projektima
-     * Vikimedijina ostava
+     * Vikiostava
 
-   Languages
+   Jezici
    Jezičke veze se nalaze na vrhu stranice pored naslova članka. Idite na
    vrh.
    [ ]
 
 Sadržaj
 
-   (BUTTON) move to sidebar (BUTTON) hide
+   (BUTTON) pomeri na stranu (BUTTON) sakrij
      * Početak
      * 1Дефиниција
      * 2Утицај
@@ -66,12 +66,12 @@ Sadržaj
      * 4Референце
      * 5Литература
 
-   Toggle the table of contents
+   Prikaži/sakrij sadržaj
    [ ]
 
 Gik
 
-   [ ] 39 languages
+   [ ] 39 jezika
      * العربية
      * مصرى
      * Bahasa Indonesia
@@ -112,7 +112,7 @@ Gik
      * Українська
      * 中文
 
-   Izmeni veze
+   Uredi veze
 
      * Članak
      * Razgovor
@@ -284,9 +284,9 @@ Literatura[uredi | uredi izvor]
      * Kategorija na Ostavi sa lokalnim linkom istim kao na Vikipodacima
 
      * Datum i vreme poslednje izmene stranice: 12. mart 2021. u 14:14.
-     * Tekst je dostupan pod licencom Krijejtiv komons Autorstvo—Deliti
+     * Tekst je dostupan pod licencom Creative Commons Autorstvo—Deliti
        pod istim uslovima; mogući su i dodatni uslovi. Pogledajte uslove
-       korišćenja za više informacija.
+       korišćenja za detalje.
 
      * Politika privatnosti
      * O Vikipediji
