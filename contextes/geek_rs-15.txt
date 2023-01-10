@@ -2,7 +2,7 @@
 
 Gik
 
-   [ ] 39 languages
+   [ ] 39 jezika
 --
      * Istorija
 
